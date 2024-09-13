@@ -1,0 +1,634 @@
+Chapter: 3
+PROJECT APPRAISAL
+
+48 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+CHAPTER 3
+PROJECT APPRAISAL AND APPROVAL
+
+OVERVIEW OF PROJECT APPRAISAL 
+
+3.01	After submission of the project documents (PC-I and PC-II), technical sections of the Planning Commission must undertake project appraisal in collaboration with the sponsoring agency and concerned associated agencies, before submitting the project for consideration of CDWP/ECNEC for informed and prompt decision-making (At the provincial/special area level, this function is performed by the technical sections of the P&D Boards/Departments). 
+
+3.02	Appraisal of a project includes technical feasibility, commercial viability, institutional management capability, environmental sustainability, social acceptability, risk management and sensitivity analysis. Comprehensive estimates of project benefits and costs during the appraisal allow decision-makers to assess the project’s economic and financial viability. An appraisal may also cause a project to be redesigned or restructured so that it is less likely to fail. 
+  
+APPRAISAL STEPS 
+
+3.03	 An appraisal involves the following steps:
+i. A careful checking of the basic data, assumptions and methodology used in project preparation, 
+ii. An in-depth review of the work plan, cost estimates and proposed financing,
+iii. An assessment of the project’s organizational and management aspects, and finally,  
+iv. Validity of the financial, economic, and social benefits to be accrued from the project.
+ 
+3.04	Based on such an assessment, a judgment is reached as to whether the project is technically sound, financially justified, and economically viable.
+
+BEST PRACTICES AND COMMON MISTAKES IN APPRAISAL 
+
+3.05	The best practices and common mistakes made at each level are represented in the figure below:
+
+49| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Figure 18: Best Practices and Common Mistakes in an Appraisal
+
+Best Practices
+	Value for money may be ensured by conducting an analysis to evaluate projects. A development project yields value for money if it results in a net positive gain to society.
+
+Common Mistakes
+	Poor feasibility reports and a lack of authentic data may affect the quality of appraisals.
+	A project's rate of return or social benefit may not be given due importance.
+	New projects may be prioritized while focus may shift from maintenance or rehabilitation of previous projects
+	Projects are not aligned with overall sectoral and public policy objectives and have insufficient information at the time of appraisal.
+
+best practices
+	Satisfactory arrangements should be made for procurement (works, goods and services) and financial management.
+common mistakes
+	Procurement process is not aligned with the applicable procurement rules as governed by PPRA and its rules, and the Procurement of Consultancy Services Regulation, 2010.
+
+Best practices
+	All the appropriate social and environmental safeguards should be in place.
+common mistakes
+	Negative environmental effects of a project are not given due consideration.
+
+Best practices
+	The sources and magnitude of project risks should be assessed and risk mitigation frameworks should be in place. 
+common mistakes
+	No proper assessment of risks and inactivation of risk management framework may lead to cost overruns and time delays.
+
+best practices
+	Job descriptions of all project posts should be developed to execute recruitment for smooth functioning of the project.
+common mistakes
+	Vague and unclear job description of the project steering committee and project implementation unit may lead to confusion and undue interference.
+
+best practices
+	Validate and confirm the project financing arrangements. 
+common mistakes
+	Lack of clarity of financing by development partners or the private sector in the case of a jointly funded project.
+
+
+50 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+3.06	 The process of appraisal and tentative duration for each step are presented in the figure below:
+Figure 19: Steps in Appraisal Process (Breakdown of Timeline)
+1.Circulation of PC-I by PIA Section
+2.Chief of the relevant technical section will draft a working paper for the pre-CDWP meeting (in consultation with sponsors and Finance Division)
+3.Submission of working paper to CDWP 35 days
+    a. Preliminary appraisal (technical and financial) 21 days
+    b. Reply to queries of the Planning Commission by the sponsoring agency 7 days
+    c. Technical consultative meeting to sort out technical and financial issues with regards to sponsors 7 days
+4.Submission of summary to ECNEC 45 days
+
+3.07	 If required, modified PC-I/II (in the light of pre-CDWP discussion) shall be submitted by the sponsors to the technical section concerned before finalization of the working paper for consideration of the CDWP.
+
+INSTITUTIONAL RESPONSIBILITY  
+
+3.08	According to Sections 14, 15, and 16(The respective P&D Board/Department exercises this function with respect to projects in the provincial/special area ADPs.) of the PFM Act, 2019 (as amended from time to time), the Planning Commission 16 is mandated to:
+i. Ensure that all development projects are prepared in conformity with procedures, processes and templates defined by it,
+ii. Undertake the cost and benefit analysis and risk assessment of all development project proposals, above a threshold size prescribed by it, and,
+iii. Ensure quality assurance of all development project proposals, which exceed the total cost of the specified thresholds. Such quality assurance shall be undertaken by an individual/body, which is independent of the division/ ministry/ sector that has initiated the preparation of the development project proposal.
+
+3.09	 All development project proposals shall be subject to a technical approval process, which shall only be granted to projects which are compliant with the standards and procedures set by the Planning Commission. Findings and recommendations of the independent quality assurance reports, cost and benefit analysis and risk assessment (where required as per sub-section (2) section 14 of the PFM Act, 2019), shall be considered by the project approval forums while considering the development project proposals.
+
+
+51| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+ANALYTICAL ASPECTS OF PROJECT APPRAISAL 
+
+3.10	 The project appraisal requires an examination of project soundness from diverse perspectives 17(The detailed methodologies for project analysis and appraisal vary significantly from sector to sector (e.g.,infrastructure, social sectors, economic sectors etc.) and fall outside the scope of this manual.) These are represented in the figure below: Technical Analysis.
+
+Figure 20:  Analytical Aspects of Project Appraisal
+
+Technical 
+
+Economic
+
+Social
+
+Environmental
+
+Financial (including commercial for revenue generating entities)
+
+Institutional (including organization and management)
+
+
+Technical Analysis
+
+3.11	 Analysis for determining the technical viability of the development project is based on the technical data and information given in the PC-I form as well as prior experience of carrying out similar projects. The technical tests and yardsticks to be used to determine the technical viability differ from project to project and sector to sector. In cases where high-level technology is involved and the country has little or no experience, foreign consultants may be engaged to prepare the feasibility studies.
+  
+3.12	This analysis concerns the project’s input (supplies) and output (production) of real goods and services. For example, in an agricultural project, technical analysis will determine the potential yields in the project area, the co-efficient of production, potential cropping patterns, and the possibilities for multiple cropping. The technical analysis will also examine the marketing and storage facilities required for the successful operation of the project. Aspects like soil, groundwater or the collection of hydrological data may also be examined. Knowledge about farmers in the project area, their current farming practices, and their social values to ensure realistic choices about technology is also examined.	
+
+Institutional Analysis 
+
+3.13	A range of issues, addressed in project appraisal, pertain to the overlappinginstitutional, organizational, and managerial aspects of the project, which have a directbearing on project implementation and sustainability. The project proposal should respondto questions in the checklist below:	
+
+
+52 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Table 11: Project Appraisal Checklist
+
+
+3.14	Other questions may be added to the checklist above. The analysis includes an action plan to rectify the identified institutional and organizational deficiencies and proposes an appropriate management structure for the project.
+
+Social Analysis 
+
+3.15	 This analysis is a process that aims to identify social dimensions of projects, different stakeholders, and their perspectives and priorities. It considers social aspects such as involuntary resettlement, indigenous peoples, physical cultural resources, human health and safety and gender. It examines aspects like poverty reduction, income distribution and employment creation and impacts on special groups such as minorities, and less developed areas. Another aspect of a social analysis is how the project is contributing to the attainment of relevant SDGs (The Sustainable Development Goals (SDGs) are a call for action by all UN member countries to promote prosperity while protecting the planet. They recognize that ending poverty must go hand-in-hand with strategies that build economic growth and address a range of social needs including education, health, social protection, and job opportunities, while tackling climate change and environmental protection. The 17 Goals are all interconnected and aim to leave no one behind by 2030. Pakistan was the first country to adopt SDGs 2030 agenda through a unanimous resolution of parliament. The seven pillars of Vision-2025 are fully aligned with the SDGs, providing a comprehensive long-term strategy for achieving inclusive growth and sustainable development. Additional information available at:  https://www.un.org/sustainabledevelopment/sustainable-development-goals/) in national or sub-national contexts. Briefly, the objectives of a social analysis are to:
+i. Contribute to project sustainability by ensuring that it responds to the needs of the individuals, communities, and areas served and affected by it,  
+ii. Ensure project effectiveness by tailoring institutional arrangements to the local culture and values,
+iii. Make projects more inclusive by involving not only the immediate beneficiaries but a diverse community of stakeholders (especially the parties adversely affected by the project), and,  
+iv. Take into consideration the political economy of the project. Environmental Analysis
+
+
+53| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Environmental Analysis  
+
+3.16	 The environmental analysis evaluates a project’s potential environmental risks and impacts in its area of influence. The environmental analysis considers the natural environment (air, water, and land) and transboundary and global environmental aspects, with a special focus on climate change (both mitigation and adaptation aspects).  	
+ 
+3.17	The main objective of this analysis is to identify the ways and means to prevent, minimize, mitigate, or compensate for adverse environmental impacts of a project and to enhance its positive impacts. This includes consideration of project alternatives as well as measures to improve project selection, siting, planning, design, and implementation. Wherever feasible, the preventive measures are preferable to mitigatory or compensatory measures.
+ 
+3.18	 This analysis should take full cognizance of the national environmental action plans, legislation and regulations, and obligations of the country under the relevant international environmental treaties and agreements. As with the social analysis, the environmental analysis should show how the project is contributing to the SDGs. 		
+
+Financial and Commercial Analysis 
+
+3.19	This analysis involves assessment of financial impact, judgement of efficient resource use, assessment of incentives, provision of a sound financing plan, coordination of financial contribution, and assessment of the financial management competence. The main objective of this analysis is to determine the requirements of funds, timing, and the expected returns on investment as per various parties involved in the financing of the project.  
+
+3.20	 Under this analysis, judgement is framed about the project’s financial efficiency, incentives, creditworthiness, and liquidity. Costs and benefits are calculated using current market prices. Taxes in the form of excise and customs duties and sales taxes are included in the cost, while subsidies and loan receipts are considered benefits and are fully accounted for in the analysis ( In financial analysis, the discount rate (DR) is the commercial interest rate, that is, the rate at which capital is obtained (borrowed) for the  project. For government-funded projects, the DR is fixed by the Budget Wing of the Finance Division for the development loans and advances on the yearly basis. The provisional rate of mark up,fixed by the Finance Division, for the fiscal year (2017-18) was 6.54 percent. In case, the project is funded by more than one source, the financial analysis is carried out on the Weighted Average Cost of Capital (WACC) for each project. If the project is financed by a foreign grant, the financial analysis is undertaken at zero DR.).
+
+3.21 The commercial aspects of a project (especially for revenue-generating entities) include the arrangements for marketing the output produced by the project and the supply of inputs needed to build and operate the project. On the output side, careful analysis of the proposed market for the project’s production is essential to ensure that there will be an effective demand at set price. It needs to be ensured that adequate input supplies are available for the efficient operation of the project.
+
+https://www.sdgpakistan.pk/ 
+
+
+
+54 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Economic Analysis 
+
+3.22	 This analysis aims to ensure that scarce resources are allocated efficiently, and the project investment brings net benefits to the country while contributing to the welfare of its citizenry. Not only should the proposed project investment contribute to the developmental goals of the country, but also be large enough to justify the use of scarce resources such as capital, skilled labour, managerial talents, etc., which are needed to implement and operate the project. All resource inputs used by a project have an opportunity cost because, without the project, they could create value elsewhere in the economy. An economically viable (The metrics used for assessing the economic viability can be divided into two groups based on: (i) discounted cash flows: Net Present Value (NPV); Internal Rate of Return (IRR); and Benefit-Cost Ratio (BCR), and (ii) undiscounted cash flows: Pay-back Analysis; Breakeven Analysis; and Unit Cost Analysis. In cases where project benefits are largely unquantifiable, analytical techniques like Cost-Effectiveness Analysis and Multi Criteria Analysis (MCA) are used) public sector project should meet the following key requirements:
+i.That it represents the least-cost or most efficient option among all the feasible alternatives to achieve the intended project outcomes.
+ii. It generates an economic surplus above its opportunity cost (When benefit can be valued, the project it will generate a positive economic net present value (ENPV) using the minimum required economic internal rate of return (EIRR) as the discount rate, i.e., the project has an EIRR higher than the discount rate).
+iii. It will be sufficiently funded and have the necessary institutional structure for successful operation and maintenance.
+iv. There is a strong rationale for the public sector to finance the project (The public sector may also be viewed as a project investor of last resort; public sector financing may only be considered in instances of market failure, provision of public goods, and where private sector finance is not available).
+ 
+3.23	 Moreover, the project should distribute benefits and costs consistent with its intended development objectives, and that it can internalize the environmental (including climate change) impacts. In the economic analysis, input and output prices are adjusted to reflect true social or economic values. These adjusted prices are often termed as shadow or accounting prices (The term conversion factor refers to the multiplier used to convert market values to values at shadow prices for general categories of expenditure-consumption, nontraded goods, and services, and so on.). The taxes and duties are treated as transfer payments and are excluded from the capital and operating cost. The economic analysis also entails two key considerations, that is, the pricing of project inputs and outputs, and the identification of project costs and benefits.
+  
+PRICING OF PROJECT INPUTS AND OUTPUTS
+
+3.24	In the economic analysis, the valuation of inputs and outputs can be made keeping in view the following three rules:
+i.Most of the inputs in the economic analysis are valued at opportunity cost or on the principle of willingness to pay. It is assumed that all inputs to the project are diverted away from alternative uses and each input generally has value in alternative use. Every input to the project is valued at this opportunity cost that is, the value of the input in its best alternative use.
+ii. For some final goods and services, usually non-traded ones, the concept of opportunity cost is not applicable because it is a consumption value that sets the economic value. This criterion is called ‘willingness to pay’ or ‘value in use’.
+iii. The analysis is done at present, that is, constant prices. This is due to the reason that the current price analysis entails the prediction of the inflation rate, which is difficult and unreliable. (In economic analysis, the time value of money is specified as the discount rate (which is effectively the same as an interest rate or the opportunity cost of capital). The DR is defined as the rate at which the value of the numeraire (net benefits) declines over time. The real rate of discount = (1+i)/  (1+p), where ‘I’ is the nominal rate and ‘p’ is the annual average rate of increase in price and may be estimated (as first approximation) as the difference  between the public long-term borrowing rate minus the rate of inflation. In general, real discount rates range between 10-20 percent. However, 15 percent is generally thought as the minimum target for most public-sector projects, though in the case of certain long-gestation projects (water resource, forestry) a lower discount rate may be appropriate.)
+iv. Identification of project costs and benefits
+
+
+55| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+
+PRINCIPLE OF ‘WITH AND WITHOUT’ PROJECT ANALYSIS  
+
+3.25	 An important principle followed for the correct quantification of costs and benefits is the ‘with and without’ project comparison of costs and benefits. The analysis tries to identify and value costs and benefits that arise with the proposed project, and to compare them with the situation as it would be without the project. The difference is the incremental net benefits arising from the project investment. This approach is not the same when comparing the situation ‘before’ and ‘after’ the project. The ‘before and after’ comparison fails to account for changes in production over the life of the project, which will occur without the project; thus, leading to an erroneous statement of benefits attributable to the project investment. A change in output can also occur without the project if production would fall in the absence of new investment. In some cases, an investment to avoid a loss might also lead to an increase in production so that the total benefits will arise partly from the loss avoided, and partly from increased production.
+
+SHADOW PRICES
+
+3.26	 Market distortions result in market prices being different from the value of a product/service unit to the economy. A private entrepreneur does not take such deviations and market distortions into account, but the government must. Thus, the government must estimate a set of prices that reflect both opportunity costs as well as societal objectives and apply these to the projects’ inputs and outputs, i.e., costs and benefits. These prices are called shadow prices or accounting prices. In economic analysis however, the shadow prices must be used instead of the market prices used in the financial appraisal. Just as in the Financial Analysis NPV, IRR and BCR are used for economic analysis as well.
+
+NET PRESENT VALUE
+
+3.27	 Net present value (NPV) is the difference between the present value of benefits and present value of cost. NPV of a project can be calculated by discovering net cash flows at required rate of return and deducting initial investment.
+
+3.28	 When investments occur at various time intervals, they are accounted for in the cashflows as cashflows are calculated by subtracting payouts from deposits.
+ 
+3.29	 A project with positive net present value is accepted and with negative net present value is rejected. If NPV = 0, it means that there is no loss but also no benefit on investment. If NPV < 0, There is a loss on investment and the project is not feasible. If NPV > 0, There is a gain on investment and the project is feasible. A project should be chosen only if NPV is greater than 0. If a choice must be made from between competing projects, then the project with the Highest NPV must considered. These rules are also summarized below:
+
+
+56 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Figure 21: NPV Key Rules
+1.Development projects should have a positive NPV when discounted by a discount rate equal to the opportunity cost of funds.
+2.It is preferable to choose a project with the highest NPV among the various projects or scenarios of projects.
+3.If the investment is subject to a budget constraint, then the package of projects that maximizes the NPV of the fixed budget should be chosen.
+
+3.30
+
+NPV is calculated as under:
+                                               n           
+  "                                            ____         
+                                              ╲            
+                                               ╲     C⋅t   
+                                                ╲  ────────
+N⋅P⋅V = -Initial Investment +    		╱        		      		
+                                               ╱   (i + 1)^t 
+                                              ╱            
+                                              ‾‾‾‾         
+                                             t = 1         "
+	 	 	 Where,	
+	 	 	 t=time period	
+	 	 	 C=net cashflow	
+	 	 	 i= interest rate/discount rate	
+	 	 	 n=no.of periods
+
+3.31	 NPV Exercise- Scenario 1: Limited Access (Toll) Highway Project Assumptions:
+i.Discount rate = 10%,
+ii. Life of Project = 10 years
+iii. Capital Cost = Rs. 100 billion
+iv. O&M cost = Rs. 40 billion
+v. Revenue = Rs. 245 billion
+
+Table 12: NPV Exercise 1
+
+
+
+57| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+
+3.32	 NPV Exercise- Scenario 2: Limited Access (Toll) Highway Project Assumptions:
+i. Discount	rate = Increased from 10% to 15%	
+ii. Life of Project = 10 years
+iii. Capital Cost = Rs. 100 billion
+iv. O&M cost = Rs. 40 billion
+v. Revenue = Rs. 245 billion
+
+Table 13: NPV Exercise 2
+
+
+
+
+
+INTERNAL RATE OF RETURN 
+
+3.33	IRR is that discount rate which sets the NPV of a project to 0. IRR must be thus compared with the opportunity cost of funds (prevailing discount rate) to find if the project is feasible or not. If the discount rate and IRR are equal it would mean that the project is on breakeven point and the decision to implement the project would depend on other factors.
+[(CF1/(1+r)^1)+(CF2/(1+r)^2)+...+(CFn/(1+r)^n)+...]-initial investment=0
+Where,
+r = internal rate of return
+CFn = net cashflow in period n
+
+58 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+PAYBACK PERIOD 
+
+
+3.34	 A project is accepted or rejected based on years that a project requires to recover the money invested in it. Payback period is the measure of project capital recovery. As per this technique the quicker the recovery of initial investment the more desirable a project. The formula of the payback period is as follows: Payback Period = (Initial Investment)/(Net Annual Cashflow)
+
+3.35	 Further, there are two basic techniques for economic appraisal i.e., Cost Benefit Analysis (CBA) and Cost Effectiveness Analysis (CEA).
+  
+COST BENEFIT ANALYSIS 
+
+3.36	 Through Cost-Benefit Analysis (CBA), different approaches to achieving the project’s benefits are assessed and compared to determine which approach is the most beneficial.  
+
+3.37	 For different approaches, the stream of economic benefits is identified, quantified, and monetized in net present value terms. These are then compared with the respective stream of economic costs (that include the accounting cost and the opportunity cost) in net present values. The net benefit is assessed and the option with the highest net benefit is selected as the approach to the project.
+
+COST EFFECTIVENESS ANALYSIS 
+
+3.38	 Cost effectiveness analysis is an analysis of the operational efficiency of a project. It is to determine the least expensive approach to achieving a result, from two or more alternatives.
+  
+3.39	This approach is most used when it is difficult to monetize the economic benefits from a project, e.g., number of lives saved from polio vaccinations. For such projects, different approaches are evaluated by comparing the cost-effectiveness ratio: 		
+C Ratio=(Cost of an option)/(Effectiveness of the option(e.g. Number of Lives Saved)
+
+3.40	The option with the lowest CE ratio is the preferred option.  	
+ 
+BENEFIT COST RATIO CRITERION 
+
+3.41	 Also sometimes called the profitability index, the benefit-cost ratio, is the ratio of the NPV of the net cash inflows (or economic benefits) to the NPV of the net cash outflows (or economic costs):
+i. If the ratio is less the one the project is not feasible,	
+ii. If the ratio is greater than one the project is feasible
+iii. If the ratio is equal to 1, the project would breakeven.
+
+3.42	The BCR however does not take in account the scale of the project or the magnitude of the returns and may mislead the decision maker in such cases.
+ 
+RISK ASSESSMENT 
+
+3.43	 This assessment is an important part of the project appraisal process as it helps to identify the strengths, weaknesses, opportunities, and threats likely to affect project execution. The risk assessment involves understanding potential project problems and how these might impede the achievement of the project objectives. Risks can be negative and positive. The negative risks include delays in completing work as scheduled, increases in the estimated costs, supply shortages, litigation, strikes, etc. The positive risks include completing work sooner and/or cheaper than planned, collaboration to produce better products, good publicity, etc. Risk identification is the process of understanding what potential events or conditions might impede or enhance a particular project. This is an ongoing process throughout the project lifecycle as things progress and change. The unidentified risks cannot be managed; therefore, risk identification is of paramount importance.
+
+Risk Management Planning  
+
+3.44	 This planning involves the following elements:	
+i. Methodology: How will risk management be applied to the project? What tools and data sources are available and applicable?
+ii. Roles and responsibilities: Who are the individuals responsible for implementing specific tasks and providing deliverables related to risk management?
+iii. Budget and schedule: What are the estimated costs and schedules for performing risk related activities?
+iv. Risk categories: What are the main categories of risks to be addressed by the project? Has a project risk register been prepared?
+v. Risk probability and impact: How will the probabilities and impacts of risk items be assessed? What scoring and interpretation methods will be used for the qualitative and quantitative analysis of risks?
+vi. Risk documentation: Which reporting formats and processes will be used for risk management activities?
+
+
+60 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Limitations of Project Appraisal 
+
+3.45	The shortcomings in project appraisal can adversely affect the investment decisionmaking process. Some of these limitations are:
+i. Quality of analysis depends on the quality of data and forecasts made about costs and benefits. Over-estimation of benefits and underestimation of cost are quite common to get the project approved.
+ii. Conventional project economic analysis is best used where benefits or major parts thereof are measurable and can be quantified. In cases where project benefits (for example, health, education, rural development, social protection, etc.) and externalities (for example job creation, skill development, technology transfer, pollution etc.) cannot be quantified, the cost-benefit analysis may not be applicable. In such cases, the Multi-Criteria Analysis or Cost-Effectiveness Analysis may be used for the justification of a project.  
+iii. Due to uncertainty about the future, it may not be possible to quantify the project risks. The sensitivity analysis is one way to examine the strengths of a project against potential risks.
+iv. There are other ways for resource allocation, which are equally important and effective, such as price policies, tariff policies, exchange rate policy, and interest rate policy. These may be used to aid decision-making in project selection. Project Approval Overview
+
+3.46	The project approval follows the satisfactory completion of the project preparation and appraisal processes and marks the completion of the second stage of its lifecycle.
+
+APPROVAL PROCESS REQUIREMENTS  
+
+3.47	Each sponsoring agency is required to submit digitally prepared PC-I or PC-II – duly signed by the PAO or provincial chairmen of the P&D boards or additional chief secretaries (Development) – to the Planning Commission for circulation to the members of the CDWP for examination and review. As soon as the PC-I or PC-II is received by a member of the CDWP, PDWP or DDWP, its examination is conducted as per guidelines of the ECNEC, approved in its meeting of the 24th April 2000 (Planning Commission, ‘Guidelines/Procedures for Preparation and Approval of Development Projects’, Notification F.No.20(1) PIA/PC/2013, Islamabad, dated 10 December 2013) (Annexure 9). The ECNEC guidelines provide for a six-week time limit for scrutiny of projects in the Planning Commission and submission to the CDWP. This duration has been reviewed and further reduced to 5 weeks in the light of ECNEC recommendation dated 1st October, 2020 with following breakup:  		
+i.Three weeks for the preliminary appraisal,  
+ii. One weeks for replies to the queries to the Planning Commission by the sponsoring agency, and
+iii. One week for holding a pre-CDWP meeting to resolve outstanding issues with
+the sponsoring agency.
+
+
+61| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+3.48	 The Planning Commission, on the directions of the ECNEC, as per its notification of 2013, has informed that it would consider the inclusion of a project in the agenda, which is of urgent nature provided that the PC-I has been received at least two weeks before the CDWP meeting.	
+ 
+3.49	The Planning Commission must ensure that the PC-I has been prepared correctly and according to the prescribed procedure. In case, the PC-I is found deficient, it is returned to the sponsors by the Planning Commission. If considered necessary, the Division may make a consolidated inquiry from the sponsors concerning deficiencies in the proforma and seek clarification or additional information in the pre-CDWP meeting.
+  
+APPROVAL OF PROJECTS 
+
+3.50	All development project proposals are subject to a technical approval process. The PC-Is’ of all development projects shall be approved by the respective competent forum and will be termed as Technical Approval. This approval is only granted to projects found compliant to the standards and procedures of the Planning Commission. In pursuance of Section 16 (1) of PFM Act, 2019, Technical Approval (TA) shall be granted by the relevant fora i.e. DDWP, PDWP, Special Areas DWP, CDWP and ECNEC for implementation/execution of projects based on detailed design/estimates. The minutes of the meeting will be the TA followed by issuance of Authorization and Administrative Approval. The standards and procedures for TA shall be as under:
+i. Project objectives aligned with country’s development strategy/ plan/ sector strategy.
+ii. Project addresses the sectoral issues properly.
+iii. Need assessment carried out and incorporated in project document.
+iv. Project activities fall under the category of development in nature.  
+v. Activities	are	aligned	with	project	objectives.		
+vi. Options through PPP mode to finance/execute the project explored and preferred. 
+vii. Cost estimates prepared on the basis of feasibility study and quality of feasibility study endorsed by the sponsoring agency and verified by a 3rd party.
+viii. Unit cost of project components provided, and cost estimates are competitive with prevailing markets rates/ departmental approved rates.  
+ix.No duplication / overlapping of project activities with other ongoing project (s) activities of the sector.
+x.Stakeholders’ consultation on the project carried out and input incorporated.
+xi.Lesson learnt from previous sectoral interventions incorporated.
+xii.Technical viability and efficacy endorsed and confirmed.
+xiii. Specific, measurable, attainable and time bound KPIs provided.  
+xiv. Economic, financial, social and employment cost/benefits provided in project document and aligned with objectives.
+xv.Sustainability mechanism after completion provided in PC-I.
+xvi. Project assets management and procurement plan provided.
+xvii. Project management and governance structure and responsibility chart provided in PC-I.
+xviii. Financial and other risks mitigation measures covered in PC-I.
+xix. Environmental risks mitigation measures covered in plan strategy.
+xx.Activities chart/ implementation plan along with Financial Plan provided in PC-I.
+xxi. Project employee’s salary package conversant with Finance Division approved pay package or otherwise.
+xxii. Specification of equipment along with cost estimates and TORs of consultants/ consulting firms provided.
+xxiii. Supply-demand analysis for inputs and outputs of projects incorporated.
+xxiv. Yearly financing demand of PC-I and availability of financing requirements by the Planning Commission and Finance Division.
+
+62 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+		
+ 
+3.51	In accordance with of Section 17 (1) of PFM Act, 2019, no development project shall be considered for inclusion in demands for grants that has not been granted TA (technical approval). TA shall be attached with the request for inclusion of project in the PSDP/ADP. Further, in accordance with Section 17 (2) of PFM Act, 2019, no development project shall be considered for inclusion in demands for grants unless it is provided with a budget allocation for all coming years which fully reflects the proposed project cost for each year of project life. Such yearly allocations will be protected every year. Each Ministry/Division will ensure appropriate provision for budget allocation for first year and for subsequent years as per approved phasing of PC-Is. New project will be proposed only if the indicative budget ceiling (IBC) permits cushion after providing budget allocation, minimum as per approved annual phasing, for ongoing projects. The draft PSDP proposal for each portfolio will be presented to CDWP before APCC in last quarter, for appropriate decision if IBC is insufficient to provide required allocation to all ongoing projects or to accommodate new projects to be selected/funded from portfolio / competing new Technically approved projects’ list.
+
+PROCEDURE FOR MEETINGS OF VARIOUS FORUMS
+
+3.52	The Planning Commission is the Secretariat of the CDWP, which normally meets fortnightly or as and when required. The ECNEC, however, generally meets once every six weeks or as and when required. The agencies represented on the CDWP are require to circulate their comments to each other well before the CDWP meeting so that the discussions are informed, and schemes are cleared expeditiously. The ECNEC, in its meeting held on the 1st of October 2020, approved that the Planning Commission will define and enforce specific timelines for each stage of the PC-I processing and approval. The Commission and P&DDs will maintain an updated list of received PC-Is on their websites.
+
+3.53	The minutes of the CDWP meeting are recorded by the relevant technical section of the Planning Commission. After approval by the chair, minutes are circulated to all concerned including the sponsoring agency. The agencies, represented on the CDWP, are expected to take the action required of them without waiting for the minutes. The decisions of the ECNEC, in respect of the public sector development projects, are unclassified unless especially made classified by the Cabinet Division.
+
+63| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+GENERAL INSTRUCTIONS/GUIDELINES FOR PROCESSING AND APPROVAL OF PC-I 
+
+3.54	The following are the general instructions and guidelines for the submission and processing of the PC-I (i-xxvi from pg.63-65):
+
+i.If any project could not be placed on the agenda of the CDWP in six months, the PC-I/II will be reviewed by the technical section for updated cost and scope. No approval ‘in principle or conditional’ would be made to avoid delay in implementation.
+
+ii.If the project does not start functioning within 12 months of its approval or does not achieve financial close, then it will be reconsidered by the approving forum.
+
+iii.To avoid frequent revisions, no proposal for revision in cost or scope will be brought within two years of approval/execution of a project. Same will apply for every subsequent maximum three revisions. Strong justification would be needed, otherwise.
+
+iv.Changes in the scope of work and cost beyond 15 percent of the original approved PC-I/PC-II will require revise approval by the competent forum.  
+
+v.As noticed by M/o PD&SI on the 7th of October 2021, no case of ex-post facto approval will be processed for consideration of any forum.
+
+vi.A summary of the approved cost would be part of the authorization letter and administrative approval. A copy of the approved and signed PC-I/II, along with a copy of administrative approval, will also be sent to the AGPR and Auditor General for record and reference.
+
+vii. After approval of the project from the CDWP or ECNEC, the concerned technical section of the Planning Commission will provide a copy of the approved PC-I (in soft form) to the PIA Section of the Planning Commission for its record. Issuance of authorization and placement will be done on the PC website through the Jawwad Azfar Computer Centre (JACC).
+
+viii.A project, in parts or phases, will not be accepted. After completion of a project and submission of completion report on the PC-IV, a fresh PC-I for any new project would be submitted and processed based on evaluation and lessons learnt.
+
+ix. A summary for the ECNEC will be prepared by the concerned technical section of the Planning Commission within two weeks after a recommendation by the CDWP.
+
+x.Steering Committee, under any project, will not be authorized to approve subprojects or alter the scope of the project. For such changes, approval of a competent forum would be required.
+
+xi.While approving projects the respective forum should also investigate the yearly financial phasing and if necessary, seek assurance by the sponsors.
+
+xii.While approving projects, the relevant forum should also investigate the implementation capacity of the organization and seek assurance by the sponsors, if necessary.
+
+xiii. Projects to meet operational/recurring expenses will not be approved by the development fora.
+
+xiv. The administration will not be allowed cars in development projects. Only limited operational vehicles, according to the nature of the project, would be considered for approval while considering the existing resources.
+
+xv.The concerned member of the Planning Commission will ensure that the scheme has been prepared on sound lines and the necessary economic, financial, and technical scrutiny has been carried out. It also must be ensured that all the information required in the proforma has been furnished, and the relevant documents, such as project reports, maps, and plans, have been made available.
+
+xvi. Previously, the appointment of an independent PD was decided by the ECNEC on the 6th of May 2011 for ECNEC approved projects only. Now all development projects may initiate the appointment of independent and full-time PD by the sponsors in this regard planning commission will issue separate procedure.
+
+xvii. The representation of other federal ministries in the CDWP (not below the Additional Secretary level) is required to ensure that the officers can represent their respective ministry/division well for the schemes under consideration.  
+
+xviii. Meetings of the CDWP should ordinarily be held frequently, in accordance with the agenda, to be circulated by the Planning Commission in advance.  
+
+xix. The time taken in the examination of a scheme by an agency should not exceed two weeks. Where an undue delay in examination occurs on the part of any agency, the concerned technical section of the Planning Commission may submit the working paper within five weeks indicating the position.
+
+xx.It was noticed by the ECNEC on the 24th of April 2000 that sponsoring agencies submit the PC-I at the eleventh hour and by showing some urgency, they put pressure on the Planning Commission to include the project on the agenda of the CDWP. Resultantly, proper examination could not be done. It was, therefore, directed that no project will be included in the agenda if not received at least five weeks before the CDWP meeting.
+
+xxi. Minutes of each meeting should be recorded by the concerned technical section of the Planning Commission/Planning Commission and after approval of the chair, circulated to all concerned. The agencies represented at the meeting should, however, be expected to take the action required without waiting for the minutes.
+
+xxii. Effort should be made to clear a scheme at one meeting. Where this is not possible, the scheme should be considered at the successive meetings until it is disposed of. Steps for approval of projects from the DDWP/CDWP/ECNEC are explained and given in Annexure 10 to 12.
+
+xxiii. After the recommendation of a scheme by the CDWP, the agency (ies) concerned should initiate compliance (if required) and submit a report within a week so that the technical section may prepare and submit a summary for the ECNEC consideration.  
+
+xxiv. The time taken for the submission of a summary for the ECNEC should not exceed two weeks. Where an undue delay in compliance occurs on the part of the agency, the concerned technical section may submit the scheme to the forum indicating the position.
+
+xxv. Authorization of the project should be issued within three working days of issuance of the approved minutes.
+
+xxvi. For the social sector, only those projects may be considered for approval which help in achieving plan objectives and SDGs.
+
+65| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+ 
+Pre-CDWP Meeting 
+
+3.55 To avoid lengthy discussion on the detailed comments of various agencies represented in the CDWP, the pre-CDWP meetings are held to resolve the outstanding issues in the federal schemes under the respective member or senior chief or chief of the Planning Commission. Representation from the sponsors below a Grade-20 Officer or equivalent is normally not accepted (Planning Commission, ‘Holding of Pre-CDWP Meeting in Planning Commission’, No.24(4) PIA-I/PC/2016 Islamabad, the 28 June 2016.).
+
+Anticipatory Approval 
+
+3.56	 The Chairman ECNEC has powers to allow execution of a scheme in anticipation of its formal approval by the ECNEC. The request for anticipatory approval has to be submitted to the Cabinet Division for consideration by the Chairman ECNEC on the respective prescribed proforma for new and ongoing projects (Cabinet Division, ‘Procedure/Instructions with Regard to Grant of Anticipatory Approval by The Chairman, ECNEC’, Cab Div U.O.No.6/5/2010-Com, Islamabad, dated 28 July 2010.) (Annexure 13). The request for an anticipatory approval should be signed by the secretary of the division concerned in the case of the federal schemes, and by the chairman P&D board or ACS (Development) in case of the provincial schemes.
+
+3.57	 The Chairman ECNEC may dispose of any anticipatory approval case or scheme at his discretion pending the formal submission of a summary to the Committee, provided that in such cases, the scheme will be processed through normal channels and submitted to the ECNEC after completing all the formalities within six months with the further provision that the total period of the anticipatory approval should not exceed 12 months.
+
+3.58	 he anticipatory approval and sanction for incurring expenditure shall in no case be allowed beyond the end of each fiscal year, that is, 30th June.
+
+3.59	 On the expiry of the date for which anticipatory approval has been granted, the case will have to be processed afresh in the same manner if a further extension for the anticipatory approval is required.
+
+3.60	It may be noted that the grant of anticipatory approval falls in the category of ‘extraordinary jurisdiction’, and this power cannot be redelegated for reasons of uniformity of treatment, and to maintain financial discipline and control.
+
+
+66 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+3.61	 All cases of the anticipatory approval, irrespective of the cost involved, must be submitted only to the Chairman ECNEC for approval.	
+
+ADMINISTRATIVE APPROVAL AND ACCOUNT OPENING 
+
+3.62	Administrative approval and account opening takes place as follows:
+
+Figure 22: Administrative Approval and Account Opening Process 28
+
+01.PROJECT APPROVAL
+The project is approved by CDWP or other relevant forum.
+
+02.Minutes Preparation
+The relevant section of the Planning Commission prepares minutes of the meeting within three days of approval in which the decision to approve the project is taken, and sends them to the Public Investment Authorization (PIA) section.
+
+03.Approval of Minutes by Chairman of the APproving Forum
+PIA Section obtains approval from the Chairman CDWP or relevant approving forum within five days of receiving minutes.
+
+04.Issuance of Authorization by PIA Section
+If approval is given, the PIA Section along with project cost breakup and relevant implementation details, issues authorization within two days to sponsoring agency. *If a project is approved by the DDWP the authorization is issued by the Drawing and Disbursing Officer (DDO) of the relevant ministry.
+
+05.Administrative Approval by Principal Accounting Officer POA
+The sponsoring agency must get administrative approval* from the PAO within one week of authorization. The PAO also decides if the financial management of the project will be done through AGPR or a separate assignment account. 
+
+06.Assignment Account
+The procedure for opening an assignment account is given in Asaan Assignment Account Procedure (Local Currency), 2020 document (The procedure for opening an assignment account is given in Asaan Assignment Account Procedure (Local Currency), 2020 document accessible here: https://www.finance.gov.pk/budget/Asaan_Account_Local_Currency_2020.pdf)
+
+*The administrative approval is a general sanction of the scheme in which the total cost, foreign exchange component, and any other conditions imposed by the approving body are incorporated. This sanction is distinct from the sanction for incurring expenditure on the scheme, which is to be issued on yearly basis subject to the budget provision. 
+
+CONCEPT CLEARANCE OF FOREIGN-ASSISTED PROJECTS BEFORE LOAN/AID NEGOTIATIONS  
+
+3.63	In many cases, proposals for seeking foreign assistance are sent by the sponsoring agencies for approval of the Concept Clearance Committee (CCC) without sufficient detail and proper examination. After careful review of the concept clearance procedure, the following guidelines were framed (Planning Commission, ‘Concept Clearance Proposals – Policy Guidelines’ Notification No.23(1) PIA-I/PC/2018 dated 4 April 2018) (Annexure 15):
+
+
+67| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Figure 23: Guidelines for Proposals Seeking Foreign Assistance
+
+SUBMISSION OF PCI/PCII TO CDWP
+No aid agreement will be finalized and signed till the PC-I/PC-II has been approved by the CDWP or at least anticipatory approval of the competent authority has been obtained concerning scope and cost. The concept clearance can be allowed in case of urgency for exploring donor financing for specific projects, but a memorandum of understanding cannot be signed by the EAD before approval of the PCI/PC-II.
+
+CRITERIA FOR PROJECT CONCEPT CLEARENCE
+Only those projects should be considered for concept clearance where a strong indication is available from the multilateral agencies or donors for making necessary funding available, and a formal request for donor financing cannot wait for the preparation of the PC-I/PC-II.
+
+We have noticed instances where executing agencies negotiate and finalize foreign aid (loans and grants) much beyond the scope and size allowed under the concept clearance. In case the loan/grants negotiated are finalized over and above the size and scope of concept clearance, the proposal should be resubmitted for approval by the competent authority. It should be ensured that the PC-I/PC-II is submitted within three months of the approval of the concept clearance*. Furthermore, the clearance proposal of only those projects should be processed which fall under the economic framework, that is, Five-Year Plan or Annual Plans, and there is urgency due to limited time for the PC-I/PC-II preparation or approval.
+
+BASIC INFORMATION REQUIREMENTS
+The proposals should be accompanied by adequate information regarding the basic concept of the project, cost details and breakdown with the departmental feasibility, if the cost of the project is Rs10 million and above.
+
+PREFERENCE FOR LOCAL RESOURCES VIS-A-VIS FRESH IMPORTS
+Donor assistance should not be sought for the purchase of vehicles, air conditioners, and other consumer durable goods produced in the country. Similarly, projects should not be sponsored for outright import of road-making or earthmoving machinery and drilling rigs, etc., by the government departments or agencies without a project design fully justifying the additional acquisition after taking into account inventory of the existing machinery of all public sector departments or agencies. Efforts should always be made for pooling available resources rather than resorting to fresh imports under new projects.
+
+ALTERATION IN INITIAL PROJECT DESIGN
+Following the concept clearance of the project, if the project design is altered by donor agencies at any subsequent stage, the Planning Commission should be consulted, and clearance obtained by the executing agency before proceeding ahead with negotiation.
+
+MATCHING LOCAL CURRENCY
+It should be ensured that the matching local currency funds would be available in the PSDP and ADP to absorb the aid being sought.
+
+*Planning Commission, ‘Concept Clearance Proposals – Policy Guidelines’ Notification No.23(1)PIA-I/PC/2018 dated 4 April 2018.
+
+
+
+68 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+3.64	 The ECNEC, in its meeting of the 1st of October 2020, approved that the concept clearance of priority projects provided by the Planning Commission will be an authorization for obtaining donor commitment and preparation of project documentation in consultation with donors, and an indication of its subsequent approval by the competent forums, subject to fulfilling required technical and financial conditions.
+  
+Procedure for Approval of Programme Loans and Budget Support Financing
+
+3.65	 The government of Pakistan receives foreign assistance from multilateral sources (World Bank and Asian Development Bank) and bilateral sources in two forms, that is, project financing through bilateral and multilateral sources and programme loans only from multilateral sources. In case of project financing, the PC-I is approved by the relevant competent forum and development funds are made available to finance these projects through the PSDP or ADP (in case of the provincial projects). The programme loans fall outside the PC-I purview as the financial assistance provided is for budgetary and balance of payment support.
+ 
+3.66	The International Financial Institutions (IFIs), especially the World Bank (WB), has introduced hybrid financing instruments, which combine elements of both a project and a programme. These new financial instruments of the WB, include Programme for Results (PforR), Development Policy Credits (DPCs) and Financial Intermediation Programmes (FIPs). These instruments are designed mainly to target policy and institutional reforms, while a part of financing also goes for technical assistance. These instruments mainly contain performance indicators, which are based on disbursements for budgetary support, while only a small portion is allocated for expenditure on base-activities. It was noted that if the requirement of the PC-I were applied to PforR, FIPs and DPCs, disbursement of critically needed funds from the IFIs would be significantly delayed.
+
+3.67	To address the above issue, the NEC approved the following guidelines 30 (Annexure 14):	
+
+Table 14: NEC Approved Guidelines for Foreign Projects
+
+
+
+69| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+
+FINANCIAL MANAGEMENT 
+
+PSDP Funds 
+
+3.68	 The PSDP is funded through the annual budget. It includes specific allocations for the projects and programmes included in the PSDP, inclusive of government funds, foreign loans and grants, and any other sources as approved by the government. The operational framework and procedures for authorization and management of the PSDP funds are described in the following sections.
+  
+AUTHORIZATION OF PSDP FUNDS (Regarding the provincially executed projects, the Ministry of Finance will continue to release funds as per the existing rules.)
+
+3.69	 The Planning Commission has been entrusted with the responsibility to authorize the release of development funds to the PSDP-funded projects. For this purpose, comprehensive guidelines are prepared in consultation with all the stakeholders, ministries, divisions, including the Finance Division, Accountant General Pakistan Revenue (AGPR), the provincial and special area governments. These guidelines are regularly updated and issued from time to time by the Finance Division (Finance Division, ‘Revised Release Mechanism for Funds Allocated for The Public Sector Development Programme (PSDP) 2019-20’,  Islamabad, dated 17 September 2019.) (Annexure 16). The Planning Commission authorizes the release of development funds per release strategy issued by the Finance Division at the start of every fiscal year.
+  
+FINANCING MECHANISM 
+
+3.70	The financing mechanism is as follows(1-xv pg.69-71):
+i.The release of funds is made according to funds release strategy of the Finance Division.
+
+ii.The federal government may not commit financing of the social sector and agriculture-related provincial projects as those are the constitutional responsibility of provinces after the 18th Constitutional amendment.
+
+iii. Throw-forward of PSDP should ideally not exceed threefold of the current PSDP.  
+
+iv.Commercial oriented/industry related projects in the public sector should be considered on the PPP/PSDP+/private investment mode. For this purpose, the feasibility studies for the commercially oriented projects, above a certain threshold, should include PPP Option Analysis, PPP Risk Assessment and PPP Value for Money Analysis. The feasibilities should also feature themselves as ‘bankable’ feasibility studies.  
+
+v.Financing of all projects, which have commercial orientation, should be kept outside the PSDP for private sector intervention.
+
+vi.No block allocation, except for the special areas (AJ&K and GB) may be kept under the demand of any ministry.
+
+vii.No token allocation to any project should be allowed in the PSDP as it increases the overall throw-forward.
+
+viii.The financial phasing (2 years for DDWP, 5 years for CDWP and 7 years for ECNEC maximum) will be considered during the approval of projects.
+
+ix.Project-wise and sector-wise throw forward will be reviewed during the quarterly review of the PSDP.
+
+x.Rules for disbursement of foreign loans/grants are to be framed in consultation with the EAD and Finance Division.
+
+xi.Information will be provided on the PSDP proforma by the federal ministries/ divisions and provincial governments for allocation of funds.
+
+xii.The strategy and procedure for the release of the PSDP funds are notified by the Finance Division and the Planning Commission on yearly basis with a prime focus on ensuring timely availability of funds and optimum utilization of the allocated amount.
+
+xiii. The Planning Commission, in coordination with the Finance Division, has curtailed unnecessary steps and requirements involved in release to spur the flow of funds to the project authorities to avoid cost and time overrun of the project.
+
+xiv. The Finance Division issues release strategy for development funds at the start of every fiscal year. Any relaxation to the release strategy shall be considered by the Budget Wing, Finance Division on the recommendations of the Planning Commission.
+•The Planning Commission shall devise a project-wise/division-wise strategy for the release of funds for the PSDP within the appropriations approved by the National Assembly and included in the Schedule of Authorized Expenditure in terms of Article 83 of the Constitution.
+•There shall be no requirement of ways and means clearance from the Budget Wing, and endorsement of sanction letters by the Expenditure Wing, Finance Division for the fund releases for the PSDP approved projects.
+
+xv.For every line ministry, the budget set forth in the PSDP is determined by the project details and the funds are allocated accordingly. These funds are released by the Planning Commission in the form of quarterly releases. The AGPR’s SAP system is updated with the details of transfer. The PAO then decides on the release of funds for each project.
+
+xv. For	every line ministry, the budget set forth in the PSDP is determined by the project details	and the	funds are allocated accordingly. These funds are released by the Planning Commission in the form of quarterly releases. The AGPR’s SAP system is updated with the	 details of transfer. The PAO then decides on the release of funds for each project. 
+
+3.71	 The funds release procedure has been further simplified and streamlined during FY2020-21. Its main features are shown in the figure below:
+
+Figure 24: Funds Release Procedure
+With the approval of the ECNEC, the release procedure has been further simplified and streamlined during FY2020-21. The process is outlined as follows:
+1) OverallResource
+Availability At the beginning of each quarter of a fiscal year, Finance Division and PD&SI Division together agree on overall resource availability for the PSDP and ADPs.
+2) Approval of funds to various ministries 
+Both Divisions may also agree on the subsequent release of funds to various ministries during the quarter. The PD&SI Division and Finance Division will quarterly review the utilization of funds by ministries. 
+3) Release of funds to various ministries
+PD&SI Division will issue the necessary authorization for the release of funds to the respective ministries. The division will also record in the SAP System PD&SI Division will issue the necessary authorization for the release of funds to the respective ministries. The division will also record in the SAP System
+4) Release of funds for approved projects
+The respective ministries with the approval of the PAO will release funds for approved projects within seven days under intimation to the Finance Division and PD&SI Division. The Project Director will ensure that the releases are fed in the AGPR system.
+
+
+72 | CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+Figure 25: Funds Release for Federally Sponsored Provincial Projects, and Financing of NHA Projects
+
+"Funds Release for Provincial Projects Sponsored by Federal Government
+
+Federal Line Ministry
+Projects approved through the federal line ministry get their quarterly releases from the Planning Commission. The PC releases funds to the line ministry. The provincial departments then access the funds through the respective Planning and Development department.
+
+Special Package
+Provincial Projects are sometimes part of a special package. Under Asaan Assignment Procedure 2020, the release of funds for these projects are required to be directly transferred in assignment account of respective provincial executing department by Federal Ministries/Divisions concerned.
+
+Projects by NHA and Other Agencies Financed Through Cash Development Loan
+Sometimes the NHA and other federal government departments and agencies fund projects under cash development loan. These are reflected under the Finance Division demand "Development Loans and Advances". When these projects are approved, the funds releases are done by the Finance Division.
+"
+3.72 In line with the above-noted release strategy and procedure for FY 2020-21, the Planning Commission is authorizing upfront development funds to undertake development expenditure within permissible quarterly limits of rupee allocation of ministry/division/ agency concerned.
+
+3.73 The Planning Commission, in consultation with the Finance Division, have empowered respective ministries/divisions/agencies to issue release sanction as per the requirement of the project(s) while remaining within the overall quarterly rupee allocation ceiling of the respective ministries/divisions/agencies. In case any ministries/divisions/ agencies require more than permissible quarterly funds for any development project, the additional amount is being recommended for authorization in consultation with the Finance Division. The ministries/divisions will not release additional funds to any project over and above the allocated amount in the PSDP through internal adjustment. All re-appropriations will be referred to the Planning Commission as per procedures.
+
+
+73| CHAPTER 3: PROJECT APPRAISAL AND APPROVAL
+
+3.74 All ministries/divisions will be responsible for updating the Project Monitoring and Evaluation System (PMES) of each project by the 10th of the following month.
+
+3.75 The PAO will ensure before issuing sanction letters for the release of funds to development projects that all codel formalities/pre-requisites should have been completed and adhere to the requirements of para 89 of GFR and para 13, VII of System of Financial Control and Budgeting 2006.
+
+3.76 The obligation of authorizing the release of funds by the Planning Commission is only to the extent of the rupee component of the PSDP. The foreign exchange component is directly disbursed to the recipient projects and programmes by the respective development partners. The Economic Affairs Division (EAD) compiles this data. The Planning Commission regularly updates the foreign assistance disbursement status in accordance with the data issued by the EAD. To maintain transparency and provide user-friendly information for researchers, academia and the public, release data in respect of each project is uploaded weekly on the official website of the Planning Commission, http://www.pc.gov.pk
+
+3.77 The provinces get their share of resources as per the NFC Award and after the 18th Amendment in the Constitution of Pakistan they are required to execute projects in the social sectors. As a result, the special packages by the federal government are generally announced in rare circumstances. Projects less than Rs. 2 billion, even if they are special packages, should be approved by the DDWP under the line ministry. CDWP only deals with projects more than Rs. 2 billion.	
+ 
+PSDP REVIEW MEETINGS 
+
+3.78 At the end of each quarter of the ongoing fiscal year, a progress review meeting of the PSDP is held. In the review meetings, the implementation status of the previous review meetings is reviewed along with the previous quarter physical and financial progress. For each ministry or executing agency, project-wise progress is analyzed. The necessary adjustments in the allocation of funds are allowed according to the pace of work and utilization where necessary with a view to steer the projects towards optimal and efficient utilization of the development funds. The project authorities are required to implement the decision of the review meetings in letter and spirit.  
+	
+
+

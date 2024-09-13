@@ -1,0 +1,147 @@
+
+ACRONYMS
+
+ACS    Additional Chief Secretary 
+ADPs    Annual Development Programmes 
+AGPR   Accountant General Pakistan Revenue 
+AJ&K   Azad Jammu & Kashmir 
+AJKCDC  Azad Jammu and Kashmir Central Development Committee 
+AJKDWP  Azad Jammu and Kashmir Development Working Party 
+AP   Appraisal Paper 
+APCC   Annual Plan Coordination Committee 
+AS   Additional Secretary 
+B&R   Buildings & Roads 
+BCR or B/C Ratio Benefit-Cost Ratio 
+BoQs   Bill of Quantities 
+C&W    Communication & Works 
+CCC   Concept Clearance Committee 
+CCI   Council of Common Interest 
+CDA   Capital Development Authority 
+CDM   Clean Development Mechanism  
+CDWP   Central Development Working Party 
+CF&AO  Chief Finance and Accounts Officer 
+CGA   Controller General of Accounts 
+CPEC   China-Pakistan Economic Corridor 
+CPM   Critical Path Method 
+CSR   Composite Schedule of Rates 
+DC   Deputy Commissioner  
+DC PC   Deputy Chairman Planning Commission 
+DDBs   Divisional Development Boards 
+DDC   District Development Committees  
+DDSC   Departmental Development Sub-Committee 
+DDWP   Departmental Development Working Party 
+DDWP   Divisional Development Working Party 
+DOs   District Officers 
+DPCs   Development Policy Credits 
+DRRA   Directorate of Revenue Receipt Audit 
+DWP   Development Working Party 
+EAD   Economic Affairs Division 
+ECA   External Capital Assistance 
+ECC   Economic Coordination Committee 
+ECNEC  Executive Committee of the National Economic Council 
+EDOs   Executive District Officers 
+EIRR   Economic Internal Rate of Return 
+EPA   Environment Protection Agency 
+FBR   Federal Bureau of Revenue 
+FEC   Federal Executive Council 
+FEC   Foreign Exchange Component 
+FIDIC   Fédération Internationale des Ingénieurs Conseils 
+FIPs   Financial Intermediation Programmes 
+FIRR   Financial Internal Rate of Return 
+FY   Fiscal Year 
+GB   Gilgit-Baltistan 
+GBDDWP  Gilgit-Baltistan Departmental Development Working Party 
+GBDWP  Gilgit-Baltistan Development Working Party 
+GFR   General Financial Rules 
+GIS    Geographic Information System 
+HEC   Higher Education Commission 
+HR   Human Resource 
+I&M   Implementation and Monitoring 
+IBC   Indicative Budget Ceiling 
+ICT   Information and Communications Technology 
+IFIs   International Financial Institutions 
+IRR   Internal Rate of Return 
+IRSA   Indus River System Authority 
+IT   Information Technology 
+JACC   Jawwad Azfar Computer Centre 
+JS   Joint Secretary 
+KP   Khyber Pakhtunkhwa 
+LFA   Logic Framework Analysis 
+M&E   Monitoring & Evaluation  
+MDGs   Millennium Development Goals 
+MIS   Management Information System 
+MP-III   Management Position III 
+MTDF   Medium-Term Development Framework 
+NA   National Assembly  
+NDMA   National Disaster Management Authority 
+NEC   National Economic Council 
+NESPAK  National Engineering Services Pakistan 
+NGOs   Non-Governmental Organizations 
+NHA   National Highway Authority 
+NOC   No Objection Certificate 
+NPV   Net Present Value 
+O&M   Operations and Management   
+P&D   Planning & Development 
+P&DD   Planning & Development Departments 
+PAD   Project Appraisal Document 
+PAEC   Pakistan Atomic Energy Commission 
+PAO   Principal Accounting Officer 
+PC   Planning Commission 
+PCATP  Pakistan Council of Architecture and Town Planning 
+PC-I   Planning Commission Proforma I 
+PC-II   Planning Commission Proforma II 
+PC-III   Planning Commission Proforma III 
+PC-IV   Planning Commission Proforma IV 
+PCN   Project Concept Note 
+PC-V   Planning Commission Proforma V 
+PD   Project Director 
+PD&SI   Planning, Development & Special Initiatives 
+PDWP   Provincial Development Working Party(ies) 
+PEC   Pakistan Engineering Council 
+PERT   Project Evaluation and Review Techniques 
+PFM   Public Finance Management  
+PforR   Programme for Results 
+PIA   Public Investment Authorization 
+PIDE   Pakistan Institute of Development Economics 
+PIP   Public Investment Programming 
+PKR   Pakistani Rupee 
+PLC   Project Life Cycle 
+PM   Prime Minister 
+PMES   Project Monitoring and Evaluation System  
+PMU   Project Management Unit 
+PNRA   Pakistan Nuclear Regulatory Authority 
+PP&DB  Punjab Planning and Development Board 
+PP&H   Physical Planning and Housing 
+PPB   Planning Programming and Budgeting 
+PPMI   Pakistan Planning and Management Institute 
+PPP   Public Private Partnerships 
+P3A   Public-Private Partnership Authority 
+P3WP   Public-Private Partnership Working Party 
+PPRA   Public Procurement Regulatory Authority 
+PRBs   Programme Requirements Baseline  
+PSC   Project Steering Committee 
+PSDP   Public Sector Development Programme 
+PSDP+  Private Sector Development Programme Plus 
+PWD   Pakistan Public Works Department 
+R&D   Research & Development 
+RBM   Results Based Management 
+S&GAD  Services and General Administration Department 
+SAP   Systems Applications and Products 
+SBP   State Bank of Pakistan 
+SDGs   Sustainable Development Goals 
+SP&DB  Sindh Planning and Development Board 
+SROs   Statutory Regulatory Orders 
+SRR   Schedule of Revised Rates 
+SSUs   Shared Services Units 
+SUPARCO  Pakistan Space & Upper Atmosphere Research Commission 
+TA   Technical Assistance 
+TORs   Terms of Reference 
+UN   United Nations 
+UNDP   United Nations Development Program 
+UNICEF  United Nations Children’s Emergency Fund 
+VGF   Viability Gap Fund 
+WACC   Weighted Average Cost of Capital 
+WAPDA  Water & Power Development Authority 
+WB   World Bank 
+WBS   Work Breakdown Structures 
+YTD   Year to Date

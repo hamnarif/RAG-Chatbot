@@ -1,0 +1,243 @@
+Chapter: 4
+PROJECTIMPLEMENTATION
+
+76 | CHAPTER 4: PROJECT IMPLEMENTATION
+
+OVERVIEW OF PROJECT IMPLEMENTATION 
+
+4.01	 The achievement of project objectives and actualization of benefits depends on effective project implementation according to the approved scope, cost, and time of the project. This crucial stage in the project cycle consists of a set of actions in parallel or sequence, whereby the project concept and design are implemented on ground. For achievement of the stipulated targets and tangible returns it is imperative to entrust the management of the project with staff who are competent and reliable with relevant qualifications and experience.
+ 
+ROLE OF SPONSORING AND IMPLEMENTING AGENCIES 
+
+4.02	 The project sponsors secure funding for projects from the development budget and choose an executing/implementing agency.
+
+4.03	The executing/implementing agency is the entity charged with the responsibility of successful completion of the project’s components which include:
+
+i.Completion of all preparatory studies.
+ii. Detailed engineering.
+iii. Inclusion of surveys, testing, etc.
+iv. Preparation of projects/schemes, design specifications, and cost estimates.
+v. Securing of all the permits and easements.
+vi. The acquisitions of land and right-of-way, site preparation etc.
+vii. Procurement of goods and services, construction.
+viii. Project management and risk management.
+
+
+77| CHAPTER 4: PROJECT IMPLEMENTATION
+
+4.04  Common mistakes at implementation level are summarized in the figure below:
+Figure 26: Frequent Mistakes at Implementation Level
+1.Insufficient allocation of resources in the PSDP.
+2.Inaccurate cost estimations due to a large gap between feasibility study and project implementation, leading to cost overruns.
+3.Frequent transfers of senior officials and PDs creating work disruptions which lead to delays.
+4.Understaffed and additional charge-based staff result in delays in project implementation.
+5.Challenges in land acquisition such as litigation, right of way, and relocation of utilities.
+6.Frequent changes in taxation and provincial tax laws create hurdles and increase the total cost of projects.
+7.Misinterpretation of government directives in the form of the Statutory Regulatory Order (SROs) which cause time delays and confusion in policy matters.
+8.Litigation issues in staffing and procurements.
+9.Projects often lack a sense of ownership which is needed from the government or project management staff.
+10.Problems identified by the Project Monitoring Team during the M&E phase are often overlooked.
+11.PC-IV and PC-V are submitted infrequently to the concerned authorities specifically for mega projects.
+
+
+4.05  For smooth implementation of projects, the following guidelines may be adhered to(i-xxxv from pg.77-79):
+
+i.While making the decisions to include projects in the PSDP, the PAOs should prioritize existing projects instead of suggesting new projects.
+
+ii.If the cost of the project exceeds 15% of the approved budget at the time the contract is being awarded, PC-I will be revised immediately and should be submitted for approval of the competent forum.
+
+iii.If the project cannot be completed within the approved time frame, get the desired extension from the relevant forum following the laid down procedure already circulated by the Planning Commission, and such extension should invariably be sent to the Planning Commission, Finance Division and in case of the foreign-aided projects, to the EAD also.
+
+iv.The PAO will ensure efficient allocation of funds under the project and their timely utilization to achieve the approved and desired objectives.
+
+v.Separate accounts of each project should be opened with separate account books for each project.
+
+vi.If expenditure in one head is expected to exceed the allocated amount, the appropriation of funds should be approved by the PAO prior to incurring the excess expenditure.
+
+vii.An independent PD will be appointed in all projects with the maximum authority as per prescribed procedure and guidelines issued by the Planning Commission time to time.
+
+viii.In the case of core projects, the project authorities will appoint a PD, along with skeleton staff at the concept stage to coordinate the design and consultation with key stakeholders in the preparation of project documents and PC-I, as per requirements.
+
+ix.In the case of a foreign-aided project, a full-time PD will be appointed whose salary/remuneration will be met from the project account, and the PD will not be transferred without informing the DDWP/CDWP during the currency of the project.
+
+x.The sponsors will ensure all appointments transparently. A representative of the Planning Commission and Finance Division will be included in the hiring committee for the selection of the PD.
+
+xi.All the remaining appointments should be made by the PAO concerned, in consultation with the PD, through transparent and approved procedures.
+
+xii.The PD and staff will not be entitled to use project vehicles if the monetization facility has been availed by the officer/s concerned.  
+
+xiii.The PAO of the sponsoring agency will notify and assign financial and administrative powers to the PD for implementation of the project as per the approved PC-I document.
+
+xiv.The sponsoring agency will evaluate the performance of the PD on an annual basis, and in case of delay in the achievement of targets and objectives, necessary measures will be ensured under intimation to the approving forum.
+
+xv.Remuneration on the Standard Pay Package for project staff recruited from the open market on a contract basis for the execution of projects funded from the PSDP will be paid in accordance with the notification issued by the Finance
+
+xvi.The Planning Commission will develop a framework for hiring of consultancy services for projects.
+
+xvii.The project staff, as per the above arrangement, will be allowed by the PAO concerned, for six months after obtaining a concept clearance from the CDWP, and confirmation of the EAD that foreign assistance has been lined up. Any further requirement will be reviewed by the PAO after the termination of the initial period.
+
+xviii. Work/cash plan will be prepared and implemented as per instructions of the Planning Commission.
+
+xix.Monitoring of the project must be done as per the RBM indicators matrix in the approved PC-I to review on a monthly, quarterly, and annual basis.
+
+xx.In case of any issues or problems faced in implementation, corrective measures must be taken by informing the authorities concerned, including the Planning Commission.
+
+xxi.The monthly expenditure needs to be reconciled with the AGPR/banks.
+
+xxii.Periodic checking of inventory and stocks for timely replenishment will be ensured.
+
+xxiii. Logbooks of vehicles must be maintained.
+
+xxiv. Specific duties of the project team should be assigned unambiguously.
+
+xxv.Information and progress should be updated as per the PMES format of the Planning Commission.
+
+xxvi. There are generally four types of procurements, namely procurement for goods, services, works or O&M. All the procurements under the project will be governed under the Public Procurement Rules 2004, and the relevant regulations and guidelines issued by the Public Procurement Regulatory Authority (PPRA) on a regular basis.
+
+xxvii. The Project Purchase/Recruitment Committees will be formed, with the approval of the PAO. xxviii. In the case of the Project Steering Committee (PSC), the PD will ensure regular meetings of the PSC and the circulation of minutes to all concerned.
+
+xxix. The PD will be responsible for coordination among different stakeholders in case of implementation of the national programmes and submission of the periodic monitoring reports.
+
+xxx. In case of depreciation of the PKR, an increase in demand of the FEC will not require revision of the project (if properly highlighted in the approved PCI). However, in case of increase in incoming foreign currency revision of the project from the competent forum will be required.
+
+xxxi. The PD will highlight problems and issues hindering the successful implementation of projects in the PC-III proforma.
+
+xxxii. Dis/misinformation will be considered a crime under the project.
+
+xxxiii. As per the existing mandate, Pakistan Public Works Department (PWD) is responsible for the construction and maintenance of public buildings for which funds are allocated on yearly basis. However, in case any ministry/division intends to hire any private party/contractor for construction and maintenance of its physical infrastructure, as per procedure a prior No Objection Certificate (NOC) from the Ministry of Housing & Works is required. In the case of delay in NOC, the construction and maintenance process will be delayed due to constraints with the PWD. The process of such NOCs should be expedited and resolved by the competent forums.
+
+xxxiv. In the case of other physical assets like plant, machinery, vehicles, etc., each ministry/division will make its own arrangement for procurement and Operation and Maintenance (O&M) services to any third party at a competitive price for the sustainability purpose.
+
+xxxv. The salary and recruitment of the project staff should be in line with the government rules.
+
+80 |CHAPTER 4: PROJECT IMPLEMENTATION
+
+ROLE AND APPOINTMENT OF PROJECT DIRECTOR
+
+4.06 The activation of the project is achieved through an appointment of the PD. The ECNEC on the 6th May 2011, decided that an independent PD should be appointed only for projects, which are approved by the ECNEC. For projects below this limit, if an independent PD is required, he/she is to be appointed by the sponsors, and approval of the CDWP will be required to provide proper justification. The guidelines, governing the appointment of an independent PD, (Planning Commission, ‘Guidelines for Appointment of Independent Project Director in Development Projects’, Notification No.20(3) PIA-I PC/2012, Islamabad, dated 5 April 2012.) are given in Annexure 17.
+
+Selection and Appointment Committee
+
+4.07 The terms of reference of the Selection and Appointment Committee for the PD are as follows:
+i.The Committee will be headed by the secretary of the project sponsoring ministry or division and include representatives of the Planning Commission (chief or head of the section concerned), Finance (Development Wing) and Establishment divisions.
+ii. In the case of a project jointly financed by the federal and provincial governments on a 50:50 cost-sharing basis, the Chairman P&D Board or ACS (Development) of the respective province, AJ&K and GB will chair the Committee with representatives of the Planning, Finance and Establishment divisions.
+iii. In case of disagreement among members of the Committee, the matter will be referred to the Deputy Chairman Planning Commission for the final decision.
+
+4.08 The Secretary of the ministry or division concerned may approve the appointment of a PD whose salary package is equivalent or up to the maximum of MP-III (Management Pay Scales were introduced to attract private sector talent or professionals in the Ministries/State Owned Enterprises. It is now regulated by Management Pay Scales Policy 2020. Generally, MP-III is treated equivalent to BPS 20. http://www.establishment.gov.pk/SiteImage/Misc/files/Management%20Position%20Scales%20Policy%202020.pdf).  The cases of appointment of an independent PD carrying emolument beyond MP-III shall be submitted for approval to the Prime Minister of Pakistan.
+
+Appointment Process
+
+4.09  The following process should be adopted for an appointment of the PD:
+i.The appointment of an independent PD, hired on a competitive basis, is mandatory for projects costing Rs. 3,000 million and above (Planning Commission, ‘Guidelines for Appointment of Independent Project Director in Development Projects’, Notification No.20(3) PIA-I/PC/2012, Islamabad, dated 11 March 2016.) (Annexure 18). As such provision for the post of a PD should invariably be included in the project PC-I worth over Rs. 3,000 million. An additional charge for the posts of large projects will not be allowed to the officers of line ministries and departments (PPP (Amendment) Act 2021).
+ii. For projects less than Rs. 3,000 million, an additional charge of project posts may be allowed to officers of the ministries and departments on a case-to-case basis, and the proposed set up may be included in the PC-I.
+iii. The expenses of the PD will be met from the project account and the hired PD shall not be transferred during the duration of the project.
+iv. The sponsoring or executing agency will try, as far as possible, to appoint an independent PD for the project. In case it is not possible, the PD may be appointed from the available in-house officers and in that case, reasons for transferring the services of such officer internally to the project may be spelt out and detailed justification may be given and approved by a committee headed by the PAO/secretary of the sponsoring agency comprising Member (I&M) Planning Commission, senior officers (not below the rank of Additional Secretary) of the executing agency and Finance Division.
+
+CHAPTER 4: PROJECT IMPLEMENTATION| 81
+
+Mode of Appointment
+
+4.10 The mode of appointment of a PD will be as follows:
+i.A PD shall be appointed on a contract basis initially for two years, extendable on yearly basis subject to satisfactory performance.
+ii. The appointment will be made transparently through open merit by an advertisement.
+iii. As per the ECNEC meeting that took place on 1st October 2020 civil servants will be allowed to compete for the PD positions, and on appointment will apply for a three-year leave from service. An independent PD will be hired or appointed by the Secretary / PAO of the relevant ministry, based on the recommendations of the recruitment committee comprising Member (I&M),   PC,  senior representative (not below the rank of Additional Secretary) of the Finance Division, Establishment Division, and relevant ministry/division. In the case of provinces, the committee will be head by the Chairmen of P&D Boards or ACS P&D Departments. The hiring of other staff of the project is left to the PAOs, in consultation with the PD (PPP (Amendment) Act 2021).
+iv. Engagement of the retired officer(s) as a PD shall require prior permission of the government without any exception – for example, the Establishment Division in case of the retired civilian officers, the Defence Division in case of the retired Defence officers, and Law, Justice and Human Rights Division, Supreme Court or High Courts in case of the retired judiciary officers.
+v. While making an offer of appointment, the following will be provided in the contract or agreement. Statement of objectives of the assignment should include:
+• Responsibilities of the PD stating particulars of the deliverables required from him/her.
+• Responsibilities of the client indicating the types of inputs to be provided to the PD.
+• Duration of the contract indicating completion dates or termination of the contract.
+• The financial provisions reflecting the manner of payment of remuneration, etc.
+• General provisions regarding matters, like early termination of the contract by either party.
+• Mode of the periodic performance appraisal of the PD.
+
+
+82 |CHAPTER 4: PROJECT IMPLEMENTATION
+
+TERMS OF REFERENCE OF THE PROJECT DIRECTOR
+
+4.11 Details of the outputs required from the PD should be spelt out which, inter alia, may include the following:
+i.Exercise a strong check on time and cost overruns by monitoring the inputs, processes, and outputs of the project.
+ii. Ensure that proper procedures for reviewing and responding to progress reports are established and follow that indicate how, what, and when to monitor and evaluate.
+iii. Identify risks based on ground realities and formulate a risk mitigation plan.
+iv. Prepare and submit reports in the prescribed manner and format including recommended actions for the decision-making.
+v. Work effectively and harmoniously with the project stakeholders (including external partners) as well as with the project staff.
+vi. Develop and use indicators to focus on results and progress of implementation.
+vii. Establish and maintain custody of all project documents and prepare and submit project status and completion reports (PC III/IV).
+viii. Ensure timely provision of information on the PW-002 and PW-003 proformas to the Projects Wing.
+
+4.12 The powers of PD are delegated under the Guidelines of Project Management issued by Project Wing Planning Commission 2008. The relevant paragraphs of these Guidelines are reproduced in Annexure 19.
+
+4.13 The PD will be held accountable for any lapses in the exercise of his/her administrative, functional, and financial powers. As a team leader, he/she will be obligated to account for all actions, steps and decisions taken during his/her tenure. He/she will be responsible for the supervision of project activities, including troubleshooting and best efforts to resolve day-to-day implementation problems independently within the administrative and financial powers delegated to him/her. If necessary, he/she may seek help from the federal ministry, division or provincial government concerned for resolving the issue or problem.
+
+4.14 It is advisable to establish the office of the PD as close to the worksite as possible, preferably onsite, to ensure their availability to making spot decisions on unforeseen issues and other ancillary matters.
+
+Qualification and Experience Requirements 
+
+4.15  Qualification and experience for the post of a PD:
+i.The educational qualification of the Project Director will be broad-based, that is, degree in Project Management, B.Sc. Engineering or MBA /MPA, MBBS/MPH, Master or BS (4 years) degree in economics or other relevant field from HEC recognized institutions, depending upon the nature of the project.
+ii. Minimum five years’ experience in project management or implementation, with sound knowledge of project management fundamentals, particularly the government of Pakistan’s project planning and management processes and procedures.
+iii. Maximum age of 63 years on the date of appointment.
+
+PROJECT MANAGEMENT UNIT AND STAFFING
+
+4.16 The requirements of public administration institutions are rising and projects becoming increasingly challenging. Managing a project is a complex activity, particularly when it involves many people working over a long period of time in collaboration with many stakeholders. This increasing complexity requires management practices and tools, which ensure efficient use of resources. In this context, a PMU can be of great value as it will be provided with infrastructure, resources, processes, and tools necessary for effective project management by leveraging standards, allocating resources, and establishing communication channels. The ECNEC has approved the Planning Commission proposal of the 1st of October 2020, that hiring of other staff of the project is left to PAOs with the support of the PD (PPP (Amendment) Act 2021).
+
+WAIVER OF FRAMING OF RECRUITMENT RULES FOR PROJECTS POSTS IN MINISTRIES/DIVISIONS
+
+4.17 There is no need to frame recruitment rules for the hiring of project staff as the standard guidelines for their appointments have been already (Establishment Division, ‘Waiver of Framing of Recruitment Rules for Projects Posts in Ministries/Divisions’, O.M. No. 9/4/91. R.S. Islamabad dated 28 January 2008.) issued by the Establishment Division (Annexure 20).
+
+STANDARD PAY PACKAGE FOR PROJECT STAFF
+
+4.18 The standard pay package for the project staff, directly recruited for the development projects (Finance Division, ‘Standard Pay Package for the Project Staff Directly Recruited for Development Projects Funded from PSDP’, O.M No. F.4(9)R-14/2008, Islamabad, dated 19th July 2017, amended through O.M. No. F. 4(9)R-14/2008/562 dated 19 October 2017 and O.M. No. F. 49 R-14/2017/698 dated 27 December2017.) is given in Annexure 21. The said pay package is effective from the 1st of July 2017 for new as well as the ongoing PSDP projects and is admissible subject to the conditions mentioned in the above-referenced O.M. of the Finance Division.
+
+Staff for Land Acquisition and Resettlement
+
+4.19 In its meeting of the 1st of October 2020, the ECNEC approved the establishment of a separate unit comprising 3-5 officials fully trained in each provincial revenue board for land acquisition and resettlement to facilitate smooth implementation of infrastructurerelated projects. (PPP (Amendment) Act 2021)
+
+
+84 |CHAPTER 4: PROJECT IMPLEMENTATION
+
+CONTRACT MANAGEMENT
+
+4.20 A contract is an agreement between two or more parties creating mutual obligations, enforceable by law. The basic elements required for the agreement to be alegally enforceable contract are mutual assent, expressed by a valid offer and acceptance, adequate consideration, capacity, and legality.
+i.They are commonly used by a PD, works manager, or owner to manage and control project delivery.
+ii. They have added advantage of requiring project sponsors/owners to define their requirements while making an unequivocal commitment to the project.
+iii. Contracts defines the scope of work, the responsibilities, and obligations of the parties to the contract, the assignment of financial incentives to complete the work, and the nature and extent of risk to various parties.
+iv. The agreements formalize the contract and serves as a legal instrument for contract verification.  
+
+4.21  Contracts are used during all phases of project management.
+i.In the first feasibility phase, contracts are formed between the project owner and a consultant or an engineering or architectural firm to conduct a feasibility and site selection study.
+ii. In the execution phase, a contract is formed between an owner and a contractor. Effective contract management creates client and customer satisfaction as well as consolidates a longer-term win-win relationship among all parties involved.  
+iii. Contracts not only bind the parties to legal obligations and framework, but they are also instrumental in risk minimization or elimination and can be instrumental in achieving project success and a long-term relationship. The Fédération Internationale des Ingénieurs Conseils (FIDIC) – (the Federation of International Engineers and Consultants) – have provided a detailed list of contracts for various types of works and the same has been adopted and amended by the Pakistan Engineering Council (PEC). The best practices from across the world indicated relationship management and breaking the traditional client and contractor adversarial approach, which is the leading cause of litigations and delay in implementation.
+
+4.22 The procurement, contract award and contract management go together. The procurement in the government is governed by the PPRA and its rules, Public Procurement Rules, 2004 and the Procurement of Consultancy Services Regulation 2010, which apply to all procurements of goods, services and works, made by all procuring agencies of the federal government whether within or outside Pakistan. For infrastructure and engineering works, contracts samples, guidelines and standard forms are provided by the PEC. For further guidance, the PPRA Rules 2004 and PEC website can be consulted.  
+
+CHAPTER 4: PROJECT IMPLEMENTATION| 85
+
+RELEASE OF FUNDS.
+
+4.23 The ECNEC, in its meeting of the 2nd October 2019, has simplified the procedure for authorization of release of the PSDP funds to ensure timely availability to the executing agencies/project authorities without originating demands by the ministries concerned. (The respective P&D Board/Department exercises this function with respect to projects in the provincial/special area ADPs.) In addition, the PAOs have been made more responsible in ensuring timely completion of all code formalities  such as authorization and administrative approvals, valid execution period, extension in execution period, updating the PMES, approved cash/work plan monitoring, observations, cost overruns and effective utilization of funds that have been released to the project authorities before the issuance of the sanction letters for the release of funds to development projects and undertaking expenditure. All ministries/ divisions will be responsible for updating the PMES System of each project by the 10th of the following month. (Refer to Chapter 3 for details on release of funds and financing issues.)
+
+PROVISIONS OF PUBLIC FINANCE MANAGEMENT ACT (2019) FOR SMOOTH IMPLEMENTATION OF PROJECTS AND MAINTENANCE OF PUBLIC ASSETS
+
+4.24 In pursuance of Section 19 (1) of PFM Act, 2019, every Ministry and Division shall include in its demands for grants adequate funds dedicated for operation and maintenance of the physical infrastructure assets under its supervision. Every PAO will ensure yearly stock taking of its assets and their optimal utilization. They will intimate under their signature to PMO and PC, by 30 September, every year.
+
+4.25 In pursuance of Section 19 (2) of PFM Act, 2019, for provision of adequate amount for O&M cost in current budget for maintenance of the assets, a committee shall be constituted by Finance Secretary and its recommendations shall be presented to CDWP within one month. As the country progresses, the size of the O&M budget should be progressively increased and the size of the PSDP gradually decreased on attaining the higher stages of development. The committee shall also define “adequacy requirements” for the following categories of infrastructure expressed as the ratio of annual provision for maintenance and current value of the asset. Categories of infrastructure:
+i.Dams
+ii. Roads
+iii. Bridges  
+iv. Buildings (a) Office & (b) Residence
+v. Electrical Installation
+vi. Mechanical Installation
+vii. Strategic assets/Installation
+viii. Vehicles/Aero planes/vessels, etc.
+ix. All others assets
+
+4.26 In pursuance of sub-section 1 of Section 20 of PFM Act, 2019, the Principal Accounting Officer shall ensure maximum possible returns on each and every assetfalling under the respective Ministry/ Division, Provincial Governments and Special Areas Departments. For the purpose, all PAOs shall ensure annual stock taking of all assets and make it compulsory part of their “Yearbook”. A committee under the chairmanship of Secretary Finance with Secretary PD &SI, Secretary EAD, Chief Economist/Member (EP), Member (PSD&C) and CEO-PPPA shall be constituted to deliberate upon stocktaking of the assets by PAOs and optimal utilization for maximum returns thereof.
+
+86 |CHAPTER 4: PROJECT IMPLEMENTATION
+
+4.27 In pursuance of sub-section 2 of Section 20 of PFM Act, 2019, the returns on public asset will include utilization of the asset for delivery of one or more public services or a financial return accruing to the Government from utilization of the asset. Possibilities will be explored by PAOs for their Optimal utilization through PPP mode or collaboration for bearing/sharing O&M cost with “not for profit organizations” as well as profit organizations. All body corporates /authorities /autonomous bodies shall utilize their assets for self reliance and sustainability.
+
+4.28 In pursuance of sub-section 3 of Section 20 of PMF Act, 2019, with a view to achieving the maximization of returns on public assets, government shall establish sovereign wealth funds through an Act of Parliament. The objective of sovereign wealth fund is to act as a holding institution for public assets, which can bring to bear sound management and exploitation of opportunities for the maximization of returns from the public assets.   
+

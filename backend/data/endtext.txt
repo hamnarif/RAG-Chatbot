@@ -1,0 +1,795 @@
+106 | APPENDIX A
+
+APPENDIX A
+NATIONAL ECONOMIC AND DEVELOPMENT PLANNING SYSTEM
+
+7.01 The following is the national economic and development system provided in the constitutional context. The chapter 3 of the PFM Act, 2019 provides in detail, the planning process which has been incorporated the relevant portion of this manual.
+
+7.02 This section describes the constitutional and legal contexts of the economic development planning practices in Pakistan discussing how the planning system has evolved since the early 1950s, the functional and organizational set up of the Planning Commission and the forums responsible for the national economic planning, coordination and approval of development projects and programmes.
+
+CONSTITUTIONAL AND LEGAL CONTEXT OF PLANNING IN PAKISTAN
+
+7.03 Article 156 of the Constitution of the Islamic Republic of Pakistan (The Constitution of the Islamic Republic of Pakistan, Part V, Chapter 3, Art 156; available at http://www.na.gov.pk/uploads/documents/1333523681_951.pdf) provides for constituting the National Economic Council (NEC) by the President of Pakistan. (The Constitution refers to the 1973 Constitution and its various amendments. The NEC comprises the Prime Minister as its Chairman, Chief Ministers of the provinces, one member from each province to be nominated by the Chief Ministers and four members to be nominated by the Prime Minister) The Council is responsible for advising the federal government and the provincial governments in formulating plans regarding the financial, commercial, social, and economic policies. In formulating such plans, it is to ensure balanced development and regional equity, which are to be guided by the Principles of Policy as articulated in Articles 29-40 (Chapter 2 of Part II) of the Constitution. The NEC is mandated to meet biannually.
+
+NATIONAL PLANNING AND NATIONAL ECONOMIC COORDINATION
+
+
+7.04 The national planning and national economic coordination, including planning and coordination of scientific and technological research, fall under part II of the Federal Legislative List (Entry No. 7). Hence, it is the domain of the Council of Common Interest (CCI), which shall formulate and regulate policies concerning matters in part II of the Federal Legislative List and shall exercise supervision and control over related institutions vide Article 154 of the Constitution.
+
+PUBLIC FINANCE MANAGEMENT ACT, 2019 (AS AMENDED IN 2020)
+
+
+7.05 The Federal Public Finance Management Act, 2019 was added through the Finance Act 2020 for the plan-based government expenditure. All government expenditures, whether from a recurrent or a development demand for the grant, shall be based on well defined plans and the strategic priorities approved in the budget strategy paper.
+
+7.06 The Federal Public Finance Management Act, 2019 was enacted (became effective from July 1, 2019) and made to ensure compliance with Article 79 of the Constitution. To comply with Chapter III of the Act titled “Development Projects and Maintenance and Use of Public Assets (Sections 13-20)”, the Planning Commission has made the following decisions:
+
+i.In pursuance of Section 13 (a) of PFM Act, 2019, the Core Projects in national infrastructure requiring complex planning, design and implementation procedures shall include:
+    •Projects Rs.100 billion and above.  
+
+    •This threshold may require to be in case of Social Sector projects or Donor’s funded projects costing less than Rs.100 billion. In such cases, the CDWP may consider and declare any project as core project. The Sponsoring Agency will indicate while submitting the project to the CDWP whether these are core or otherwise based on the following criteria(i-xvii):
+
+        i.National priority projects located in more than one province or more than one province as beneficiary of the project.
+
+        ii.Projects relating to national infrastructure (inter-provincial roads, bridges, railways, airports, seaports, dams, energy, housing, city & regional planning, water & sanitation, digital networks, research, nuclear, national health, social security and human resource development programs, etc.) any other project unique or transformational in nature.
+
+       iii.The projects involving comprehensive planning, design and implementation procedures which are complicated in nature.
+
+       iv.The projects to be undertaken through PPP mode with the approval of CDWP.
+
+       v.  Prevention and mitigation of climate and natural disasters.
+
+       vi. The core projects will be assigned the following priorities:
+
+       vii. The PC-I will be based on PC-II which will cover (a) comprehensive feasibility and (b) appraisal on techno economic basis with option, risk and sensitivity analysis; For the projects to be undertaken through PPP mode, Feasibility Study should also include PPP Option Analysis and address bank ability aspects of the project; PPP Risk Assessment; and PPP Value for Money Analysis.
+
+       viii. The sponsoring agency will incorporate M&E mechanism including Gantt Chart/ Primavera/ Project Performance Monitoring in PC-I of the project.
+
+       ix. Release of funds will be made as per financial phasing of approved PC-I.
+
+       x.The sponsoring agency will ensure timely execution and completion of the project as per approved PC-I targets/ objectives.
+
+       xi.Quality assurance mechanism will be included and undertaken at pre and post project.
+
+       xii. In case of revision and delay, responsibility will be fixed on the basis of inquiry under the directions of PAO of the sponsoring agency.
+
+       xiii. Submission of PC-IV & subsequently PC-V will be responsibility of PAO of the sponsoring agency.
+
+       xiv. Internal Monitoring on periodic basis will be ensured by the sponsoring agency.
+
+       xv. Quarterly Monitoring reports through PMES will be submitted by the sponsors to Projects Wing of Planning Commission for consideration of the CDWP.
+
+       xvi. Annual External Monitoring and Mid Term Monitoring/ Review will be conducted by the Planning Commission and report will be presented to the ECNEC for consideration.
+
+       xvii. In case of land acquisition, land will be procured under a separate project at market rates with re-settlement plan to avoid litigation issues and delay in implementation.
+
+ii. In pursuance of Section 13 (b) of PFM Act, 2019, all projects other than Core Projects undertaken in different Sectors by Ministries, Divisions, Provincial Government and Special Areas to enhance the development of that Sector in a Ministry, Division, Provincial Government and Special Areas will be considered as sectoral projects. The sponsors will incorporate clear objectives, scope, output, and outcomes in project document while ensuring compliance of all procedures in vogue.
+
+•Section 14 – Preparation of development projects.
+    •   All development projects shall be prepared in conformity with procedures, processes and templates defined by the Planning Commission.
+    •   Cost and benefit analysis and risk assessment of all development project proposals in excess of a threshold size prescribed by the Planning Commission shall be undertaken.
+
+•Section 15 – Quality assurance 
+    •   Development project proposals, which exceed their total cost thresholds defined by the Planning Commission shall be subject to quality assurance. Such quality assurance shall be undertaken by an individual/body which is independent of the sector/ministry/division that has initiated the preparation of the development project proposal.
+
+•Section 16 – Technical approval
+    •   All development project proposals shall be subject to a technical approval process. Technical approval shall only be granted to projects which are compliant with the standards and procedures set by the Planning Commission.  
+    •   Findings and recommendations of the independent quality assurance reports, cost and benefit analysis and risk assessment where required per sub-section (2) Section 14 shall be considered by these forums while considering the development project proposals.
+
+•Section 17 – Inclusion of development projects in demands for grants
+    •   No development project shall be considered for inclusion in demands for grants if it has not been granted technical approval.  
+    •   No development project shall be considered for inclusion in demands for grants unless it is provided with a budget allocation for the coming yearreflecting the proposed project cost for each year.
+
+APPENDIX A | 109
+
+• Section18 – Monitoring and evaluation of development projects. Development projects shall be subject to the following forms of monitoring and evaluation, namely,
+       •   Monitoring of progress during implementation
+       •   Evaluation of the project on completion
+       •   Those projects with the total cost exceeding the threshold set by the Planning Commission, an independent impact assessment shall be devised within five years after completion of the projects.
+       •Timelines, forms and formats and guidance on conducting monitoring and evaluation and reporting shall be completed as prescribed.
+ 
+• Section 19 – Budgetary provision for maintenance of assets
+    •   Every ministry and division shall include in its demands for grants adequate funds dedicated for operation and maintenance of the physical infrastructure assets under its supervision.
+    •   The Planning Commission shall define adequacy requirements for different categories of the physical infrastructure expressed as the ratio of the annual provision for maintenance and the current market value of the asset.
+
+• Section 20 – Utilization of public assets.
+    •   The principal accounting officers shall ensure that the maximum possible returns are achieved on every asset falling under the oversight of the ministry and division.
+    •   The returns on a public asset may include the utilization of the asset for delivery of one or more public services or a financial return accruing to the government from the utilization of the potential of the asset.
+    •   To achieve the maximization of returns on public assets, the government may establish sovereign wealth funds through an act of the Parliament. The objective of a sovereign wealth fund is to act as a holding institution for public assets which can bring to bear sound management and exploitation of opportunities for the maximization of returns from the public assets.
+
+PLANNING COMMISSION
+
+7.07 The Planning Commission is an apex planning and coordination body functioning under the Chairmanship of the Prime Minister, while the Planning, Development and Special Initiatives (PD&SI) Division is serving as the Secretariat of the Planning Commission. (Entry No 13 under Item 30 of Schedule II of the Federal Government Rules of Business, 1973, as amended from time to time.)
+
+MISSION OF PLANNING COMMISSION
+
+7.08 The Mission of the Planning Commission, as elucidated in the Cabinet Division Resolution of October 2013 (Adapted from the mission statement and strategic objectives given at: https://www.pc.gov.pk/web/ministry)is to:
+    i.  Act as the apex think-tank for the Government in the context of adjusting to the new realities and challenges, including recognition of the increased role of the private sector, impacts of globalization and National Finance Commission Award 2010 on the economic policy.  
+    ii.  Effectively plan for the economic and social development of the country.
+    iii. Moving to a new paradigm of Participatory and Collaborative Planning involving the Parliament, ministries/divisions, provinces, special areas, private sector, academia, civil society, and diaspora to play the role of facilitator and stewardship as well as an integrator in the areas of economic policy.
+
+7.09 The Planning Commission is responsible for the performance of functions outlined in Schedule-II of the Rules of Business 1973 (as amended), under the heading of the Planning, Development and Special Initiatives Division. The PD&SI Division, as the secretariat of the Planning Commission, provides all necessary economic, technical, and administrative support to the Commission for the discharge of its assigned functions and responsibilities. The heads of economic and technical sections of the Planning Commission coordinate the Annual Plan and PSDP preparation for their respective sectors. The functional wings of the Planning Commission are shown in the table below.
+
+Table 21: Functional Wings of Planning Commission
+"Technical Sections 
+• Energy Wing(Fuel, Power,Energy Economic and Energy Information Sections)
+• Transport and Communication  
+• Physical Planning and Housing  
+• Food & Agriculture
+• Water Resources
+• Industries and Commerce
+• Health
+• Nutrition
+• Education
+• Population & Social Planning Project Wing
+• Social Welfare
+• Manpower
+• Climate Change and Environment
+• Science and Technology
+• Governance
+• Mass Media & Culture, Sports, Tourism and Youth
+• Devolution & Area development
+
+Economic  Sections
+• Economic Appraisal
+• Public Investment Programming
+• Infrastructure
+• Public Investment Authorization
+• Sustainable Development Goals
+• Macroeconomics
+• International Trade and Finance
+• Money, Prices and Fiscal Policy
+• Employment and Research
+• Plan Coordination
+ 
+Project Wing
+•Infrastructure 
+• Social Sectors
+• Other Sectors
+• Evaluation
+• Management Information System
+
+Attached Depts./ Authorities/ Cells
+• Pakistan Bureauof Statistics
+• China Pakistan Economic Corridor Authority
+• Public-Private Partnership Authority
+• Pakistan Planning and Management Institute
+• Pakistan Institute of Development Economics
+• National Logistic Cell
+• SDL
+"
+
+EVOLUTION OF THE PLANNING COMMISSION — A CHRONOLOGY
+
+7.10 The evolution of the Planning Commission is summarized below, while the details are provided in the referenced annexures.
+    •  1948- Development Board was established in the Economic Affairs Division(EAD)under the Ministry of Finance and charged with economic development.
+    •  1950- The Six-Year Colombo Plan was mapped out.
+    •  The Planning Board was established on 18th July 1953.
+
+        Box 1 – Terms of Reference of the Planning Board 18th July 1953
+
+        The main functions of the Planning Board were to:
+        •  Review the development which has taken place since the independence.
+        •  Assess the material and human resources which can be made available for development during the next five years beginning from April 1954 (later changed to April 1, 1955).
+        •  Prepare a national plan of development based on the fullest possible utilization of these resources for implementation in a period of five years from the 1st April 1954 as a step towards the attainment of the economic and social objectives of governments’ policy.
+        •  Make proposals regarding the administrative machinery best suited to assure the successful implementation of the plan while the First Five-Year Plan (1955-60) was prepared and approved by the National Economic Council (NEC).
+        •  Make any other recommendations which in the opinion of the Board will contribute towards the successful implementation of the Plan.
+
+        Source: Resolution No.2(24)-PG/5, Ministry of Economic Affairs, Government of Pakistan, Karachi, dated 18th July, 1953 (Annexure 42)
+
+    •  1957- A permanent National Planning Board was established on 20th April 1957 under the chairmanship of the Prime Minister with two members to achieve progress on Article 28 and 29 of the 1956 Constitution (now Article 37 and 38 of 1973 Constitution). The tasks assigned to the National Planning Board are given in Box 2.
+
+        Box 2- Tasks Assigned to National Planning Board 20Th April 1957
+
+        •  To prepare future Five-Year Plans of economic and social development.
+        •  To make additions and alterations in the existing Five-Year Plans consistent with the changing economic conditions of the country.
+        •  To tender such technical advice and offer such comments on financial matters bearing on the development plans as may be requested by the ministries of the government.
+        •  To stimulate and where necessary, initiate the preparation of schemes required to achieve national objectives in the economic and social fields.
+        •  To examine development schemes, programmes, and proposals to include in the plan of development.
+        •  To maintain a continuous and constant review of the progress of development, the benefits realized, and the difficulties experienced.
+        •  To maintain a continuous review of the economic conditions of the country so far as they directly impact the development plans.
+        •  To submit such periodic reports as the government may desire from time to time.
+        •  To encourage the improvement and expansion of research (economic research), statistics, surveys, investigations, and evaluation needed to support effective planning and development in the country.
+        •  Generally, to advise the government on economic policies and problems in various fields so far as these have a bearing on the development plans.
+        Source: Resolution, No.29(3)-PP/57, Ministry of Economic Affairs, Government of Pakistan, Karachi, dated 20th April 1957 (Annexure 43)
+
+    •  1958- The National Planning Board was redesignated as the Planning Commission on 22nd October 1958 (Annexures 25 and 26).
+    •  1961- The Project Division in the President’s Secretariat was abolished, and its functions were amalgamated in the Planning Commission, and it was identified as a Division in the President’s Secretariat. The President assumed the Chairmanship of the Planning Commission on 5th August 1961 with a Deputy Chairman (status of a minister), two members from the central government and one member each from West Pakistan and East Pakistan. The Planning Division remained with the President from 1961 to 1971. The new Planning Division had two separate technical wings: Planning and Progressing. The latter focused on monitoring of implementation and delivery of results. The nontechnical sections of the Division (Coordination, Development, Authorization, Administration, etc.) were reorganized on the pattern of the Section Officers’ Scheme in the Central Secretariat (Annexure 27).
+    •  1988- The Chief Executive of Pakistan was the Chairman of the Planning Commission from October 1999 to November 2002 and subsequently, the Prime Minister assumed the role.
+    •  2006- The Planning Commission was revamped in April 2006 to ensure that it plays an effective role as an apex planning and coordination body of the country. The number of members increased to nine, while its chairmanship remained with the Prime Minister. A Policy Board was established to be chaired by the Prime Minister and included the Deputy Chairman, 10 federal ministers to be nominated by the Prime Minister and all members of the Planning Commission. The functions assigned to the Planning Commission in 2006 are given in Box 3. 
+
+        Box 3-Functions of Planning Commission April 2006
+        •  The following functions of the Planning and Development Division under Schedule II of the Rules of Business were also assigned to the Planning Commission.  
+        •  Preparing the National Plan,reviewing and evaluating its implementation.
+        •  Formulating the annual and Annual Development Plan.
+        •  Monitoring and evaluating implementation of major development projects and programmes.
+        •  Stimulating preparation of sound projects in regions and sectors lacking adequate portfolio.
+        •  Continuously evaluating the economic situation and coordinating economic policies and decision-making.
+        •  Assisting in defining the national vision and undertaking strategic planning.
+        •  Assessing the material, capital and human resources of the country and formulating proposals for augmenting such resources.
+        •  Facilitating the capacity-building of agencies involved in development.
+        •  Any other function assigned by the Prime Minister.
+        Source: Cabinet Division Resolution No.4-6/2006-Min.I., Islamabad, dated 20th April 2006. (Annexure 44)
+
+    •2013-The Planning Commission was reorganized by increasing the number of Members to 12 while the Prime Minister continued to be the Chairman of the Commission. The functions assigned to the Planning Commission are summarized in Box 4. An Advisory Committee of the Planning Commission/ Ministry of Planning, Development and Reform (MoPD&R) was also notified in October 2013, comprising 26 members, 12 federal secretaries, Chairman FBR, Chairman Board of Investment (BoI), Vice-chancellor Pakistan Institute of Development Economics (PIDE) University, Chairman Planning and Development (P&D) Board Punjab and Additional Chief Secretaries of Sindh and KPK. The Terms of Reference of the Advisory Committee are to:
+        i.  Promote public and private sector interface and develop a participatory approach in decision making.
+        ii.  Work as a strategic think-tank on policy issues of the Planning Commission/MoPD&R.
+        iii.  Guide Planning Commission/MoPD&R in policy formulation, reform, and its implementation as per the vision of the present government and the national interest.
+        iv.  Generate and build consensus on policies and strategies of the Planning Commission/MoPD&R, and provide input and feedback from non-government stakeholders to the policies/performance of the Planning Commission/MoPD&R.  
+
+    •2019- In June 2019, the Deputy Chairman of the Commission was directed to report to the Minister PD&SI in the following areas (Annexure 28).
+        i.  All issues requiring approval/consideration of the Prime Minister, cabinet, NEC, ECC and ECNEC.
+        ii. Brief and seek approval of the Minister PD&SI of the CDWP agenda.
+        iii.Finalization of the PSDP in consultation with the Minister PD&SI.
+        iv. Close liaison with the Minister PD&SI on all matters of development policy formulation, etc.
+
+FUNCTIONS OF THE PLANNING COMMISSION
+
+7.11 The Rules of Business (Schedule II) as amended up to July 2020 indicate that the functions of the Planning Commission continue to be as given in the Cabinet Resolution (No. 4-6/2006-Min-1 dated 30 October 2013 ( This Cabinet Division Resolution Superseded Resolution No 4-6/2006- Min.1 dated 20 April 2006.). These functions are grouped in three broad categories as shown in Box 4) ( Schedule II of the Rules of Business 1973 (as amended from time to time) enumerates the functions assigned to the Planning, Development and Special Initiatives Division and selected functions of the Division have been assigned to the Planning Commission. The Rules of Business has also designated the PD&SI Division as the Secretariat of the Planning Commission and Secretary of the Division has been nominated as Member Coordination.)
+
+Box 4- Functions of Planning Commission since 2013
+A. Core Development Functions
+•  Preparing the National Plan,reviewing and evaluating its implementation.
+•  Formulating Annual Plan and Annual Development Programme.
+•  Monitoring and evaluating implementation of major development projects and programmes.
+•  Stimulating preparation of sound projects in regions and sectors lacking adequate portfolio.
+•  Continuously evaluating the economic situation and coordinating economic policies and decision making.
+•  Organizing research and analytical studies for economic decision making.
+
+B.Vision, Strategic Planning and Capacity-Building Functions
+•  Assisting in defining the national vision and undertaking strategic planning.
+• Assessing the material, capital, and human resources of the country and formulating proposals for augmenting such resources.
+•  Assisting the government in providing a conducive macroeconomic and regulatory framework, improved resource mobilization, an institutional framework and efficient public investment.
+•  Promoting and developing the role of the private sector as an engine of growth by co opting it as a partner in development process through institutionalized effective consultative process.
+•  Facilitating capacity-building of agencies involved in development.
+•  Promoting and coordinating reform and innovation in the government in partnership with relevant ministries/divisions and organizations.
+
+C. Think-Tank including Research and Development Functions
+•   Promoting and developing social capital for development with stakeholders (MDGs, poverty alleviation, social harmony).
+•   Promoting and coordinating economic and infrastructure initiatives towards developing regional economic integration.
+•  Monitoring Pakistan’s economic competitiveness and developing strategies for its enhancement with relevant ministries/divisions and organizations.
+•  Promoting development discourse in the country towards participatory and collaborative planning and development.
+•  Study trends and evaluate impact of globalization and develop appropriate national responses in coordination with relevant ministries/divisions and organizations.
+•  Study and evaluate impact of new technologies on development and develop appropriate national responses in coordination with relevant ministries/ divisions and organizations.
+•  Any other function assigned by the Prime Minister.
+Source: Cabinet Division Resolution No. 4-6/2006-Min-1, Islamabad, dated 30 October, 2013 (Annexure 45)
+
+PRESENT STRUCTURE AND ORGANIZATION OF THE PLANNING COMMISSION
+
+7.12 The Prime Minister is the Chairman of the Planning Commission which excluding the Minister PD&SI and Deputy Chairman has the following 12 members(i-xii):
+i.  Secretary PD&SI Division/Member (Coordination)
+ii. Chief Economist/Member (Economic Policy/Planning)
+iii. Member (Energy)
+iv.  Member (Implementation and Monitoring)
+v.   Member (Private Sector Development and Competitiveness)
+vi.  Member (Development Communication)
+vii. Member (Food Security and Climate Change)  
+viii Member (Infrastructure and Regional Connectivity)
+ix.  Member (Social Sector and Devolution)
+x.   Member (Governance, Innovation and Reforms)
+xi.  Member (Science, Technology, and ICT)
+xii. Vice-Chancellor Pakistan Institute of Development Economics (PIDE)/Member Research
+
+7.13 The Planning Commission meets under the Chairmanship of the Prime Minister on a biannual basis to monitor the progress of economic policies and for future guidance. The Advisory Committee to the Planning Commission can be found in Annexure 29. An organogram of the Planning Commission is shown in Figure 2. Names of the Deputy Chairmen/Chairperson in chronological order are given in Annexure 30.  
+
+Figure 29: Organogram of Planning Commission
+
+1. Prime Minister
+2. Minister for Planning,Development & Reform
+3. Deputy Chairman
+            a.Advisiory Committee
+            b.Member(Coordination)/Secretary,PDR
+                               i.
+                               1. Member(Social Sector& Devolution)
+                               2. Member(Energy)
+                               3. Member(I & M)
+                               4. Member(Economic Policy/Planning/CE)
+                               ii.
+                               1. Member(Private Sector Dev. & Competitiveness)
+                               2. Member(Gov.Innovation Reforms)
+                               3. Member(Dev.Communication)
+                               iii.
+                               1. Member(S & T,ICT)
+                               2. Member(Infra & Regional Connectivity)
+                               3. Member(Food Security & Climate Change)
+                               4. Member(Research/VC,PIDE)
+                               
+
+
+APPENDIX A | 117
+
+
+National economic planning and coordination forums
+
+
+NATIONAL ECONOMIC COUNCIL (NEC)
+
+
+7.14 The NEC is the apex economic and development policy forum mandated by the Constitution to approve vision statements, long-term perspective plans, five-year plans, annual plans, and the Public Sector Development Programme (PSDP). The current composition of the NEC (Cabinet Division Notification No. F.5/1/201) includes the Prime Minister (Chair), four Chief Ministers, four members nominated by the Prime Minister and four members nominated by the respective Chief Ministers. ( CM can nominate one member on his behalf.)
+
+7.15 Those who attend the NEC meetings on special invitation are: Governor Khyber Pakhtunkhwa, Prime Minister Azad Jammu, and Kashmir (AJ&K), Chief Minister Gilgit -Baltistan (GB), Deputy Chairman Planning Commission, secretaries Finance Division, EAD and Planning Commission, whereas the Chief Secretaries of the provinces, Azad Jammu, and Kashmir (AJ&K) and GB are invited on need-basis.
+
+7.16 The Council meetings are summoned by the Chairman or on request of one-half of the members of the Council who shall meet at least twice a year and the quorum for a meeting is one-half of its total membership. The Council is answerable to the MajliseShoora (Parliament) and submits its Annual Report to the National Assembly and the Senate.
+
+ANNUAL PLAN COORDINATION COMMITTEE (APCC)
+
+
+7.17 The APCC is mandated to review the Annual Plan of the previous and current years and recommends the proposed Annual Plan of the subsequent year for submission to the NEC. In addition, it reviews the PSDP of the previous and current year and recommends the proposed PSDP of the next year for submission to the NEC. The APCC is chaired by the Minister PD&SI or Deputy Chairman Planning Commission. Its members include:
+i.  Governor State Bank of Pakistan,
+ii. Ministers for Finance Division
+iii.P&D Departments of all provinces and AJ&K
+iv. Deputy Chief Executive of Northern Areas
+v.  Chairmen P&D boards Punjab and Sindh
+vi. Additional Chief Secretaries (Development) of Sindh, Balochistan, KhyberPakhtunkhwa, AJ&K and GB
+vii.Provincial Finance Secretaries
+viii.Secretaries of all Federal Ministries
+ix.  Chief Economist Planning Commission
+x.   Chairmen FBR, NHA, WAPDA, PAEC, PNRA, HEC and CDA
+xi.  Economic Adviser Finance Division
+xii. Additional Secretary (Budget) Finance Division  
+xiii.Members of Planning Commission and officers of the Planning Commission.
+
+118 | APPENDIX A
+
+
+Development Project/Programme Approval Forums
+
+
+EXECUTIVE COMMITTEE OF THE NEC (ECNEC)
+
+
+7.18 The composition of the Executive Committee of NEC (ECNEC) changes from time to time. Currently, the ECNEC (Cabinet Division Notification No. F.5/2/2018-Com., Islamabad, dated 28 April 2020.) includes six federal ministers and one minister from each of the four provinces, whereas Deputy Chairman Planning Commission, secretaries EAD, Finance Division and Planning Commission, Chairmen P&D boards of Punjab and Sindh, Additional Chief secretaries P&D departments Khyber Pakhtunkhwa (KP) and Balochistan are invited to the meetings on special invitations (Annexure 31). Moreover, other officers of the federal and provincial governments as well as governments of AJ&K and GB are invited to the ECNEC meetings on a need-basis.
+
+
+7.19 The functions and powers of the ECNEC are to:
+i.  Sanction development projects (both in public and private sectors) each costing more than Rs. 10 billion or according to the sanctioning limits approved by the NEC and notified/issued by the MoPD&SI. (Planning Commission Notification No. 20(1)/PIA-I/PC/2019, dated 23 September 2019.), (Cabinet Division Notification No. F.5/2/2018Com., Islamabad, dated 22nd September 2021.)
+ii.  Allow moderate changes in the Annual Plan and sectoral adjustments within the overall Plan allocation.
+iii. Allow changes, as deemed appropriate in plans initiated by the Planning Commission/MoPD&SI. Cabinet Division Notification No. F.5/2/2018Com., Islamabad, dated 22nd September 2021.
+iv.  Review policy issues relating to development projects/programs/plans before submission to the NEC. Ibid.
+v.   Supervise the implementation of the economic policies laid down by the Cabinet and the National Economic Council.
+vi.  Pronounce on cases for the grant of protection of indigenous industry.
+vii. Pronounce on cases involving the grant of licenses for exploration or exploitation of oil and other mineral resources or extension in the area of operation.
+viii.Issue reports asked requested by the Committee in pursuance of its earlier decisions.
+ix. Act on any other matter referred to the Committee by the Prime Minister, the NEC, the Council of Common Interests (CCI) and the Cabinet or raised by any member in the Committee with the permission of the Chair.
+
+
+CENTRAL DEVELOPMENT WORKING PARTY (CDWP)
+
+
+7.20 The CDWP is responsible for the scrutiny and approval of the development projects. Its current composition is  (Planning Commission Notification No.23(1-2) PIA/PC/2014, Islamabad, 23 January 2015.) (Annexure 32):
+i.  Deputy Chairman Planning Commission (as Chairman)  
+ii. Chairman P&D Board, Government of Punjab  
+iii. Chairman P&D Board, Government of Sindh
+iv. Additional Chief Secretary (Development) P&D departments, governments of KP, Balochistan, AJ&K and GB
+v. Secretary Development GB  
+vi. Representatives of the Finance Division, EAD, Climate Change Division, relevant federal administrative divisions
+vii. Chairman Pakistan Council of Science and Technology  
+viii. Planning Commission/PD&SI Division – Secretary, Chief Economist, all Members of the Planning Commission, Additional Secretary, Joint Chief Economists (Operation) and (Macro), Advisor (Development Budget), Advisor (Development Projects), chiefs of sections including the Public Investment Programming (PIP), Public Investment Authorization (PIA), Physical Planning and Housing (PP&H), Employment and Research, Economic Appraisal, Chief of the section concerned, Director-General Project Wing, DG PPMI, Energy Coordinator/official spokesman, and
+ix. by special invitation – Housing and Works Division, Pakistan Engineering Council (PEC), BoI, NESPAK, Environment Protection Agency, and a representative of Pakistan Council of Architecture and Town Planning (PCATP).
+
+7.21 CDWP is authorized to approve development schemes up to Rs. 10,000 million. (These sanctioning powers for development projects are only for local funded projects. In cases where foreign exchange or foreign assistancesis more than 25 percent of the total cost of the project, the approving forum will be CDWP/ECNEC irrespective of the cost of the project vide Planning Commission Notification No.20(1) PIA-I/PC/2019 Islamabad, dated 23 September 201)(Annexure 33). Beyond this cost threshold, the CDWP recommends projects to the ECNEC for consideration and approval. The Deputy Chairman Planning Commission (DC PC) or Secretary, PD&SI Division in the DC’s absence can chair the CDWP meeting.
+
+FEDERAL DEPARTMENTAL DEVELOPMENT WORKING PARTY (DDWP)
+
+7.22 The sanctioning power of the DDWP to approve the PC-I or PC-II of a project is up to Rs. 2,000 million (These sanctioning powers for development projects are only for local funded projects. In cases where foreign exchange or foreign assistances is more than 25 percent of the total cost of the project, the approving forum will be CDWP/ECNEC irrespective of the cost of the project.) provided foreign assistance is less than 25 percent of the total cost of the project.
+
+7.23 The composition of the federal DDWP includes:
+i.    Secretary/Principal Accounting Officer of an administrative division (chairman).
+ii.   Chief (in person) of the section concerned of the Planning Commission.
+iii.  Joint Secretary Finance Division.
+iv.   Chief Finance and Accounts Officer (CF&AO) of the division concerned.
+v.    Representatives of the Appraisal Wing of Planning Commission, EAD (if the project involves foreign assistance).
+vi.   Environment Protection Agency (EPA).
+vii.  National Engineering Services Pakistan (NESPAK).
+viii. PEC by invitation.
+ix. A representative of the provincial government concerned if the proposed projects impact it.
+
+7.24 The functions of DDWP are given in Annexure 34. The procedure for approval of schemes by the federal DDWP is given in Annexure 10.
+
+DEVELOPMENT WORKING PARTY (DWP – AUTONOMOUS ORGANIZATIONS)
+
+7.25 The Public sector autonomous organizations whether commercial or noncommercial (with a functional board by any name) are competent to sanction their development schemes based on 100 percent self-financing having no government guarantee and involving less than 25 percent foreign exchange assistance. These are subject to the following requirements (Annexure 35):
+i.  The DWP should be constituted by each organization and notified to consider and approve its self-financed projects.
+ii. The DWP should be headed by the chairman/head of the organization and,  among others, should include representatives of the Planning Commission, Finance Division, and the ministry/division concerned, each not below the rank of a Joint Secretary.
+iii.Organization and, among others, should include representatives of the Planning Commission, Finance Division, and the ministry/division concerned, each not below the rank of a Joint Secretary.
+iv. The quorum of the DWP will be incomplete without the presence of either representative of the Finance Division or the Planning Commission.
+v. In case either of these divisions does not agree to the project/proposal/PC-I or any aspect thereof, it will be referred to the CDWP for its consideration. 
+vi.The decision of the DWP will be subject to the endorsement of the board of the organization.
+
+ECONOMIC AND DEVELOPMENT PLANNING SYSTEM IN PROVINCES AND SPECIAL AREAS
+
+7.26 After the 18th Constitutional Amendment, the provincial planning has transformed with the introduction of a medium-term perspective, increased inflow of resources, and new planning imperatives such as public-private partnerships and RBM.
+
+7.27 The formulation of the Annual Development Programme (ADP) and approval of development projects are important exercises carried out by the P&D boards/departments at the provincial and special area levels in consultation with the provincial departments and agencies concerned. This exercise is based on the guidelines provided by the federal government in accordance with the national priorities and resource availability. The ADP formulation exercise determines the size and the direction of the public sector programme in the provinces.
+
+APPENDIX A | 121
+
+Planning and Development (P&D) Boards and Departments
+
+7.28 The P&D Boards of Punjab and Sindh – head by their respective Chairmen and P&D Departments of KP, Balochistan, AJ&K and GB led by Additional Chief Secretaries (Development) are responsible for the formulation of the development vision andeconomic planning policies of the provincial and special area governments, in consultation with their all stakeholders by following NEC guidelines. These are also responsible for the preparation of the Medium-Term Development Framework (MTDF) and ADP as well as appraisal of development projects and programmes, local funding and external financing, and monitoring of their implementation.
+
+7.29 Further to the NEC decision of 24 May 2012 (Annexure 36), the Provincial Development Working Party(ies) PDWP(s) in Punjab, Sindh, KP and Balochistan are competent to approve development projects each costing up to Rs. 10,000 million provided that no external funding is involved. The PDWPs are also authorized to approve feasibility studies costing up to Rs. 500 million.
+
+PUNJAB
+
+PLANNING AND DEVELOPMENT BOARD
+
+7.30 The P&D Department of Punjab was established on the 1st July 1970, which subsequently evolved into the Punjab Planning and Development Board (PP&DB) in 1977.
+
+7.31 The PPDB comprises the following:
+i.   Chairman of the Board,  
+ii.  Chief Economist,  
+iii. Secretary P&D Department, and  
+iv.  Members Water, Private Sector Development, Production Sector, Energy, Health and Nutrition, Governance, Information Technology (IT) and External Capital Assistance (ECA), and Environment and Climate Change.
+
+
+7.32 The Board is organizationally divided into functional sections, head by a senior chief/chief/joint chief economist. The economic sections deal with matters relating to coordination with the federal government on economic issues and development plans, macroeconomics and policy analysis, project economic appraisal, and monitoring and evaluation (M&E). The technical sections are responsible for the technical appraisal of development projects of different sectors, that is, water and power, roads and bridges, urban development, development authorities, regional planning, agriculture, livestock and dairy development, forests and fisheries, industries and manpower health, population welfare and nutrition, education and training, information, culture, tourism, social welfare, housing and physical planning, urban and rural water supply and sewerage. Other sections include governance, IT, and ECA, Environment and Climate Change, and the Projects Training Institute.
+
+122 | APPENDIX A
+
+FUNCTIONS
+
+7.33 While performing its functions, the P&D Board closely coordinates with the Finance Department regarding the formulation and determination of the ADP and the approval of individual development schemes during the ADP implementation. At all levels, efforts have been accelerated to involve non-governmental organizations (NGOs) and communities in development works. For the social sectors, the involvement of the NGOs in development works through health and education foundations is being promoted. Lately, the private sector has also been involved in project financing and implementation.
+
+7.34 The functions assigned to PP&DB include(i-xvi):
+i.  Formulation of the provincial government vision, policies and strategies for economic planning and development in consultation with all stakeholders, in the light of the NEC guidelines.
+ii. ADP and MTDF including:
+    •     Preparation in coordination with all departments of the provincial government
+    •    Monitoring implementation, and
+   •    Evaluation of development projects and programmes
+iii.Analytical work on economic issues, including conduct research, surveys, reviews, and analyses of the socio-economic data.
+iv. PSDP including preparation of the short- and long-term provincial development plans and coordination with the federal government.
+v.  Policy for the approval of development schemes as a catalyst for different departments and sectors to improve the pace and quality of economic development.
+vi. Resource allocation, reappropriation of development funds, appropriations from block allocations and disbursement of the supplementary grants.
+vii. Secretariat of the PDWP and clearinghouse for the development projects and programmes requiring approval of the CDWP and ECNEC.
+viii.Foreign assistance, including determination of key areas for such assistance and preparation of the sector-wise portfolios, loan negotiations and securing federal financial guarantees, wherever required, and review of foreign aided projects.
+ix. Coordination of nominations for foreign training, seminars, conferences, and workshops for all officials serving in the provincial government.
+x.  Capacity-building of the government departments, agencies, and functionaries for good governance.
+xi.  Accelerated development of the rain-fed (barani) and less developed areas.
+xii. Framing guidelines for the procurement of consultancy services, policy formulation concerning private sector development and promotion and public private partnerships (PPPs).
+xiii. Implementation, development, and administration in respect to the foreign assisted/funded and mega ADP projects.
+xiv. Matters relating to attached departments, autonomous bodies, and special institutions of the P&D Department.
+xv. IT including:
+•    IT policy
+•    Electronic data management
+•    Control of and liaison with district IT departments
+•    E-governance and E-service delivery
+•    Web content management
+•    Pre-qualification of firms to provide IT consultancy, software development, and IT products to the government
+•    Coordination with both the public sector departments and private sector agencies in the field of IT
+•    Service matters of the IT cadres, both at the provincial and district levels
+xvi.Administration of the following laws and the rules framed thereunder:
+•     The Cholistan Development Authority Act 1976.
+•     The Punjab Economic Research Institute Ordinance 1980.
+•     The Punjab Public-Private Partnership for Infrastructure Act 2010.
+
+Development Project Approval Forums in Punjab
+
+PROVINCIAL DEVELOPMENT WORKING PARTY
+
+7.35 The PDWP is the highest body in the Punjab province to approve the provincial development projects. The composition of the PDWP is:
+i.  Chairman P&D Board
+ii. Provincial secretaries P&D
+iii.Finance, Environment, and the Project Sponsoring departments
+iv. All members of the PP&DB
+v.  Director Punjab Economic Research Institute
+vi. Director-General M&E of the P&D Board and any co-opted member/s.
+
+DEPARTMENTAL DEVELOPMENT SUB-COMMITTEE
+
+7.36 The DDSC in Punjab is authorized to sanction development schemes from Rs. 200 million to Rs. 400 million. The DDSC comprises of:
+i.   Secretary of the administrative department concerned (as chairman)
+ii.  Representatives of the Finance Department (not below the rank of Deputy Secretary), PP&DB (not below the rank of the Chief of a section), Communication and Works (C&W) /Engineering Department (not below the rank of Chief Engineer) and any co-opted member/s.
+
+DIVISIONAL DEVELOPMENT WORKING PARTY (DDWP)
+
+7.37 The DDWP is competent to approve development projects up to Rs. 200 million. The DDWP comprises of:
+i.  Divisional Commissioner (as chairman)
+ii. Deputy Commissioners (DCs) of the division
+iii.Superintending Engineers of Irrigation, and C&W departments
+iv. Divisional heads of the sponsoring departments
+v.  Director (development/finance) as a member/secretary.
+
+DISTRICT DEVELOPMENT COMMITTEES (DDC)
+
+7.38 The DDC is authorized to approve development projects costing up to Rs. 50 million in a district. The Committee is composed of:
+i.  DC (Chairman)
+ii. Additional Deputy Commissioners (Finance & Planning and Revenue)
+iii.Chief Engineer/SE/XEN concerned
+iv. Head of the office concerned and Deputy Director (Planning) as a member/secretary.
+
+7.39 The DDSC, DDWP and DDC are not competent to approve any scheme having a foreign exchange or foreign assistance component and/or subsidy, irrespective of the project cost. These must be placed before the PDWP for consideration and approval. Similarly, any survey and feasibility study (PC-II) is submitted to the PDWP for consideration and approval, irrespective of the cost.
+
+SINDH
+
+
+SINDH PLANNING AND DEVELOPMENT BOARD
+
+
+7.40 The government of Sindh established the P&D Department on the 1st July 1970 to formulate development policies, plans and projects. Following 18th Constitutional amendment which significantly enhanced the planning and service delivery functions of the provincial governments, it became imperative to transform and restructure the P&D Department into a P&D Board. The Sindh Planning and Development Board (SP&DB) came into existence on 21st February 2017. The Board comprises a chairman and seven members:
+i.  Secretary P&D Department (as a member/secretary of the Board),
+ii. Chief Economist
+iii.Members Development, Energy and Infrastructure, Services, Natural Resources, and Social Sectors.
+
+7.41 The Board is authorized to approve development projects.
+
+7.42 The SP&DB has the following functions(i-xxvi):
+i.Coordination of technical assistance from abroad.
+ii.Coordination of statistics in general, and all matters relating to Bureau of Statistics.
+iii.Coordination and training of officers in foreign countries.
+iv.Economic research and matters relating to the Board of Economic Inquiry.
+v. Evaluation of the progress of development schemes and writing their critical appraisal.
+vi. Foreign aid and technical assistance.
+vii. Initiation of measures for giving suitable publicity to the development plan and educating the public on the results achieved from time to time.
+viii.Maintaining liaison with the national planning agencies.
+ix. Planning including policy and development.
+x.  Processing of all development schemes, programmes and proposals submitted by other department and making recommendations to the government thereon.
+xi.  Bureau of Statistics.
+xii. Research and Training Wing.
+xiii. Assessment, planning, coordination, promotion and development of science and technology with the following methodology:
+•  Formulation requirement of science and technology studies, terms of reference for selection of consulting firms and arranging technology studies on contract.
+•  Dissemination of IT to the public and private sector.
+•  Implementation of approved science and technology programmes based on such studies in consultation with the relevant agency, that is, the Department of Education, universities, boards etc.
+•  Contractual research (funding, contracting, and monitoring) in the public and private sectors in all fields of science and technology to meet the assessed needs of industry and agriculture.
+•  Setting up of institutions, laboratories or organization for research and development.
+xiv. Promotion of applied research and utilization of research results in the scientific and technological fields carried out at home or aboard.
+xv. Guidance to the research institutions in the field of scientific and technological research.
+xvi. Development of human resources and their optimal utilization in science and technology.
+xvii. M&E work done by the provincial research and development (R&D) institutes through a system of peer review and performance audit.
+xviii.Recognition of research achievement through prizes and awards based on a system of peer review.
+xix.  Establishment of scientific and industrial research advisory council at the provincial level.
+xx.   Liaison and interaction with the Ministry of Science and Technology and Research and Development.
+xxi.  Implementation of programmes under the national technology policy as applicable to Sindh.
+xxii. Sindh Land Bank.
+xxiii.Adopt modern techniques and tools of planning and development to meet increasing development challenges confronted to the province amidst persistent catastrophes (floods, devastating rainfalls, droughts, etc.) and bring the province to the trajectory of sustainable economic growth and prosperity.
+xxiv. Serve as an engine of growth for robust economic development in different sectors of the economy.
+xxv. Matters relating to the Bureau of Statistics.
+xxvi.Service matters, except those entrusted to the Services, General Administration and Coordination Department.
+
+Development Project Approval Forums in Sindh
+
+PROVINCIAL DEVELOPMENT WORKING PARTY (PDWP)
+
+7.43 The Party is the highest body in Sindh Province to approve the provincial development projects. Its composition is:
+i.  Chairman P&D Board
+ii. Provincial secretaries of the Finance
+iii.P&D Department and Project Sponsoring Department
+iv. Members P&D Board for Energy, Infrastructure and Services
+v.  Chief Economist
+vi. Senior Chief/Chief of the section concerned of the P&D Department (Annexure 37).
+
+7.44 A technical committee under the Secretary P&D Department has also been constituted for scrutiny of development schemes before placing them on the agenda of the PDWP.
+
+APPENDIX A | 127
+
+DEPARTMENTAL DEVELOPMENT WORKING PARTY (DDWP)
+
+7.45 The DDWP is responsible for approving projects costing up to Rs. 100 million at the departmental level. It is head by the Secretary of the administrative department concerned, a representative each from the Finance Department (not below the rank of Deputy Secretary) and P&D Department (not below the rank of Chief of the section), C&W/Engineering Department (not below the rank of a Chief Engineer) as members, and any co-opted member/s.
+
+DIVISIONAL DEVELOPMENT BOARDS (DDBS)
+
+7.46 These Boards are responsible for approving development projects costing up to Rs.60 million at the divisional level. The Board includes:
+i.   Divisional Commissioner (Chairman)
+ii.  Deputy Commissioners of the division
+iii. Superintending Engineers of Irrigation and Power
+iv.  C&W Departments,  
+v.   Divisional head of the sponsoring department
+vi.  Director (Development/Finance) as a member/secretary.
+
+DISTRICT DEVELOPMENT COMMITTEES (DDC)
+
+7.47 This Committee, responsible to approve projects each costing up to Rs. 40 million, is composed of:
+i.  Deputy Commissioner (as Chairman).
+ii. Executive District Officers (EDOs) Finance and Planning, Works and Services, and department concerned.
+iii. District Officers (DOs) Planning (member/secretary) and department concerned.
+
+KHYBER PAKHTUNKHWA
+
+PLANNING AND DEVELOPMENT DEPARTMENT
+
+7.48 This Department in KP, established on the 1st July 1970, is headed by the Additional Chief Secretary (Development). The Department is responsible for the following functions(i-xx):
+i.  Formulation of government vision, policies, strategies and development plans for economic planning and inclusive/sustainable development.
+ii. Initiate reforms to accelerate the pace of economic and social development.
+iii. Appraisal, monitoring and evaluation of development projects and programmes.
+iv.  Processing of development schemes, programmes and proposals submitted by other departments including autonomous bodies and making recommendations to the government thereupon.
+v.   Secretariat functions of the Provincial Development Working Party.
+vi.  Act as the clearinghouse for development schemes within the competence of the federal government, that is, CDWP/ECNEC, including representation in the DDWP.
+vii. Focusing accelerated development of the less developed and vulnerable areas.
+viii. Periodically review the progress of development projects including PSDP and foreign-assistance projects.
+ix. Determining policies for approval, review, and monitoring of development schemes for the government.
+x.  Appropriation and reappropriation of development grants provided in the budget.
+xi. Protocol functions in connection with visits of the foreign economic missions and delegations, etc.
+xii. Coordination of the provincial statistics in general and all matters relating to the Bureau of Statistics.
+xiii. Economic research, analysis, and surveys.
+xiv. Coordination of technical assistance from abroad including training facilities for government employees, expert advisory services, and equipment.
+xv. Policy formulation concerning private sector development and promotion and public-private partnership (PPP).
+xvi. Ensure compliance to the international commitments in the development process.
+xvii. Capacity-building of the government departments, agencies, and functionaries for good governance.
+xviii. Matters relating to attached departments, autonomous bodies, and special institutions of the P&D Department.
+xix. Electronic data management and liaison with the line departments at the provincial and district levels regarding planning and development.
+xx. Mattes ancillary to the above subjects.
+
+
+Development Project Approval Forums in Khyber Pakhtunkhwa
+
+PROVINCIAL DEVELOPMENT WORKING PARTY (PDWP)
+
+7.49 The composition of the PDWP in KP includes:
+i.  Additional Chief Secretary (as chairman)
+ii. Provincial secretaries of the Finance, Forestry, Environment and Wildlife departments, and the department concerned
+iii.Secretaries of the C&W and Local Government Department (co-opted).
+
+APPENDIX A | 129
+
+DEPARTMENTAL DEVELOPMENT WORKING PARTY (DDWP)
+
+7.50 The DDWP forum is chaired by the administrative secretary of the department concerned and competent to approve projects each costing up to Rs. 200 million. Other members include:
+i.  Secretaries P&D and Finance departments
+ii. Representatives of the Local Government, C&W, and Forestry, Environment and Wildlife departments.
+
+DISTRICT DEVELOPMENT COMMITTEE (DDC)
+
+7.51 The DDC is a district level forum for approving development schemes and is chaired by the Deputy Commissioner of the district concerned. Other members are:
+i.  EDOs (Finance and Planning) and C&W,  
+ii. District Planning Officer, EDO and DO (department concerned).
+
+7.52 The sanctioning power of the DDC is Rs. 40 million. All the non-ADP schemes regardless of the cost will be presented to the PDWP forum for approval.
+
+BALOCHISTAN
+
+PLANNING AND DEVELOPMENT DEPARTMENT
+7.53 This Department in Balochistan was established with the dissolution of One-Unit on the 1st July 1970. It is head by the Additional Chief Secretary (Development) and comprises operational sections, that is, Programming, Communication and Transport, Water and Power, Education and Local Government, Agriculture, Food and Fisheries, Health and Social Welfare, Natural Resources, Development Packages, Development Authorities, Forest, Livestock, Foreign Aid, and Information Technology. Each section is headed by a Chief and is responsible for examining all development matters about its assigned sectors, sub-sectors, and related development packages.  
+
+7.54 Under Rule 16 of the Balochistan Rules of Business, the P&D Department is responsible for all matters related to economic policy, planning, coordination, and development and for coordinating the activities of the various provincial departments in the economic field. The cases shall be referred to and processed by the P&D Department particularly about matters affecting or involving economic policy or any change or modification therein, development schemes and major capital outlays, all schemes and projects included in the Five-Year Plans, any matter affecting more than one sector of the economy of the province, and all new expenditures of development nature.
+
+
+7.55 The functions assigned to the P&D Department under the Balochistan Rules of Business 2012, include(i-xxi):
+i.  Scrutinizing development schemes prepared and forwarded by the administrative departments.
+ii. Preparation of the ADP with the coordination of all departments of the government of Balochistan.
+iii. Preparation of long-term development plans and coordination in the preparation of 5-year/rolling plans and any other national development plan.
+iv.  Researching economic issues of interest to the provincial government, socioeconomic impacts analysis and helping in the formulation of views on economic policy issues.
+v.  Compilation of the provincial statistical data with the help of the Bureau of Statistics.
+vi.  Acting as a catalyst between different development departments to improve the pace and quality of the economic development.
+vii.  Determining policy for the approval of development schemes of the provincial government.
+viii. Revising strategy for investment priorities based on the availability of internal and external resources.
+ix.  Helping in the formulation of policy regarding planning and devising guidelines in the development programmes.
+x.  Approval, monitoring, implementation, and allocation of development outlay for development programmes and projects.
+xi.  Acting as a clearinghouse for development schemes within the competence of the federal government, that is, CDWP and ECNEC.
+xii. Implementation relating to development and administration in respect of foreign assisted/funded projects in the province, lead steering committees in the Programme Requirements Baseline (PRBs) of various foreign-funded mega projects.
+xiii. Coordination of external capital development assistance including foreign training for the provincial government employees.
+xiv.  Evaluating the progress of development schemes and their critical appraisal
+xv.   Representation in the Departmental Development Committees.
+xvi.  Review of various development plans/projects to be implemented through the PSDPs by conducting Quarterly Review Meetings.
+xvii. Giving suitable publicity to development plans for the education of the public for better utilization of facilities development and the results achieved periodically.
+xviii. Looking after affairs of the autonomous bodies, such as Quetta Development Authority, Balochistan Development Authority, Gwadar Development Authority, Balochistan Coastal Development Authority, and Balochistan Water and Sanitation Authority.
+xix.  Selection of the Project Directors (PDs) through the Project Director Selection Committees.
+xx. Establishment of the Management Information System (MIS) for the provincial line departments for planning and monitoring.
+xxi. All service matters of the employees of the attached departments, excluding employees of the secretariat, and those matters entrusted to the Services and General Administration Department (S&GAD) or any other department. Development Project Approval Forums in Balochistan
+
+PROVINCIAL DEVELOPMENT WORKING PARTY (PDWP)
+
+7.56 The Party in Balochistan is head by the Additional Chief Secretary (Development), while the rest of the members include:
+i.  Secretary Finance Department
+ii. Secretaries of the administrative department concerned,  
+iii.Joint Chief Economist (P&D Department) as a member
+iv. Chief of the section concerned of the P&D Department as a member/secretary.
+ 
+7.57 The PDWP is also authorized to co-opt any member(s).
+
+7.58 The PDWP is the highest body at the provincial level to approve provincial development projects. There is no restriction on the PDWP, if it deems necessary, to call for or to consider any scheme referred to it by the DDSC or any department or agency (even if it falls below its normative approval threshold). The PDWP also considers approval of schemes that do not fall solely within the jurisdiction of any department but pertain to the whole of Balochistan. The province-specific schemes, reflected in the federal PSDP and proposed to be executed by the provincial department or agency, are approved by the PDWP first, and later submitted to the Planning Commission for further processing.
+
+
+DEPARTMENTAL DEVELOPMENT SUB-COMMITTEE (DDSC)
+
+
+7.59 The Balochistan DDSC is headed by the secretary of the department concerned comprising one representative each from the provincial Finance and P&D departments, and co-opted member(s), and head of P&D section concerned as a member/secretary.
+
+
+7.60 The DDSC is empowered to recommend and approve schemes or projects each costing up to Rs. 200 million related to the provincial ADP, whereas the technical members of the relevant or respective departments constituting the DDSC, are assigned to provide appropriate necessary technical input to enable the DDSC to timely consider and expeditiously dispose of the cases referred to it.
+
+DIVISIONAL DEVELOPMENT WORKING PARTY (DDWP)
+
+7.61 The DDWP is competent to approve development projects at the divisional level each costing up to Rs. 40 million. The DDWP is head by the Divisional Commissioner, Deputy Commissioner concerned, divisional head of the department concerned as a member, and
+
+132 | APPENDIX A
+
+Director (Development) of the P&D Department as a member/secretary.
+
+7.62 The schemes approved by the PDWP, DDSC, and DDWP should be in line with the objectives of the national, provincial, and sectoral plans, with no deviation from the principles and policies encompassing the plans. The schemes shall fall within the territorial limits of Balochistan.
+
+SPECIAL AREA GOVERNMENTS
+
+AZAD JAMMU AND KASHMIR
+
+7.63 A Planning Cell was established in the early 1960s to institutionalize a sound basis for the economic planning and development in the AJ&K. The cell was upgraded to the Planning and Development Department in 1972 with the following functions (almost similar to those of the provincial governments):
+i.   Formulation of planning and development policies and procedures.
+ii.  Coordination work related to the preparation of the ADP and its review.
+iii. Processing of all development schemes, programmes and proposals submitted by other departments including autonomous bodies, making recommendations to the government thereupon, and facilitating the functions of the Development Working Party.
+iv. Maintaining liaison with the national planning agencies.
+v.  Oversight of the autonomous and semi-autonomous bodies about development planning, programmes, and projects in the AJ&K.
+vi.  Coordination of economic assistance.
+vii. Monitoring and evaluation of the progress of development schemes and their critical appraisal.
+viii. Coordination of technical assistance from abroad including training facilities.
+
+7.64 There are two development project approval forums. The Azad Jammu and Kashmir Central Development Committee (AJKCDC), head by the Prime Minister AJ&K, is empowered to sanction development schemes from Rs. 400 million to Rs. 1,000 million. The Azad Jammu and Kashmir Development Working Party (AJKDWP), headed by the Additional Chief Secretary (Development), is competent to sanction development schemes up to Rs. 400 million (Annexure 38). The procedure of submitting schemes to approving forums in the AJ&K includes prescribed time limits for various project processing and approval stages (Annexure 39).
+
+GILGIT-BALTISTAN
+
+7.65 The P&D (P&D) Department is the premier agency of the government of GilgitBaltistan, which is responsible for planning, implementation, monitoring and evaluation of all development activities in GB. The P&D Department is headed by Secretary P&D. Its main functions as per Rule of Business 2009 are:
+i.  Preparation of the ADP in coordination with all departments of the GB government.
+ii.  Monitoring the utilization of the ADP funds.
+iii. Approval of development schemes.
+iv.  Coordination training in the economic development of all officers serving with the GB government.
+v.  Preparing the Five-Year and other area development plans.
+vi. Processing proposals for foreign assistance/aid projects.
+vii. Data collection, tabulation, and statistical matters.  
+viii. Coordination and supervision of development activities with line departments and federal ministries.
+ix.  Focal department for all national and international training programmes.  
+x.  Liaison with the UNDP, UNICEF and other international agencies and donors  
+xi. Attending seminars, conferences and meetings related to the PSDP.
+xii. Service matters, except those entrusted to the S&GAD Department.
+
+
+7.66  There are two development project approval forums in GB. The Gilgit-Baltistan Development Working Party (GBDWP), head by the Chief Minister, is empowered to sanction development schemes from Rs. 400 million to Rs. 1000 million. The Gilgit-Baltistan Departmental Development Working Party (GBDDWP), head by the Chief Secretary, is competent to sanction development schemes up to Rs. 400 million.
+
+
+7.67 All funds for development programmes in the AJ&K and GB are provided by the federal government. The sanctioning powers of the foregoing development forums are only for locally funded projects. In cases, where foreign exchange or assistances is more than 25 percent of the total cost of the project, the approving forum is the CDWP and ECNEC irrespective of the cost of the project.
+
+APPENDIX - B
+
+136 | APPENDIX B: LIST OF ANNEXURES IN THE COMPENDIUM OF ANNEXURES
+
+APPENDIX B
+
+LIST OF ANNEXURES IN THE COMPENDIUM OF ANNEXURES: SUPPLEMENT TO THE MANUAL FOR DEVELOPMENT PROJECTS BY THE PLANNING COMMISSION
+
+
+Table 22: List of Annexures in the Compendium of Annexures: Supplement to
+the Manual for Development Projects by the Planning Commission:
+1.Processes and Procedures to Improve Project Management
+2.PC-II Proforma
+3.Planning Commission Feasibility Study Requirements
+4.Sectoral Classification of Development Expenditure
+5.NEC Meeting (10th June, 2013)
+6.PC-I Proforma
+7.Planning Commission Guidelines on Calculating Pakistani Rupee (PKR) Equivalent of the Foreign Exchange Component (FEC) of Projects
+8.Extension in Execution of Development Projects
+9.Guidelines/Procedures Development Projects
+10.Procedure for Approval of Schemes by Federal Level DDWP
+11.Procedure for Preparation and Approval of Development Projects
+12.Guidelines/Procedures Development Projects
+13.Procedure/Instructions Regarding Grant of Anticipatory Approval by the Chairman, ECNEC
+14.Concept Clearance Proposals – Policy Guidelines
+15.Procedure for Approval of PforR, FIP and DPC Mode of Financing
+16.Guidelines by Finance Division for Release of Development Funds to the PSDP-Funded Projects
+17.Guidelines for the Appointment of an Independent PD (5th April, 2012)
+18.Guidelines for the Appointment of an Independent PD (11th March, 2016)
+19.Guidelines of Project Management Issued by Project Wing Planning Commission
+20.Waiver of Framing of Recruitment Rules for Projects Posts in Ministries/ Divisions
+21.Standard Pay Package for the Project Staff
+22.PC-III Proforma
+23.PC-IV Proforma
+24.PC-V Proforma
+25.Redesignation of National Planning Board (Notification)
+26.Redesignation of National Planning Board (Resolution)
+27.Reorganization of the Non-Technical Sections of the Project Division
+28.Report of Deputy Chairman of the Commission to the Minister PD&SI in June, 2019
+29.Constitution of Advisory Committee of Planning  Commission/Ministry of Planning & Development
+30.Names of the Deputy Chairmen/Chairperson in Chronological Order
+31.Reconstitution of ECNEC
+32.Composition of Central Development Working Party (CDWP)
+33.Enhancement of Sanctioning Powers of Federal Projects Approving Fora
+34.Functions of Federal Level DDWP
+35.Procedure for Approval of Self-Financing Development Schemes of Autonomous Organizations
+36.Enhancement of Sanctioning Powers of the PDWPs
+37.Constitution of the Sindh Provincial Development Working Party (PDWP)
+38.Enhancement of Sanctioning Limits of Development Fora Of Special Areas (AJ&K, GB, and FATA)
+39.AJ&K P&D Department Guidelines/Time Limits, for Streamlining the Process of Development Projects
+40.Notice Regarding Financial Discipline in Execution of Projects/Schemes
+41.Procedure for Fresh Approval of a Development Scheme in Case of More Than 15% Increase from Originally Approved Cost
+42.Resolution of the Ministry of Economic Affairs (July, 1953)
+43.Resolution Regarding the Functions of the Planning Board (April, 1957)
+44.Resolution of Cabinet Division (April, 2006)
+45.Re-Naming of the Ministry of Planning and Development, and Restructuring of the Planning Commission
+46.Instructions on Evaluation and Appraisal of Project
+47.Prohibition to Propose Ex-Post-Facto Approval of Projects
+

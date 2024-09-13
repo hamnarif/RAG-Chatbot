@@ -1,0 +1,155 @@
+94 | CHAPTER 6: PROJECT COMPLETION AND EVALUATION
+
+PROJECT COMPLETION
+
+6.01 The project completion aims to bring project execution to a formal and orderly conclusion, which includes informing all stakeholders about the completion of the project. It triggers the winding up of technical, operational, and administrative actions by the project-sponsoring public sector entity as determined in the last approved version of the PC-I.  
+
+6.02 The project is completed or closed when all the funds have been utilized and objectives achieved or abandoned for any reason. At this stage, the project must be closed formally, and reports prepared on its overall performance and results achieved using the PC-IV proforma (Annexure 23). This involves handing over the deliverables to the authorities concerned, closing of the supplier’s contracts, closure of bank account, releasing security money, staff, and equipment as well as informing stakeholders about the closure of the project per the last approved PC-I.
+
+6.03 Project closure can be best understood by dividing it into two parts: 1) Operational, and 2) Financial.
+
+OPERATIONAL CLOSURE
+
+6.04 The operational closure of the project indicates the stage when the last input has been provided, all activities including reconciliation of expenditure and statutory audit ended, assignments of all project personnel completed and disposal of or transfer of equipment purchased by the project has been carried out. It also marks the point in time beyond which no further financial obligations or commitments should be incurred. For regular operation and maintenance of projects after the closure stage, it should be handed over to the agency responsible for maintenance and operation. Timely efforts are required to be made for the handing over of the project and provision of maintenance cost to the authority concerned. This exercise should be initiated six months before the expected completion date. If any of the project staff is required to be retained for the operation of the project, a case for the shifting of the post in the budget may be initiated and get approval from the Finance Division well in time so that the continuity in project operation is not hindered and public assets created under the project are maintained.
+
+FINANCIAL CLOSURE
+
+6.05 The financial closure takes place right after the operational closure. Ideally, the operational and financial closures should be done simultaneously to avoid large gaps between the two. The financial closure marks the date after which no further transaction on that project account will be permitted. The sponsoring agency concludes that all financial transactions that it has authorized have been finalized and that there are no further financial commitments (hard or soft) or forecasts and there exists no cash deficit or a liability. The sponsors must also verify that the total expenditures are within the allocated budget. However, the closure of the project may not be delayed on account of the security money. It is recommended that the pay order of the security money is prepared by a bank and released after completion of the maintenance period or defects liability period as per rules. The financial closure should be achieved within six months of the operational closure.
+
+CHAPTER 6: PROJECT COMPLETION AND EVALUATION | 95
+
+
+RESPONSIBILITY FOR PROJECT CLOSURE 
+
+6.06 The project sponsoring agency is responsible for initiating, completing, monitoring, and executing the tasks necessary for completion and closure of the project. They have the final responsibility for ensuring the project closure tasks are undertaken as and when required. It is worth mentioning that liquidation of commitments is usually the most time demanding task and for this reason, it is advisable that the sponsoring agency prepares and regularly updates the liquidation of commitments including the final payments. The same applies to the disposal or transfer of the project assets.
+
+PROCEDURE FOR PROJECT CLOSURE
+
+6.07 At the project closure, submission of the PC-IV to the Planning Commission by the sponsoring agency is mandatory without any exception. Based on the PC-IV, the Projects Wing of the Planning Commission will present the Appraisal Paper (AP) for the consideration of the CDWP. In the case of the DDWP, PDWP and special areas DWP projects, the AP will be represented by the Planning and M&E Cells of the sponsoring agency, respectively. The respective forum will then consider the PC-I targets (physical as well as financial) versus achievements, timelines and lesson learnt before approval for project closure. The sponsoring agency will be responsible for replies and justification if required by the competent forum.
+
+6.08 If the project is to be maintained after completion by another agency, then both the agencies shall coordinate in advance for the transfer of project assets and liabilities with a proper inventory of handing and taking over. If some staff of the project is to be retained for the operation of the project, then a case for the creation of posts under revenue budget may be initiated by the PD at least six months ahead of the planned closing date. The sponsors (PAO) will submit and certify closure of bank accounts and cash/accounts before consideration and approval of the PC-IV by the competent forum.
+
+6.09 The sponsoring agency will ensure the required O&M budget allocation in consultation with the Finance Division for the sustainability of the public investment. The sponsors (PAO) will be responsible to submit an annual report on the operation and management of the project after completion in the PC-V for 3-5 consecutive years (3 years of the sectoral projects and 5 years of the core projects) to the Planning Commission.
+
+6.10 The current market value of physical assets will be assessed and updated at the time of completion of the project. Appreciation of land cost will be assessed due to its location as per the B&R Code Act criteria and procedure. The cost of the physical assets will be registered in the inventory registered, both moveable and immoveable. Report of the annual stock-taking of the inventory will be maintained and will be submitted to the Cabinet as part of the Yearbook. Assets inventory addition/deletion should be an essential part of the Yearbook and the auditor should also audit the inventory and may submit a mandatory report. One percent of the current market value of the assets may be earmarked for maintenance in the current budget by the ministry concerned.
+
+6.11 In case of other physical assets like plant, machinery, vehicles, etc. each ministry/ division, provincial government and special areas will make its own arrangement for the O&M services including the option of any third party at a competitive price for the sustainability of public assets.
+
+Checklist for Project Completion and Closure (PC-IV)
+
+6.12  The following is a checklist for project closure (PC-IV):
+Table 16: Checklist for Project Closure (PC-IV)
+
+
+PROJECT EVALUATION
+
+6.13 The final phase of the project lifecycle is the evaluation of project performance and results. Project evaluation aims to determine the relevance, effectiveness, and impact of activities in the light of the objectives as systematically and objectively as possible (For definitions, see the UNICEF Guide for Monitoring and Evaluation (page 2); available at: https://silo.tips/download/a-unicef-guide-for-monitoring-and-evaluation). It allows us to ascertain the net benefits of a project or programme and draw lessons for the future. It is a critical analysis of the factual achievements and results of a project, programme or policy vis-à-vis the intended objectives, underlying assumptions, strategy,and resource commitment. PC-V proforma corresponds to project evaluation and is reproduced in Annexure 24.
+
+6.14 In specific terms, project evaluation tries to objectively assess:
+i.The relevance and validity of the objectives and design of the project or programme in terms of broader issues of the development policy, sector or sub-sector priorities and strategies as well as other problems of a wider nature.
+ii. The efficiency and adequacy of the pace of progress of the project or programme where the focus is mainly on the managerial performance and productivity.  
+iii. The effectiveness of the project or programme – a major part of an evaluation exercise is realizing the intended objectives from a variety of angles, and
+iv. The identification of reasons for the satisfactory or unsatisfactory accomplishment of the results of the project or programme and to deduce critical issues and lessons, which may be of relevance to other ongoing and future projects or programmes of a similar nature.
+
+98 | CHAPTER 6: PROJECT COMPLETION AND EVALUATION
+
+DIFFERENCE BETWEEN MONITORING AND EVALUATION
+
+6.15 Evaluation is a learning management tool but differs materially from monitoring. The project monitoring is undertaken at the implementation stage, while evaluation is generally preferred when a project is complete. The monitoring reports provide the database for the evaluation, but evaluation cannot contribute directly to monitoring. The evaluation studies are more comprehensive, covering all aspects of the projects, whereas monitoring provides information mainly to assess and help maintain or accelerate the progress of implementation. The key differences between the M &E functions are summarized in the table below.
+
+Table 17: Comparison of Monitoring and Evaluation
+
+
+TYPES OF EVALUATION
+
+6.16 Evaluation can be applied for different purposes as well as to a specific activity, project, or programme. It is not restricted to the completion stage only, but involves periodic investigations at many stages. Four different types of project evaluations are: exante evaluation, ongoing evaluation, final evaluation, and ex-post evaluation. 
+
+Figure 27: Types of Evaluation
+Ex-ante Evaluation->Conception & Decision Phase
+Ongoing Evaluation->Implementation Phase
+Final Evaluation->Post-Closure Operation Phase
+Ex-post Evaluation->Post-Closure Operation Phase
+
+
+CHAPTER 6: PROJECT COMPLETION AND EVALUATION | 99
+
+Table 18: Evaluation Type and Purpose
+
+
+6.17 The ex-ante evaluation or pre-approval appraisal has already been discussed with methods and techniques earlier in Chapter 5. The ongoing evaluation is carried out by the organization of its own to reassess the projected feasibility of the PC-I content, because of the time lag, while external evaluation is done by an agency other than the body involved in the implementation of a project.  The main purpose of this evaluation is to assist the project management to make appropriate adjustments in the changed circumstances or to rectify any shortcomings in the original design to improve its efficiency and overall performance. Further, the midterm evaluation of the project, having an execution period of three years or more must be conducted by a third party, as per the ‘Instructions on Evaluation and Appraisal of Project’ issued by the CDWP (Planning Commission Notification. No. 20(1-42)/PIA-I/PC/2021, Islamabad, 13th September 2021). This would help resolve any issues obstructing the project. For foreign-funded projects, annual rapid appraisal must be carried out and an annual report must be developed and shared. (Ibid)
+
+6.18 Final evaluation is done to assess results when a project concludes its implementation phase. It provides information that can be used to control for any negative consequences or breakdowns in the project to ensure smooth sailing in the future.
+
+6.19 The purpose of an ex-post or post-hoc evaluation is to assess the actual as opposed to the estimated/projected results of implementing a project. The aim of the evaluation is primarily to compare the actual outcome of the project with the projections made at the appraisal stage. The examination of different aspects of the project can provide important lessons derived from the experience for the new projects. The overall impact of the project will result in several effects, which can be classified as costs and benefits, direct and indirect or tangible and intangible. The ex-post evaluation takes place after the completion of the project and is often more in-depth as it focuses on the analysis of impact. Besides, it is time-consuming, costly and calls for persons with special skills.
+
+100 | CHAPTER 6: PROJECT COMPLETION AND EVALUATION
+
+EVALUATION INDICATORS
+
+6.20 These indicators are the yardsticks for the assessment of the overall performance of a project or programme regarding the stipulated targets and objectives. Typical performance indicators include:
+
+Figure 28: Performance Indicators for Evaluation
+Physical Achievements Indicators
+Output or Impact Indicators
+Economic Indicators
+Social Indicators
+Environmental Indicators
+
+i.Physical achievements indicators – These pertain to physical progress, and project cost and time over/underruns.  
+ii. Output or impact indicators – These are sector-specific—for an agriculture project, an increase in the agricultural production (whether crops, livestock, forest products, fish, etc.) in the project area could be used as an output indicator, and an increase in rural incomes as an outcome indicator. Other indicators could be agriculture credit applications processed or approved, agricultural extension workers trained, research and testing laboratories established, and so on.  
+iii. Economic indicators – These are indicators of economic and financial return on the project investment (for example, the financial rate of return, IRR, B/C ratio, etc.)
+iv. Social indicators – These often pertain to basic needs and quality of life, for example, life expectancy, literacy, income distribution with equity, level of food consumption, access to health and education, shelter, clean drinking water, etc. Many of the UN SDGs fall under this category.
+v. Environmental indicators – These have a direct bearing on the quality of life and sustainable development and include indicators related to air and water quality, land degradation, climate change, biodiversity etc.
+
+REQUISITES FOR PROJECT EVALUATION
+
+6.21 The approved PC-I, along with the related project documents, such as concept clearance paper, project appraisal report, loan/grant agreement and other documents for donor/IFI-assisted projects, and feasibility and other technical and sector studies, if any. The minimum requirements are:
+i.Pre-approval appraisal notes/CDWP working papers
+ii.Pre-approval technical scrutiny notes
+iii.ECNEC summary and its decisions
+iv.Sources of financial and other inputs
+v.Annual/quarterly progress reports
+vi.Project review/monitoring/mid-term evaluation reports
+vii.Special reports
+viii.Project completion report (including those prepared by external funding agencies)
+
+CHAPTER 6: PROJECT COMPLETION AND EVALUATION | 101
+
+6.22 The aforementioned documents form the basis of the assessment of different project components and activities. Project site visits also help in the on-ground assessment of project performance and results and its effect/impact on the target group/beneficiaries. The following key questions should be addressed in any evaluation exercise:
+
+Table 19: Key Questions for Evaluation
+
+
+Checklist for PC-V
+
+6.23 The checklist for PC-V is as follows:
+
+Table 20: Checklist for PC-V
+
+
+
+CHAPTER 6: PROJECT COMPLETION AND EVALUATION | 103
+
+MANDATORY EVALUATION REPORTS
+
+6.24 The project evaluation report is prepared by the Project Implementation Unit or other designated staff using the PC-IV Proforma as part of the project closure activities. The PC-IV is evaluated by the Planning Commission’s Projects Wing or technical section concerned. For regular operation and maintenance of projects after the completion stage, the project is transferred to the department/agency responsible for its maintenance and operation. After the project closure, annual operation reports must be submitted to the Planning Commission for the next five years on the PC-V proforma, which is to be furnished on annual basis, by the 31st of July of each year for five years, by the department/agency responsible for operation and maintenance of the project. It provides information about the project’s operational results during the preceding fiscal year.
+
+EVALUATION FEEDBACK AND LESSONS LEARNED
+
+6.25 Feedback is the most important element of a systematic and integrated approach to project monitoring and evaluation. Essentially, it is the evaluation phase of the project cycle that provides the lessons learned from the project implementation experience. The evaluation phase compares the actual outcome of the project with the appraisal projections then examines the positive and negative effects of the project, providing important lessons for the future. The feedback from the evaluation is an essential input for effective project/portfolio management. But an evaluation without any direction orsupport from the management can hardly be meaningful.
+
+6.26 Feedback from the evaluation is used for operational (mid-course corrections and follow-up action), analytical (improvement of project design, objectives, etc.) and policy purposes (finding out the validity of a given development strategy, etc.). To ensure that feedback is used systematically, there must be an adequate institutional mechanism for channeling the findings and recommendations to the relevant decision-makers and managers for the necessary follow-up action.
+
+6.27 In pursuance to clause b of sub section 1 of Section 18 of PFM Act, 2019, following mechanism shall be adopted for evaluation of development projects:
+i.Submission of PC-IV to the Planning Commission by all the Sponsors shall be mandatory for all projects.
+ii. Based on PC-IV, the Projects Wing of Planning Commission will present Appraisal Paper (AP) for consideration of CDWP within four (04) weeks. In case of DDWP, PDWP and Special Areas projects, the AP will be presented by the Planning Cell and M&E Cells of the concerned sponsoring agency respectively.  
+iii. The respective forum will consider PC-I targets (physical as well as financial) vs achievements, timelines and lesson learnt before approval for closure of the project.
+iv. In case of creation of posts on normal budget timelines will be decided in consultation with representative of Finance Division.
+v. In case of assets created under the project O&M arrangements will be provided by the executing agency for transfer of project assets/liabilities with proper handing/taking over.
+vi. The Projects Wing will carry out an evaluation report of completed project in coordination with sponsoring agency and submit it report to the Member I&M.   The Member I&M will present findings of the evaluation report before the CDWP at the time of final PC-IV (completion report received from the sponsoring agency) for consideration.  
+vii. On fulfillment of recommendations of the respective approving forum, sponsor shall submit final PC-IV, which will include a certificate from PAO that bank and cash accounts of the project have been closed.  
+viii. Projects Wing will recommend on the basis of forum’s decision and after approval closure letter will be finally issued by the PAO and the project shall be deleted from active projects list of PSDP.
+
+6.28 In pursuance to clause (c) of sub-section 1 of Section 18 of PFM Act, 2019, Sponsor shall be responsible to submit annual report on operation and maintenance, outcome, and impact of projects on PC-V format for five consecutive years to Planning Commission for review of impact evaluation. In case of core projects an independent impact assessment within five years after completion of the project shall also be submitted to Planning Commission by the sponsors.
+
+6.29 Monitoring, evaluation and reporting of development projects shall be carried out according to Section 18 (2) of PFM Act, 2019. 

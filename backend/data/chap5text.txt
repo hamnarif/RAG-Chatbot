@@ -1,0 +1,104 @@
+Chapter: 5
+PROJECT MONITORING
+
+88 | CHAPTER 5: PROJECT MONITORING
+
+5.01 Monitoring, evaluation and reporting of development projects shall be carried out according to Section 18 (2) of PFM Act, 2019. Project monitoring assumes critical importance after the project launch and remains an essential activity during the project implementation period until the project completion. Monitoring implies checking and assessing the implementation status of a project, programme, or plan regularly. It is carried out with the active participation of the project management. The process of observing or monitoring the implementation progress of the project helps in the identification, analysis and removal of bottlenecks and expediting actions when the implementation has stalled or fallen behind schedule. This enables the project management team and the planners to complete the project within the approved cost, scope, and schedule. Monitoring has a cost so selective projects must be chosen for monitoring which have exceeded their approved cost, scope, and schedule, or are facing bottlenecks.
+
+MONITORING AND EVALUATION
+
+5.02 The monitoring of the development projects or programmes should be done internally by the PD and sponsoring/executing agency. The sponsoring/executing agency may also hire third-party consultants for monitoring of the project. Planning Commission’s Monitoring Wing will do monitoring of selective projects. The PC-III proforma (see Annexure 22) along with PW-002 and PW-003 proformas is used for monitoring implementation progress. In pursuance of Section 18 (1) of PFM Act, 2019, the following mechanism shall be adopted for the monitoring of project during implementation(i-vii):
+
+i.Regular internal monitoring shall be made by the Project Directors and Consultants appointed by the Sponsors of Federal Ministries/Departments, Provincial Government and Special Areas in respect of their projects and will share monthly progress with Planning Commission through PMES.
+
+ii. Quarterly monitoring shall be made by Sponsor of Federal Ministries/ Departments, Provincial Government and Special Areas in respect of their projects and will share the progress report with Planning Commission.
+
+iii. Third Party Monitoring shall be undertaken by Projects Wing of Planning Commission along with Heads/ Reps of Technical Section by using latest monitoring tools, techniques, and analytics in the following manner:
+•Desk & field Monitoring under yearly action plan.
+•Quarterly progress stocktaking reviews at provincial headquarters/ clusters level and development of data sheet of issues and risks for course correction.
+•Mid Term Monitoring of Core projects.  
+•Monitoring of specially assigned projects.
+
+iv. Planning Commission shall undertake progress review of projects as per following schedule:
+• Monthly progress reviews by Member I&M based on PMES.
+• Quarterly Progress reviews by respective Member and presentation to DCPC.
+• Midyear Review by DCPC.
+• Full Year reviews by DCPC.
+
+v. Projects Wing will involve all provincial and Special Areas P&D Departments in periodic M&E of federal funded projects. The Provincial and Special Areas P&D Departments will share Monitoring Reports with Planning Commission for progress review of federal funded projects.
+
+vi. Project Planning, Monitoring & Evaluation Cells in Ministries/Divisions will be strengthened for regular data sharing and feedback to Planning Commission. 
+
+vii. Capacity building through trainings will be planned and organized.
+
+5.03 In its meeting of the 1st of October 2020, the ECNEC approved the following institutional arrangements for the project monitoring. (PPP (Amendment) Act 2021)
+
+i.The primary responsibility for the implementation of the project and coordination with relevant stakeholders rests with the PD, who will hold regular on-site review meetings on monthly basis to address operational issues and submit the minutes to the PAO to keep him informed on project activities.
+ii. The PAO/head of department will regularly monitor the performance of ongoing projects under his control. The PAO will chair the monthly review meetings schedule of which to be issued in advance at the beginning of the year. He/She will share the minutes of the review meetings with the Planning Commission, P&DD concerned and EAD. The Planning Commission will collate the information
+and share it with the Prime Minister’s Office.
+iii. The PAO is authorized for financial decision making so the primary responsibility for project monitoring lies on the line ministry. The Planning Commission has a monitoring wing, but their responsibility is secondary in nature to the line ministry.
+iv. As per the Rules of Business 1973, programming and mobilization of foreign economic assistance is the primary responsibility of the EAD. However, the EAD undertakes a portfolio review of the foreign-funded projects as a subactivity since the flow of foreign funds largely depends on the progress of project activities. To ensure regular project reviews, the following are envisaged:
+• The concerned JS (EAD) to hold debriefing meetings with the missions and conducting a monthly desk review  
+• Holding of the biannual trilateral review by the AS/JS and Planning Commission at the provincial headquarters  
+• Conducting of the trilateral biannual portfolio review by the Secretary EAD  
+• Biannual review by the minister of mega projects, particularly of problematic projects
+v. A national Coordination Committee on foreign funded projects, headed by Minister EAD, comprising of DCPC, Secretary PD&SI, Additional Secretary FD, Representative of PMO, Minister and Secretary of concerned ministry,   Sr. Member Board of Provincial Revenue, Chairman P&D board / ACS Dev. of   provinces /special areas AJK/GB, Secretary and Additional Secretary EAD, has been constituted by PM to ensure smooth implementation of foreign funded projects, fast track disbursement of external Economic assistance, undertake portfolio review of problematic projects, track implementation delays and recommend measures to address impediments.
+
+90 | CHAPTER 5: PROJECT MONITORING
+
+5.04 The checklist for PC-III is as follows:
+
+Table 15: Checklist for PC-III
+
+
+MONITORING METHODOLOGY
+
+5.05 The methods or techniques adopted for project monitoring should effectively measure the progress of a project, concerning its approved cost, scope, schedule, and objectives and be capable of producing the requisite data, information, and reports as needed by project management and other stakeholders. The Bar Charts are commonly used to show the implementation schedule of projects. However, for major projects, the project management must use modern network methods, that is, CPM, PERT, LFA, WBS, etc. to plan the time and resources required for the completion of individual project activities.
+
+91| CHAPTER 5: PROJECT MONITORING
+
+PROJECT MONITORING AND EVALUATION SYSTEM (PMES)
+
+5.06 To introduce professional project management in the public sector and to make the projects monitoring and evaluation more effective, a web based PMES has been developed. It is facilitating the line ministries and divisions in projects’ planning, progress tracking, monitoring and timely identification of corrective actions. The PMES performs the following three major functions:
+i.Tools and systems for project management
+ii. Systems for monitoring and evaluating projects  
+iii. Analytical tools for the overall PSDP and portfolio analysis
+
+5.07 The PMES is the backbone of the PSDP projects monitoring activity, which comprises a data bank of the implementation information like cash or work plan, releases of funds through SAP, physical and financial progress etc., of the development projects. The PMES serves three informational requirements:
+i.For the PDs or project implementing authorities:
+• Firmness and clarity of scope as per PC-I (project profile)
+• Provides tools for project planning and control (cash or work plan)
+• Track progress and report issues (PC-III)
+ii. For controlling ministries:
+• Approve financial or physical requirements of projects as per the ministries’ priorities (cash or work plan)
+• Have quick access to progress and issues in their project
+iii. For the Planning Commission,
+• A platform for the professional monitoring (project scope, plans, progress, issues, etc.)
+• The overall progress of the PSDP projects
+• Repository for projects
+• Project’s synopsis and PSDP projects performance analysis (executive dashboard)
+
+5.08 The Planning Commission will soon enable the integration of PMES with MIS, iPAS, GIS, SAP, and E-Office.
+
+5.09 Major information management assignments served through the PMES are:
+i.Regular physical and financial progress of the PSDP projects reporting to the PM office.
+ii. Responses of queries and reports to the Public Accounts Committee.
+iii. Different reports to the parliamentary bodies per their demands.
+iv. The PSDP review support (mid-term or quarterly) to the Planning Commission.
+v. Monitoring of projects by the Planning Commission as well as the line ministries.
+vi. Project control or tracking by the project-sponsoring ministries.
+vii. Provision of authentic data source for dashboard development.
+
+PMES System Architecture and Users
+
+5.10 The PMES is a ‘Role’ based software, which can only be accessed by the authorized users (given passwords) and each user is provided with a certain role and according to that role, the user gets access rights of a specific portion of the software. The ‘Project Director User’ initiates the cash and work plans at the beginning of each fiscal year in the PMES (for the ongoing projects) or whenever the project gets approved and becomes part of the PMES System. The ‘Focal Person User’ of the federal ministry or division concerned has the rights to verify the cash and work plans initiated and forwarded by the PD in the PMES. The ‘Planning Commission User’ (Monitoring Officer) has the rights to give the final approval to the cash and work plans initiated and forwarded by the PD and verified by the Focal Person of the ministry concerned in the PMES. The ‘Project Director User’ also has the responsibility of entering the project’s financial and physical progress, and releases of funds to the project on a monthly or quarterly basis in the PMES, which is verified by the ‘Focal Person User’ of the federal ministry or division concerned in the PMES.
+
+PMES Information Components
+
+5.11 The main information modules and reports of PMES include:
+i.Project’s basic information (physical and financial)
+ii. Work plans and cash plans
+iii. Release of funds
+iv. Progress (financial and physical)
+v. Monitoring information
+vi. Reports (project profile report, professional reports, custom reports, and executive reports)

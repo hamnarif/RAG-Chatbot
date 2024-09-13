@@ -1,0 +1,227 @@
+1.01 Development planning in Pakistan aspires to improve the quality of life of people through various policies, programmes, and projects in the areas of social sector development, infrastructure and connectivity, economic competitiveness, and climate change.  
+
+1.02   This manual enables the development of a sound economic planning system that is evidence-based, aligned with the ground realities, and cognizant of the requirement of the economy to better respond the collective priority needs of the citizens. At the primary level, an economic development plan is a package of the socio-economic policies and programs aimed to achieve predetermined and well-articulated objectives/goals (with quantifiable targets) over a specified period. An effective economic planning system aims to articulate a development vision, helps translate the vision into policy-driven goals and objectives, and then identifies and allocates scarce resources to programmes and projects to help achieve the development objectives.  
+
+1.03   The manual elaborates on key processes in the programme/project cycle such as project identification and financing, preparation including use of all PC proformas, appraisal, approval, implementation, monitoring, closure and transfer of assets, and evaluation. It guides the user on requirements on every stage of the programme/project lifecycle, with helpful examples wherever necessary. Further, a Compendium of Annexures: Supplement to the Manual for Development Projects by the Planning Commission has been developed to facilitate the user in accessing key notifications, rules, and other explanatory material. The compendium is available at the Planning Commission website. A list of all annexures in the compendium is given in Appendix B.
+
+1.04   Projects and programmes (which typically encompass multiple projects) are the instruments to achieve plan objectives and are the building blocks that transform the development plan and the associated investments into physical outputs and tangible benefits. Public Finance Management Act of 2019 stipulates specific provisions on “Development Projects and Maintenance and Use of Public Assets”. This manual has accordingly clarified and laid out guidelines on classification and preparation of projects, their quality assurance, technical approval and their monitoring and evaluation.
+
+1.05   The key federal/national level 1 forums for approval of development projects and programmes are as follows:
+
+ 1 Each province has established its own forums for approval of development projects at departmental, divisional and district level in addition to PDWP.
+
+
+Table 1: Key federal/national level forums for approval of development projects and programmes
+
+1.06	 The economic and development planning system in provinces and special areas (AJ&K and Gilgit-Baltistan) has been changed in accordance with the 18th Amendment in the Constitution of Pakistan. The Amendment transformed the process of provincial planning by including increase in inflow of resources, new planning imperatives like public private partnerships and more. The role of the provincial P&D boards and departments has since then been more proactive as they work in consultation with the provincial governments. This includes the drafting and approval of the Annual Development Programme and approval of other development projects. 
+ 
+1.07	 The functions and sanctioning powers of national and provincial development forums along with their current composition of members can be found in Appendix A. This appendix also elaborates the constitutional and legal contexts of the economic development planning practices in Pakistan. Further, it elaborates on the purpose of the Planning Commission as well as details of its governance structure; the economic and technical sections, and its specialized cells including the project wing, and its attached departments. Detail of all provinces’ Planning and Development Departments, their functions, tasks, and composition of members is also given in Appendix A. 	
+ 
+SCHEMATIC FRAMEWORK OF PLANNING APPROACHES 
+
+1.08	 A schematic framework of planning approaches and methodology is presented in Table 2 
+
+Table 2: Schematic Framework for Planning
+
+1.09	 The ECNEC approved a proposal on the 1st October 2020 that main ministries and departments will develop sector development vision and policies consistent with the national priorities. Therefore, the overall simplification (Simplification of Planning Commission, Planning Division Development Processes and Procedure to improve Project Management (Project Identification and Preparation of PC I, Processing and approval of PC I, Project Management and Staffing, Opening of Project Assignment Account, Procedure for release of funds, and Monitoring and Evaluation) approved by ECENC on 1 October 2020) of processes and procedures to improve project management is prepared after research and consultations with stakeholders (attached Annexure 1). The line ministries and departments will conceive a pipeline of potential projects with clear concept notes, cost estimates and timelines in the order of priority and sequencing. Such project pipelines will be regularly and periodically updated and shared with the Planning Commission/P&D departments.
+
+ANNUAL PLAN 
+
+1.10	 The principal instrument for adjusting the Five-Year Plan to current realities is the Annual Plan, which is considered as a practical and dependable method to translate the Five-Year Plan objectives and targets into an implementable operational programme. The Annual Plan reflects macro-economic policies, development priorities in the context of prevalent challenges, economic growth and other development targets, evaluation of the past performance, and an outline investment programme in the public and private sectors necessary to achieve the planned targets.  
+
+PUBLIC SECTOR DEVELOPMENT PROGRAM (ANNUAL) 
+
+1.11	 The federal PSDP is an annual document, which lists all the public sector projects and programmes with specific expenditure allocations for the given fiscal year. It includes the approval status of the project, date of approval and the forum that approved the project, the total estimated cost of the project including foreign loan component, expenditure incurred up to the end of preceding fiscal year, throw-forward, and allocation for the fiscal year, in terms of rupee and foreign loan component. The estimated levels of the provincial ADPs are included in the summary of the PSDP, and details are compiled and presented in the individual ADP of the respective provinces.
+
+Overriding Effects of Public Finance Management Act, 2019.
+
+1.12	 The PSDP formulation is now regulated by Sections 13 to 20 of the Public Finance Management Act, 2019 (amended up to 30th June 2020). The Act, as amended from time to time, stipulates the following conditions for a project to be eligible for inclusion in the PSDP or Demands for Grants:	
+i. Classification of projects as (a) core projects in the national infrastructure requiring complex planning, design and implementation procedures, and (b) sectoral projects undertaken by respective sectors and the federal ministries,
+ii. Issuance of the technical approval for the proposed project,
+iii. Budget allocation for the coming fiscal year along with the full proposed project cost,
+iv. All government expenditures, whether from a recurrent or development demand for a grant, shall be based on well-defined plans and the strategic priorities approved in the Budget Strategy Paper.
+
+1.13	 The chapter III of the PFM Act, 2019 titled “Development Projects and Maintenance and use of Public Assets”, provides that Planning Commission will notify the procedures for classification of different development projects and their appraisal and approval. Formulation of the PSDP
+  
+1.14	 The formulation of the Annual Plan and the annual PSDP at the federal level is steered by the Planning Commission in collaboration with the Finance Division and Economic Affairs Division. The annual PSDP is expected to be aligned with the growth strategy, the Five-Year Plan or Long-Term Perspective Plan (if any) or vision document, provisions of the Public Finance Management Act, 2019, international economic and social landscape, current development challenges and priorities, economic growth targets, and country’s commitments to the Sustainable Development Goals (SDGs) and Paris Climate Agreement 2016 among other priorities and commitments of the Government of Pakistan.	
+ 
+1.15	The final approval of the plans along with the federal budget lies with the National Assembly (NA). The budget incorporates proposals for development and non-development expenditure as well as resource availability. The Money Bill is not voted in the Senate. The Senate deliberates on the budget proposals and sends its recommendations to the NA. NA is the constitutional forum for the approval of the budget including the development budget. The NA finally approves the Annual Budget Statement including development expenditure under Article 82 of the Constitution of Pakistan. Following approval of the NA, the Prime Minister of Pakistan authenticates the Schedule of Authorized Expenditure under Article 83 of the Constitution. The process for PSDP formulation and approval is summarized in the figure below.
+
+Figure 1: PSDP Formulation and Approval Process
+
+PSDP FORMULATION AND APPROVAL PROCESS
+1
+   Issuance of the Budget Call Circular to PAOs by Finance Division (Nov-Dec) with the relevant instructions
+
+2
+   PSDP Call Circular is issued by the Planning Commission
+
+3
+   Ministries Conceive, Prepare and get approval for new projects
+
+4
+   Finance Division communicates the Indicative Budget Ceiling (IBC) by March for next year’s PSDP post approval of Budget Strategy Paper
+
+5
+   The Planning Commission then conveys necessary instructions to all federal ministries for proposing their development portfolios
+
+6
+   PAOs prepare and submit PSDP-I forms for development budget to  respective Sector Chiefs in the Planning Commission A copy is given to the Finance
+
+7
+   Technical sections in thePlanning Commission consult with the ministries to prioritize/ rationalize portfolios and budget allocations for the next fiscal year
+
+8
+   Tentative PSDP is discussed by the Priorities Committee The Committee consists of secretaries of the Finance Division, Planning Commission, and Economic A airs Division. It deals with both the recurrent and development budget proposals
+
+9
+   Recommendation of the Planning Commission placed before the APCC. APCC reviews & recommends PSDP for next year to the NEC
+
+10
+   The Federal Government places the plans and the budget before the cabinet for consideration and aproval
+
+11
+   The NA Approves the Annual Budget Statement including development expenditure under Article 82 of the Constitution of Pakistan
+   The Senate also deliberates on the budget proposals and sends its  recommendations to the National Assembly
+
+12
+   The Prime Minister of Pakistan authenticates the Schedule of Authorized Expenditure under Article 83 of the Constitution of Pakistan
+
+
+1.16	 While considering the portfolios and budgets for next year, the Planning Commission and respective ministries prioritize fast-moving, strategic, and important projects. Other considerations include recommendations from the NA Standing Committees of the respective ministries/ divisions, availability of resources and the Indicative Budget Ceiling.  	
+ 
+1.17	 The Priorities Committee considers policy priorities, outputs, past performance of the ministry, current year’s budgetary allocation, the indicative ceiling for the budget year and forecast years, and overall resource availability for the development budget, both local and foreign funding.
+ 
+1.18	 While formulating the federal PSDP, now there is an increased emphasis on promoting innovative financing modes (Public-Private Partnerships) to reduce the burden on the limited public sector resources. The Public-Private Partnership Authority (P3A) has been made more functional to attract private sector investment in development activities. (Refer to Chapter 2 for more details on PPPs).	
+
+PROVINCIAL ANNUAL DEVELOPMENT PROGRAMME
+
+1.19	 The provincial ADP formulation (A similar process applies to special areas- AJK and G-B. ) is steered by the P&D boards/departments of the provinces in close coordination with the provincial finance departments, while the later start the preparation with the issuance of the Budget Call Circular. The process is based on the national priorities, communicated by the Planning Commission, and resource availability in each of the provinces. The process for formulation of the provincial ADP is depicted in the figure below. In April of each year, the Draft ADP for the next fiscal year is submitted for a review of the Chief Minister and the minister concerned or the cabinet (as necessary) and is shared with the APCC and is reflected in the summary, which is finally presented to the National Economic Council (NEC). While approving the ADPs, the NEC may direct modifications in the national priorities and the overall magnitude of the development effort to ensure balanced sectoral and regional development in the country.
+
+
+9 | CHAPTER 1: PUBLIC SECTOR INVESTMENT PLANNING AND PROGRAMMING 
+
+
+Figure 2: Provincial Annual Development Planning Process 
+"     
+STAGE 1
+   Step in the process:
+      1. Ascertaining resource availability and inter-sectoral priorities.
+      2. Determination of tentative ADP size, ADP formulation guidelines, and tentative sector-wise allocations.
+   Responsible offices:
+      P&D Board/ Department
+      Finance Department
+
+STAGE 2
+   Step in the process:
+      3. Identification and formulation of schemes.
+   Responsible offices:
+      Line Departments
+
+STAGE 3 
+   Step in the process:
+      4. Preliminary draft of departmental ADP is created.
+   Responsible offices:
+      Line Departments
+
+STAGE 4 
+   Step in the process:
+      5. Meetings/Prioritization in P&DD or Planning Board.
+   Responsible offices:
+      P&D Board/ Department
+      Finance Department
+      Line Departments
+
+   Step in the process:
+      6. Draft ADP for next financial year. 
+   Responsible offices:
+      P&D Board/ Department
+      Line Departments
+
+STAGE 5
+   Step in the process:
+      7. Finalization of ADP by P&DD. P&D Board/ Department
+   Responsible offices:
+      P&D Board/ Department
+
+   Step in the process:
+      8. Approval by the Cabinet.
+   Responsible offices:
+      Cabinet
+
+   Step in the process:
+      9. Approval by Provincial Assembly & Authentication.
+   Responsible offices:
+      Provincial Assembly
+"
+1.20	 The provincial ADP is then formally submitted to the provincial cabinet for consideration and approval in June after which it is submitted to the provincial assembly for discussion and vote. As soon as the ADP along with the budget is approved by the provincial assembly, the Schedule of the Authorized Expenditure is authenticated by the Chief Minister under Article 123 of the Constitution of Pakistan.
+
+10 | CHAPTER 1: PUBLIC SECTOR INVESTMENT PLANNING AND PROGRAMMING 	
+
+LIFECYCLE FRAMEWORK FOR MANAGING PROJECTS 
+
+Project Lifecycle (PLC) Framework and PC Proformas 
+Figure 3: Project Life Cycle Stages and Project Proformas
+
+1.	Identification & formulation
+	•	Feasibility Study
+	•	Preparation of Project
+		o	PC-II
+		o	PC-I
+2.	Appraisal & Approval
+	•	Approval & Authorization
+3.	Implementation 
+	•	Monitoring  & Controls
+	•	Activation
+		o	PC-III
+		o	Work/Cash Plan
+4.	Completion
+	•	Closure
+		o	PC-IV
+5.	Ex-Post Evaluation.
+	•	Annual Operational Report
+	•	Verification of input, output Impact
+		o	PC-V
+
+
+1.21	 The Project Lifecycle (PLC) defines the phases from the beginning to the end of the project. It has five distinct stages: Project Identification and Formulation; Appraisal and Approval; Implementation and Monitoring; Closure; and Evaluation. Although the public sector projects in Pakistan vary significantly in size and complexity, all projects can be mapped to a common life cycle framework based on the current development planning, programming, and budgeting (PPB) practice in Pakistan. Project proformas developed by the Planning Commission are also commensurate with this project lifecycle framework. The stages of PLC along with corresponding proformas are given below(The PC-I to PC-V proforma templates and other useful information is available at: https://www.pc.gov.pk/web/downloads ).
+
+i. Project Identification and Formulation (PC-II):	At this stage one project idea, out of several alternatives, is chosen and defined based on a need analysis. The PC-II proforma is required to conduct surveys and feasibility studies, with respect to larger projects, intending to obtain full technical justification for undertaking the project before resources are committed and invested. Further, the defined project idea is carefully developed, and a project plan is prepared in accordance with the PC-I proforma.	
+ii. Project Appraisal and Approval: Every aspect of the project idea is subjected to a systematic and comprehensive evaluation. The detailed proposal is submitted for approval and financing to the appropriate entities and relevant forum.
+iii. Project Implementation and Monitoring (PC-III): With necessary approvals and financing in place, the project plan is implemented. At every execution stage, the progress of the project is assessed against the planned activities of the project. Course corrections are also done to ensure on time and within budget completion. This is the monitoring stage and requires PC-III proforma. This form is designed to furnish information regarding the financial as well as physical progress of the ongoing projects, including information on any bottlenecks experienced during project execution and staffing issues.
+iv.Project Closure (PC-IV): The project closure brings project execution to a formal conclusion, informing all stakeholders about the completion of the project, and winding up technical, operational, and administrative actions. PC-IV form is required to be submitted at the time of project closure or the termination of the physical implementation of the project. At the stage of project closure, PC-IV is submitted.
+v. Project Evaluation (PC-V): Upon completion, the project is reassessed in terms of its deliverables, performance (results), efficiency and effectiveness. This form is to be furnished to the Planning Commission on an annual basis, by the 31st of July of each year, for five years by the agencies responsible for the operation and maintenance of the project. It is aimed at carrying out impact evaluation of the project by reporting operational results during the previous fiscal year.
+
+1.22	  The following figure explains the process flow for development projects with references to chapters in the manual for further details:
+
+Figure 4: Process Flow for Development Projects
+"
+Project need assesment by the line of ministry(PROJECT IDENTIFICATION CH.2,P.17) -> does the project cost more than Rs500 million and/or infrastructure makes up 30% of project cost? if yes, make PC-II. if no, make PC-I. the relevant performa will go to DDWP or CDWP(based on the project cost)->project appraisal by PLANNING COMMISSION(PROJECT APPRAISAL CH.3,P.61)->Did CDWP/DDWP/ENEC approve the project?(PROJECT APPROVAL CH.3,P.79). 
+	if no, Project Termination
+	if Revision, Submit revised PC-I or PC-II
+	if PPP,
+		case1. If the project is a PPP, it will go to the P3A for Processing (CH.3,P25)
+		Case2. If the project requires foreign assistance, loan negotiations to be undertaken before final submission to CDWP/ECNEC.(CH.3,P.87) 
+	if yes,
+		-If PC-II was submitted, proceed to feasibility study, if feaseable, make PC-I anf follow the flow previously mentioned 		
+		-if PC-I was submitted, proceed to(PROJECT IMPLEMENTATION CH.4,P.99) -> PROJECT RELEASE OF FUNDS(CH.4,P111)->PROJECT MONITORING(CH.5,P115)->PROJECT COMPLETION(CH5,P115)->PROJECT EVALUATION(CH.6,P130)
+"
+
+
+13 | CHAPTER 1: PUBLIC SECTOR INVESTMENT PLANNING AND PROGRAMMING 
+
+Intelligent Project Automation System (iPAS)
+
+1.23	 iPAS has been developed by the Planning Commission. It is a web-based tool for the process automation of PSDP formulation, recording and tracking, process automation of releases, online submission of progress and funds management (reappropriations, supplementary grants etc.) involving all stakeholders of development portfolio. This means that all proformas (PC-I to PC-V) can be submitted digitally. New projects/schemes can be initiated on the system, and it enables updating of on-going projects. A separate tab is created for Public Private Partnership (PPP) projects as well. 	
+ 
+1.24	 The system shows the total allocations to projects divided in the following categories: local, foreign, new, on-going, and PPPs. It also shows the total number of projects and projects under each category. A timeline of projects completion is also given. Finally, a dynamic table shows the list of projects along with their ministry/division, sector, approval status, cost, expenditure up to date, allocation, throw-forward, and the province.	
+ 
+1.25	 The system enables the user to select the project (schemes) from the list of available schemes along with project type (new or on-going). Further, it efficiently categorizes the sectors, sub-sectors, relevant departments, and executing/sponsoring agency for the project. The user can view the list of accounts from which he/she would be authorized to record funds requests and utilizations for selected projects.	
+ 
+1.26	 Through all the features mentioned above, the system aims to increase financial efficiency, automate, and digitize manual processes, and minimize information gaps between all stakeholders of development portfolio throughout the project life cycle.
+
+14 | CHAPTER 1: PUBLIC SECTOR INVESTMENT PLANNING AND PROGRAMMING 
+
+Figure 5: Interface of the Intelligent Project Automation System (iPAS). REFER TO THE PAGE 14 OF CHAPTER 1 TO SEE IT.
+
+

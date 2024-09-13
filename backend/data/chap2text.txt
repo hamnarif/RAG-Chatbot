@@ -1,0 +1,717 @@
+Chapter: 2
+PROJECT IDENTIFICATION AND PREPARATION
+
+16 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+CHAPTER 2
+PROJECT IDENTIFICATION AND PREPARATION
+
+2.01	 The project identification and conceptualization process ensures that the selected projects are fully aligned with the national development goals and public policy objectives. Thus, the project concept must be in sync with the Vision, the Five-Year Plan, and sectoral priorities. As sectoral priorities establish competing claims on the limited resources available, it is imperative that relevant ministries, divisions, and agencies put in place wellreasoned and consensus-based strategies. These strategies should flow from the national plans and priorities established by the NEC and other forums. The strategies also consider the sustainable development goals (SDGs), and country assistance and partnership strategies of development partners.
+
+PROJECT IDENTIFICATION PROCESS
+
+2.02	 The project identification process constitutes the following steps (Adapted from JICA Guidance of Project Identification and Preparation (undated)).
+
+Table 3: Checklist for Project Identification
+
+
+17 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+2.03	 During Project Identification/Preparation level, the following common mistakes are made and must be avoided:
+
+Figure 6: Common Mistakes in the Project Identification Process
+
+1. DATA AND ASSUMPTIONS
+-Inadequacy of data to present factual position.
+-An incorrect assumption of availability of inputs.
+
+2. FINANCES
+-Unrealistic cost estimates.
+-Over-estimation of benefits.
+-Ambiguity about availability of funding and financing for the project.
+-Improper financial phasing incommensurate with the physical phasing.
+-Lack of proper cost-benfit, risk assessment, sensitivity, stakeholder
+ consultation, environmental and sustainability analyses.
+-In the case of energy, water, and communication projects, a PC-I with a
+ rough estimation of scope and cost hinders technical, economic, financial,
+ and environmental appraisal.
+
+3. PROCESS
+-Lack of proper implementation schedule.
+-Lack of coordination between the relevant agencies.
+-Extensive time is taken by the sponsoring/executing agencies while
+ responding to the observations of the Planning Commission and
+ modification in the PC-I.
+
+2.04	Projects are normally identified by the following:	
+
+i.  Line ministries,  
+ii. Divisions,  
+iii. Public sector authorities and corporations (including the China-Pakistan Economic Corridor (CPEC) and PPP authorities, the National Disaster Management Authority (NDMA) for post-disaster relief, reconstruction, and disaster risk reduction),
+iv. Pakistan’s development partners (International Financial Institutions (IFIs), bilateral aid agencies, etc.),
+v.  Private-sector entities in consultation with the government departments, and
+vi. Legislative and executive directives.
+
+2.05	  The Planning Commission, the provincial P&D boards/departments and other sub-national planning agencies play a critical role in guiding and supporting the project identification process.
+
+
+18 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Project Concept Note (PCN) 
+
+2.06	The project identification phase should conclude with the preparation of a PCN, which is a prerequisite for the initiation of project preparation. The PCN is cleared by the concerned Member of Planning Commission, as described in Appendix A. PCN must also include the estimated expenditure and source of funding for project preparation etc. The approved PCN should signal the start of project preparation and the authorization to incur Pre-project approval expenditures to that extent. All projects included in the PSDP/ADP should have an approved PCN, with the clearance/approval date of the PCN as the official commencement date of the project (This applies equally to a program, a fund or a line of credit covering several projects or series of project investments.).
+
+PROJECT FINANCING MODALITIES
+
+2.07	 The mode of project financing is considered and assessed as part of the project identification process. The government predominantly funds projects through the PSDP at the federal level, and through the ADPs at the provincial level. The private sector is integrated into the development process through the PPPs. For this purpose, the Public Private Partnership Authority (P3A) has been set up at the federal government level, while a similar arrangement is also present at the provincial level.  		
+
+PC-II PROFORMA
+
+2.08	The PC-II approved by the relevant competent forum is required for the conduct of feasibility study, including technical investigations, market surveys and other studies (Annexure 2). The requirement of a PC-II shall be mandatory for infrastructure projects, each costing Rs. 500 million or above, and all other projects where the infrastructure component is equal to or more than 30 percent of the total project cost. Projects falling in these categories shall require feasibility study undertaken through the PC-II, which must include, at least, TORs, technical and reference design, assignments duly justified on manmonth basis on gantt chart etc.	
+
+2.09	 The above condition shall not be applicable for infrastructure projects, each costing less than Rs. 500 million, and all other projects where the infrastructure component is less than 30 percent of the total project cost.
+
+2.10	 The requirement of the PC-II shall also not apply to projects declared as R&D oriented or innovative in nature, irrespective of their cost, by the forum having financial powers to approve the projects. However, such projects shall be accompanied by a proper need assessment and justification, which can be carried out in house.
+
+2.11	 The feasibility should be proper and based on the current data. Any study older than three years is not accepted by the Planning Commission (Planning Commission, ‘Preparation of Proper Feasibility Study/PC-II by the Sponsors for Development Projects’, Notification No.24(4) PIA-I/ PC/2016, Islamabad, dated 28 June 2016.) (Annexure 3). For more complex projects, technical assistance may be requested for a feasibility study from one of the development partners/donors.
+
+2.12	Planning Commission may notify and clarify guidelines for the feasibility study, however following are the essentials of a feasibility study:
+
+19 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Figure 7: Essentials of a Feasibility Study
+
+TECHNICAL CONSIDERATIONS
+-Need analysis: Establishment of social, economic, and/or commercial demand for the project.
+-Technical option analysis: Consideration & evaluation of technical options to achieve project objectives.
+-Technical definition/Scope of the project: Finalization of the project's technical and other requirements.
+
+LEGAL CONSIDERATIONS
+-Complete legal due diligence of the project.
+-Application and implication thereof of every single law relevant to the project.
+-List of permits, licenses, and NOCs required to implement and execute the project
+
+FINANCIAL CONSIDERATIONS
+-Determination of the life-cycle costs (capital & operating), and revenue sources/revenue drivers of the project.
+-PPP Option Analysis.
+-Risk Assessment, Cost-Benefit Analysis, and Value-for-Money Analysis.
+-Development of a financially viable and bankable transaction structure.
+-Project support (financial and non-financial) by the Govt.
+
+OTHER CONSIDERATIONS
+-Environmental and/or Social Impact Assessment.
+-Economic Assessment.
+-Allocation of risks, roles & responsibilities among the public and private sector.
+-Stakeholder Analysis.
+
+2.13	 The PC-II, inter alia, needs to indicate studies and surveys already undertaken on the subject. In case of studies done already, it may be certified that the latest study/survey is necessary to add or validate and update the existing study/survey available with the sponsoring or other departments. The TORs for the consultants may include the following:
+i. Possibility of prospective project financing and implementation through different modes, that is, private sector, PPP, etc.
+ii. Environmental impact assessment, including CDM and DRRA.
+iii.Financial analysis (FIRR, NPV and BCR)	
+iv. Economic analysis (EIRR, NPV and BCR)	
+v.  Risk and sensitivity analyses and proposed mitigation measures 
+vi. Forward and backward linkages of the proposed study/survey	
+vii.Expected output of the proposed feasibility study/survey.	
+
+
+
+20 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+2.14	 Appropriate provision for funding the feasibility study is made in the PSDP, and the sponsoring agency is required to appoint a Project Director at the initial stage of project preparation. 
+
+Checklist for PC-II 
+
+2.15	 The checklist for PC-II is given as follows:
+
+Table 4: Checklist for PC-II
+
+
+
+2.16	 Given the resource constraints and untapped potential of efficiency gains through private investment it has become imperative to pursue public private partnerships for the core national socio-economic development process. For this purpose, specific policies, framework, laws, and regulations are in place for confidence-building of the private sector for venturing into this arena.
+
+
+21 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+2.17	 PPPs are beneficial because they help:
+i. Bridge gaps in infrastructure and service delivery, 		
+ii. Shift public resources towards social sectors,
+iii. Enable the public sector to define requirements and the private sector to drive innovative and creative solutions,
+iv. Gauge value for money by combining whole-life costs and quality,
+v. Manage risk and allocation thereof to the party best able to manage, control and mitigate it,
+vi. Link payment to performance and service quality, and where applicable, payment is linked to the users availing the services.
+ 
+2.18	 The federal government has enacted the PPP (Amendment) Act 2021 that extends to the entire country, applying to all Federal Government Entities with respect to all kinds of projects undertaken by a federal implementing agency under a PPP arrangement. The application of the PPP (Amendment) Act 2021 is extended to the provinces in case the project falls within the exclusive domain of the federal implementing agency. The PPP arrangements at the provincial level are guided by the PPP legislation of the respective province (The Punjab Public Private Partnership Act 2019 was notified on 13 December 2019 repealing 2014 Act; the Sindh Provincial Assembly passed  Sindh Public Private Partnership Bill on 18 February 2010 and The Sindh Public Private Partnership Act 2010 was notified on 17 March 2010  http://sindhlaws.gov.pk/setup/publications_SindhCode/PUB-16-000200.pdf; and the Khyber Pakhtunkhwa Provincial Assembly has enacted the  Public Private Partnership Act 2014, with an amendment in 2016 http://www.pakp.gov.pk/2013/acts/the-khyber-pakhtunkhwa-public-private- partnership-act2014/; Balochistan Assembly passed the Balochistan Public Private Partnership Act on 10 April 2018 and was notified on 19 April 2018http://pabalochistan.gov.pk/pab/pab/tables/alldocuments/actdocx/2019-11-15_12:20:50_477ab.pdf). 
+ 
+2.19	 The PPP (Amendment) Act 2021 is “An Act to create an enabling environment for private sector participation in development projects and in the provision of public infrastructure and related services in Pakistan through public private partnership projects.”	
+ 
+2.20	 The functions of the P3A Board and responsibilities of the implementing agency are summarized in the figures below. It must be noted that the line ministry/sponsoring agency has the primary responsibility for monitoring and evaluating PPPs and ensuring that all project KPIs are being met by the private entity and interest of the public is safeguarded. Performance standards should be clearly reflected in the contract along with the line ministry/sponsoring agency that is responsible for monitoring and evaluation.
+
+
+
+22 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+Figure 8: Functions of the P3A
+1.Ensure value for money by conducting an analysis to evaluate projects. A PPP arrangement yields value for money if it results in a net positive gain to society.
+2.Adhere to the principle of budget affordability in the context of medium term budgetary framework.
+3.Advise and facilitate the implementing agency to identify, develop, structure, and procure the projects.
+4.Assess fiscal risks associated with projects.
+5.Standardize contractual provisions and develop sector-specific provisions of the model public-private partnership agreements; prescribe and receive fee ad charges.
+6.Develop annuity, user-based and hybrid financial models for the projects; ensure that public-private partnership agreement is consistent with the provisions of the PPP Act 2017.
+7.Interact, collaborate and liaise with international agencies.
+8.Play the role of the gatekeeper at all stages of the project cycle such as planning, tendering, bidding, and contract.
+9.Notify, from time to time, a limit on the size of PPP projects that an implementing agency may undertake in relation to its annual spending.
+10.Ensure that the projects are consistent with national and sectoral strategies.
+
+
+Figure 9: Responsibilities of an Implementing Agency 
+01. Identify, conceptualize, appraise and develop the project.
+02. Undertake (or cause to be undertaken) the feasibility study.
+03. Develop and issue (or cause to be developed and issuesd) a request for proposal with draft of the PPP agreement.
+04. Procure a project only through a competitive bidding process as prescribed.
+05. Monitor and implement the project in accordance with the public private partnership agreement.
+06. Submit the bid documents and the project proposal for approval of the P3A.
+07. Once the project  is approved, the implementing agency will procure the project in accordance with the PPP Act 2017.
+08. If the implementing agency requires support, it will submit relevant documents to the P3A. 
+09. P3A will review the project proposal and evaluate the need and amount of Government suppport and send recommendations to the Federal Government for provision of project support.
+
+
+
+23 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+VIABILITY GAP FUND
+ 
+2.21	 The P3A will be establishing a non-lapsable Viability Gap Fund (VGF) through upfront grant-in-aid to be managed, controlled, and administered by the Authority. It will be utilized to provide support to those qualified projects which are economically and socially justified but are not viable financially according to the feasibility study.	
+
+RISK MANAGEMENT UNIT
+
+2.22	 A Risk Management Unit has been established at the Finance Division’s Debt Policy Coordination Office. This unit will be responsible for providing guidance for managing risks of PPP projects, and assess fiscal risks of projects submitted to the P3A.	
+
+PROJECT DEVELOPMENT FUND 
+
+2.23	 The P3A will establish a non-lapsable project development fund. The project development fund will be utilized, inter alia, to support the preparation of any proposals for qualified projects.	
+
+SALIENT MODES OF PPP
+  
+2.24	 PPPs can happen under different modes; however, the salient modes are presented in the table below:
+
+Table 5: Modes of PPP
+
+25 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+PROCESS FOR PPP PROJECTS
+ 
+2.25	 The process for PPP projects is explained in the figures below. However, detailed process of submission and approval of PPP projects will be given through secondary legislation (prescribed) under PPP (Amendment) Act 2021.
+
+Figure 10: Process for PPP Projects Part A  
+"
+CDWP DECISION
+    if project is PPP: P3A Board Decision (1)
+        if approved: P3A can ask agency to hire TA or agency can do project structuring themselves
+        if not approved: Development of PC-I by Implementing Agency/Line Ministry
+    if project is not PPP: PSDP
+
+(2)Project Structuring done by implementing agency in consultation with TA
+(3)Project Appraisal by P3A -> P3A Board Decision
+    if approved:
+        (4)Bidding -> Bid evaluation -> Approval of Contract Award by P3A -> Contract Negotiation by the implementing agency with private entity -> Signing of Contract between implementing agency and private entity
+"
+
+
+26 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Figure 11: Process for PPP Projects Part B
+1:
+Submission of formal application by the Implementing Agency to PPPA accompanied with:
+    Project introduction/overview/background;
+    Project needs and objectives;
+    Project implementation strategies and tentative timelines;
+    Project financial cost estimates;
+    Project initial commercial and financial assessment;
+    Project procurement methodology.
+2:
+PPPA conducts feasibility analysis considering the factors below so implementing agency
+should restructure the project accordingly:
+    Technical analysis;
+    Commercial & Financial analysis;
+    Legal analysis;
+    Environmental analysis;
+    Procurement strategies and methods;
+    Evaluation of various P3 options and selection of P3 model;
+    Value for money and bankability analysis of the Financial model;
+    Project risks, mitigation, and control analysis;
+    Project out-put specifications;
+    Public sector comparator analysis;
+    Analysis and evaluation of subsidies or guarantees, if any; and
+    Evaluation, reviewing, and vetting of Bidding Packages, if included.
+3:
+PPPA gives justification to the implementing agency on the following aspects after evaluation:
+    Project viability and bankability;
+    Affordability for Public sector and end-users;
+    Debt impact of the investment from a public perspective in case of contingent liability
+    exposure;
+    Detailed Risk analysis and placement of risks to relevant party;
+    Value for money;
+    Based upon financial model prepared through Feasibility Study and in-house financial
+    model, provision of data for potential cash-flows/out-flows, revenues, etc.;
+    The financial impact on Government on project termination;
+    Availability of Project Site; and
+    Recommended PPP model for undertaking the project.
+4:
+Bidding package must include:
+    Request for Qualification, if desired;
+    Request for Proposal; and
+    Draft PPP Agreement.
+
+
+27 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+DEVELOPING A PPP PROJECT 
+
+2.26	 These are some important considerations for development of a PPP project:	
+
+Figure 12: Important Considerations for Developing a PPP Project
+Q1. Why is it preferable to do the project under PPP instead of PSDP?
+Q2. Is the project bankable?
+Q3. Can the cash flows repay the investment (debt and equity)
+Q4. If not, can the project be eligible for VGF?
+Q5. What are the key risks under PPPs?
+Q6. Are the risks allocated to the party who is better able to manage risk or develop risk mitigation strategies?
+Q7. Any previous lessons for similar projects in Pakistan or abroad?
+
+
+2.27	 Under the International Public Sector Accounting Standards (IPSAS) Board (IPSAS, 2002) contingent liabilities are “A possible obligation that arises from past events and whose existence will be confirmed only by the occurrence or nonoccurrence of one or more uncertain future events, not wholly within the control of the entity.”	
+ 
+2.28	 As the federal government is moving towards fostering PPPs, it is pertinent to focus on risk management to maximize the potential benefits from PPPs. The Public sector often resorts to guarantees and fiscal support for PPP projects that is generally conditional to occurrence and/or non-occurrence of certain events in the future. Such support forms part of contingent liabilities. Contingent liabilities in this case may be considered as the hidden costs involved in introducing PPPs into the arenas traditionally dominated by the public sector, e.g., infrastructure and service delivery. For the success of PPP projects, it is important to adequately analyze and report potential risks emanating from PPP projects. Rules are being framed by Finance Division containing specific terms and modalities with respect to Risk Management Unit (RMU).
+ 
+2.29	 It is important to understand that countries in the world have faced severe fiscal crisis due to flaws in the design and structure of PPP projects. Many such instances occurred due to mismanagement of Fiscal Commitments and Contingent Liabilities (FCCL). In some PPP projects, government may commit fiscal resources, such as equity, VGF and subordinate debt under terms of agreement of the project. Risks emerging from fiscal commitments also need to be analyzed and reported by the government. FCCL become a fundamental issue to be addressed by the government while making efforts to promote fiscally responsible PPPs.
+
+
+28 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Table 6: Types of Fiscal Commitments in PPPs
+
+
+2.30 Three types of guarantees are provided in PPP projects. They are summarized in the figure below:
+
+Figure 13: Types of Guarantees in PPPs
+
+Service Use Guarantee (or Revenue Guarantee)
+•The direct beneﬁciary from this guarantee is the project company and not its creditors. If the company costs are not managed properly, the project company is likely to fail to pay its debts to the creditors.
+
+Guarantee of Minimum Service Fees
+•Under this guarantee, the state guarantees to the private partner, a minimum service fees paid regardless, of the performance of the project company is undertaking.
+
+Guarantee of Law and Regulation Amendment
+•The state provides the protection from any future regulatory policy, provided that the contract shall not be unilaterally changeable. All projects that are undertaken by the P3A are dealt through “Change in Law Provisions” without issuance of formal guarantee by the Government
+
+
+2.31	 Common reasons for failure of PPPs are presented in the figure below. It is important to understand such reasons for designing sound PPP projects.
+
+Figure 14: Reasons for Failure of PPP Projects
+
+01:Complaince Issue
+    Lack of compliance with applicable legal and regulatory frameworks.
+02:Deferred Payments
+    PPP projects are carried out under a regime of deferred payments which often gives an illusion of developing infrastructure without any cost. 
+03:Costing
+    Unrealistic revenue and cost estimations add to the potential failure of a PPP project. 
+04:Public Resistance
+    Public resistance can be observed as one of the major failures of some PPP projects. A better communication strategy can help circumvent such risks.
+05:Contingent Liabilities
+    The cases of Portugal and India explain that poor management of contingent liabilities may add to the failure of PPP projects.
+06:Research Gaps
+    Lack of substantive research on PPP processes and projects that inhibit the capacity to incorporate lessons in future projects.
+07:Training and Capacity
+    Lack of training and capacity to negotiate and draft legal contracts may hamper the performance of PPP projects. Training can help overcome this challenge.
+
+
+
+30 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+PROJECT PREPARATION 
+
+2.32	 The formulation of development schemes should be a continuous process and should not only be undertaken when required for the preparation of the project. Such project proposals should be prepared in the prescribed format of the PC-I by incorporating maximum information to justify public financing. The proposal should be prepared in consultation with the relevant stakeholders including beneficiaries of the schemes. In some of the projects relating to service delivery and operations of infrastructure, community and civil society organizations may also be given an appropriate role in the implementation and governance of the project. In pursuance of Section 14 (1) of PFM Act, 2019, all development projects shall be prepared in conformity with prescribed processes/ procedures and templates formulated by the Planning Commission and as amended from time to time.
+
+UNDERSTANDING THE DIFFERENCE BETWEEN DEVELOPMENT AND NON-DEVELOPMENT EXPENDITURE 
+
+2.33	 In general, expenditure on the establishment of new facilities (works, goods, and services) is regarded as developmental, while expenditure on ordinary maintenance and running of the existing facilities is treated as non-developmental and should be provided for in the non-developmental requirements of the respective government departments. For example, the existing level of expenditure on the agricultural extension services or research, etc., is treated as non-developmental; so is the ordinary expenditure for routine maintenance of roads, canals, buildings etc. All O&M expenditure on raw materials, spare parts and fuels is also to be treated as non-developmental.
+
+2.34	The concept of development expenditure is based on the premise that a development project or programme supported by such expenditure will (i) enlarge and/or improve the physical resources of the country, (ii) improve the knowledge, skills, and productivity of the people, and (iii) promote efficiency in the use of available resources.
+
+2.35	 The distinction between development and non-development expenditures does not necessarily reflect on the similar character of various activities. Similarly, the concept of development expenditure should be kept separate from the question of project financing. The sectoral classification of development expenditure in Annexure 4 provides guidelines for project expenditures, which should be treated as developmental.
+
+LINKING PROJECTS TO RESOURCES 
+
+2.36	 AAll sponsoring ministries/divisions/agencies must structure their priorities according to available resources and avoid over-ambitious programmes beyond their absorptive and implementation capacity. Therefore, all sponsoring agencies before preparing a project and submitting it to the Planning Commission must ensure the availability of adequate resources in the Plan and PSDP. Concurrently, the ministries/divisions are advised to ensure that the available resources are not thinly spread over many projects, including low priority projects. The NEC, in its meeting held on 10th June 2013, directed that the ECNEC and CDWP must ensure availability of funds while approving development projects/schemes (Planning Commission, ‘Assurance of Availability of Funds for Development Projects’, Notification No.21(1) PIA/PC/2013, Islamabad, dated 26 June 2013.) (Annexure 5). Further, under clause (a) of Section 17 of the Public Finance Management Act, 2019, only technically approved projects from the relevant forum shall be considered for inclusion in the demands for grants.
+
+31 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+PC-I PROFORMA
+
+2.37	 The Planning Commission proforma I (generally called PC-I) is the primary project document, and its preparation is a key step in project preparation and processing. The sponsoring agency is expected to spend adequate time and resources in preparing this document to avoid complications during project implementation resulting in delays in project completion and cost overruns. The PC-I is used both for new projects and revision of ongoing projects. The Proforma comprises of three parts:
+i. Part A is the Project Digest, which requires basic project information, that is, project title, location, sponsoring and executing agencies, project description, justification and technical parameters, project cost and completion period, physical and financial phasing, the status of a feasibility study, and project objectives, plan, and sector strategy linkages.	
+ii. Part B is Project Requirement, which includes project scope, employment generation, management structure and manpower requirements, the status of surveying and mapping and land acquisition activities, and responsibility of operation and maintenance of project assets after project completion.	
+iii. Part C is Appraisal and Analysis, which needs information on project quantifiable benefits (financial, economic, social), revenue or income generation after project completion, financial and economic analysis and results, sensitivity and risk analysis, stakeholder consultation analysis, environmental and social impact assessment (including climate change and Clean Development Mechanism (CDM) assessment), and disaster reduction analysis. Only the Project Digest (with additional information) is required to be submitted for the revised projects.	
+
+2.38	 There are additional proformas for preparing project summary for the ECNEC and working paper for the CDWP, for both new and revised projects.
+
+2.39	 The following attachments are required to be annexed to the PC-I:
+i. Certificate regarding the conduct of feasibility study wherever applicable, which must include technical/reference design, bill of quantities, etc.	
+ii. Environment Impact Assessment.
+iii. Questionnaire for an assessment of the CDM potential in public sector projects.  
+iv. CDM eligibility test for assessment and identification of a project in the public sector.
+v. Checklist for disaster risk reduction.
+
+2.40	 After preparation of the PC-I, the PAO signs the PC-I/PC-II certifying that “the project proposal has been prepared on the basis of instructions provided by the Planning Commission for the preparation of the PC-I of the concerned sector projects”. Thereafter, the PC-I or PC-II is to be submitted to the PIA Section of the planning commission, which circulates it to the members concerned of the CDWP, including the technical section concerned for their review and appraisal. (The appraisal process has been addressed in the following chapter.) The PC-I proforma, along with detailed instructions are available on the Planning Commission’s website and placed in  Annexure 6(www.pc.gov.pk).
+
+
+32 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+KEY COMPONENTS OF PC-I
+ 
+2.41	The PC-I preparation requires a large amount of data collection and analysis. It is important that the required information is prepared and entered in the PC-I proforma with due care and diligence to avoid repeated revisions during the project appraisal, review, and approval stages. The key components of the PC-I are discussed in the following sections.	
+
+Project Objective
+  
+2.42	Every project must have a project development objective along with inputs, outputs, and outcomes (the results chain), project components and activities to be implemented within a specific time and cost, along with a monitoring framework. While preparing a project, it is important that the project’s objective(s) must be aligned with the objectives, goals and targets set out in the currently operative perspective growth strategy, Five-Year Plan or Annual Plan. The project must have a clear linkage with the economic development policies of the government, including the relevant sector policies, strategies, and master plans (as applicable). The project objectives should be linked to the SDGs indicating the specific Goals, being addressed by the project. A relationship of the proposed project and its specific contribution (in quantifiable terms) with other projects (completed or ongoing) in the same sector or sub-sector, must be highlighted in the project document.
+
+Project Description
+ 
+2.43	 The description of a project should provide information about its key features, components (both hard and soft) and technical aspects. It should also include its justification and rationale, in addition to a brief account of similar interventions, any feasibility study, and relevant government policies, sector strategy, and plans of the past. The technology proposed to be adopted for the project and the source of supply of machinery and equipment should also be mentioned. It should also be stated whether the project output would be used for import substitution, for export promotion or for meeting the increased domestic demand or a combination of these.
+ 
+Project Location
+ 
+2.44	Regarding project location, due consideration should be given to the area and population to be served by the project, the economic, environmental, and social characteristics of the project area, and the income and other attributes of the beneficiary population. The location analysis should include the following:
+i. The rationale for the selection of a proposed project	
+ii. Place and administrative district where the project is located.
+iii. Geographic Information System-based map(s) of the project area with the area with the Global Positioning System coordinates.
+iv. Reasons for selection of location (Many projects have suffered tremendously in the past due to improper site selection done in haste. It results in cost overruns and delays in project completion. Project implementation also suffers due to delay in land acquisition. Therefore, the availability of land needs to be assured as part of the site selection process. In selecting the location, area, and population to be served by the project, the income and social characteristics of the population need to be assessed. Similarly, the economic characteristics of the area i.e., present facilities and availability of inputs and regional development needs need to be considered.).
+v. Availability of land and other physical inputs needed for the project.  
+vi. In the case of mega projects and water sector projects, a separate PC-I for land acquisition should be prepared, if required.
+vii. In case of projects involving the provision of buildings, plans (including architectural drawings) prepared by a licensed engineer/architect should be attached to the PC-I.  
+viii. The social and environmental impacts of the project, including climate change.
+
+
+
+33 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+Project Scope 
+
+2.45	 The sponsoring agency should ensure that the project scope includes only the project requirements necessary to achieve the envisaged objective. The scope of the project must be clearly mentioned. While presenting it, the sponsors should indicate, in quantitative terms, the proposed facilities and services, which would result from its implementation. In addition, the project sponsor should provide information on:
+i. Demand for project output, with its basis.
+ii. Existing position regarding capacity and actual supply of output.
+iii. The gap that the project is going to fill between supply and demand.
+
+CHANGE IN PROJECT SCOPE 
+
+2.46	 Once approved, the executing agency is required to implement the project in accordance with the PC-I provisions. It has no authority to change or modify any approved parameter of the project. If the project executing agency determines (based on detailed justification) that the project cannot be implemented under the approved parameters and it requires revision of scope, physical components or financial allocation, a revised PC-I must be submitted to the competent forum for approval. No expenditure may be incurred beyond the approved scope and cost of the project, and if it is done, it will be considered as an inadmissible and illegal expenditure.
+
+Inventory of Machinery and Equipment 
+
+2.47	 All proposals for the procurement of machinery and equipment by the government departments or agencies should be accompanied by an inventory of the existing pool of the machinery and equipment held by them. For example, whenever a provision of a new vehicle is made in a development project, the ministry, department, or agency concerned should furnish a supporting document, a complete inventory of the existing vehicles both on the development and recurring side, along with their date of purchase, to justify the purchase of new vehicles.
+
+
+34 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Project Cost 
+
+2.48	 The cost estimates of a project must be prepared with due care and diligence so that these only require revision on an exceptional basis and project implementation is not delayed due to the non-availability of funds. Besides, the cost debitable to the development budget must be distinguished from the cost debitable to the revenue budget. The Pakistani Rupee (PKR) equivalent of the Foreign Exchange Component (FEC) of projects should be worked out based on the ‘Bank Floating Average Exchange Rate’ of the relevant currency as shown on the website of the State Bank of Pakistan (SBP) for the month preceding the one in which the PC-I and PC-II were submitted to the Planning Commission (Planning Commission,’ Conversion of Foreign Exchange Component of Development Projects in Pak Rupee’, Notification No.4(1) PIP/ PC/2013-14, Islamabad, dated 24 October 2013.) (Annexure 7).
+
+2.49	 The following guidelines for cost estimation will generally apply to all projects:
+i. Total cost of the project with local component and FEC (loan/grant) (Indicate source and rate of exchange -PKR vis-à-vis USD.)
+ii. Item-wise breakup of the total cost (Rs. in million)
+iii. Unit cost (attach specifications)
+iv. Comparison of the unit cost of the project with other similar projects of the sector/area (in case of variations, detailed reasons/justification be given for cost estimation) using Composite Schedule of Rates (CSR), Schedule of Revised Rates (SRR).
+v. Date of preparation of cost estimates (Indicate if these are still valid).
+vi. The cost of imported items available in the local market must be reflected in
+the local component and not in the FEC component.
+vii. Annual Operating and Maintenance (O&M) cost after completion of the project
+
+2.50	 The PC-I must also clearly show the component- and item-wise annual breakdown of the costs over the project period as shown in the table below.
+
+Table 7: Item wise Breakdown of Project Cost by Year
+Item
+i. Year 1
+    1. Total 
+    2. Local
+    3. FEC
+ii.Year 2
+    1. Total
+    2. Local
+    3. FEC
+iii.Year 3
+    1.  Total
+    2.  Local
+    3.  FEC
+ 
+
+REVISED PROJECT COST
+
+2.51	 The cost estimates must be prepared, which should be based on the current market survey, updated schedule of rates and pre-tender quotation rather than using across board premium. The Planning Commission will constitute a committee comprising of representation from Finance, Planning, and national building /executing departments to develop a uniform single standardized schedule of rates, updated quarterly like MRS Punjab, substituting existing several schedules or rates by Pak PWD, MES, NHA etc. for goods/works/services to be procured for development projects by all federal entities. The project cost may need a revision because of certain factors, which also include a change in scope during implementation and cost overruns. In case of revision of the project, detailed justification for changes in scope and cost must be provided separately. Instructions of the ECNEC about project cost revision are presented in Box 1.
+
+35 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+PROJECT FINANCING  
+
+2.52	 The sponsoring agency provides a detailed justification (for example, public good, market failure, social protection, etc.) why the project cannot be implemented in the private sector or on the PPP basis – in case the project is proposed to be financed through the public sector. The sponsoring agency then develops and presents a financial plan of the project in the PC-I. The sources of project funding need to be presented in clear and specific terms so that there remains no ambiguity or confusion regarding the financing plan. In case, a foreign agency is committed to financing the project either partly or fully, the name of the agency with the amount of foreign exchange and local currency committed, is to be mentioned in the PC-I. The source and amount of funding should be described as follows:
+
+Table 8: Describing the Source and Amount of Funding in PC-I
+
+Source of Funding
+1.Equity
+Description
+Indicate the amount of equity to be financed from the applicable source/s:
+•  Public Secotr: Sponsor's own resources, Federal or Provinical Government
+•  Private sector: Foreign,domestic
+•  Public-Private Partnership
+•  General public
+•  Foreign equity (indicate partner agency)
+•  NGOs/beneficiaries
+•  Other
+Attach date and decision of the Concept Clearance Committee with a copy of minutes or decision annexed.
+
+Source Funding
+2.Debt 
+Description
+•  Indicate the local and/or foreign loan.
+•  Interest rate,grace period and repayment period for each loan separately.
+•  The loan repayment schedule must be also annexed.
+•  Attach the Economic Affairs Confirmation in case of Foreign loan.
+
+Source Funding
+3.Grants along with source 
+Description
+Attach the Economic Affairs Confirmation in case of foreign grant
+
+Source Funding
+4.Weighted Average Cost of Capital(WACC)
+Description
+WACC is calculated by multiplying the cost of each capital source(debt and equity) by its relevant weight,and then adding the products together to determine the value.
+
+36 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Box 1 – Revision of Project and Cost Estimates(Planning and Development Division, ‘Submission of Revised Schemes when Cost Exceeds beyond 15 percent Permissible Limit for 
+Original Approved Schemes’, Notification No. 20(40) PIA/PC/2005, Islamabad, dated 26 May 2007.)
+• As per ECNEC no expenditure should be made beyond the approved cost of the project. Instructions have separately been issued under Cabinet Division circular (Cabinet Division Notification No.5/CF/75 Rawalpindi, dated 16 July 1975 (Annexure 40)) d.o. letter No. 5/CF/75 dated 7 May 1975 requiring the executing agencies to start preparing the revised scheme immediately when it was known that the cost of the scheme is going to rise beyond the permissible limit of 15 percent. The ECNEC, at its meeting held on 29-12-1974, approved the following procedure for obtaining fresh approval of a development scheme in case its cost increased by more than 15 percent of the originally approved cost.
+• “If the total estimated cost, as sanctioned increases by a margin of 15 percent or more, or if any significant variation in the nature or scope of the project has been made, irrespective of whether it involves an increased outlay, the approval of the ECNEC/competent authority shall be obtained in the same manner as in the case of the original scheme without delay. Permission of 15 percent given by the ECNEC is in respect of the original cost and not the revised cost of the scheme.”(Planning and Development Division Notification No. 20(1)DA/PC/79-Vol.XIV, Islamabad, dated 22 June 1980. Annexure 41)
+• It is considered that no difficulty should be experienced in this regard, as PC-III forms (quarterly progress report) are prepared in respect of all such schemes.
+• Columns 6 and 7 of the PC-III forms, which indicate the percentages of physical completion and financial expenditure are relevant. The two percentages have close relationship. If the percentages of financial expenditure exceed percentage of physical work by more than 15 percent, it is an enough indication to show that the cost of the project would go beyond the approved cost. As soon as this indication is visible the executing agency should immediately start work on revising the scheme without stopping the actual work. In exceptional cases, where the revised scheme cannot be prepared in time, recourse could be taken to obtaining anticipatory approval of the Chairman Executing Committee of the National Economic Council, following the procedure outlined in Cabinet Division circular letter.
+• A preliminary stage when the possibility of revision of cost becomes clear is when the project is to be implemented through a few major contracts and the bids received in response to tenders make it obvious that the sanctioned cost will be exceeded.
+
+2.53	 The economic aspects of a proposed project or programme have a direct bearing on the development of the economy through the backward and forward linkages. The economic benefits of projects can enhance production, as well as employment, and increase the value of output due to quality improvement or other factors. The benefits can also be accrued from reductions in cost or gains with the mechanization of the production process, decreasing distribution costs and avoiding losses. In the social sector projects, benefits can be gathered by increasing productivity and earning capacity through improvements in health, education, and skills. In the infrastructure projects like transport, benefits can be accumulated with savings in travel time, vehicle operating costs, accident reduction and on account of new development activity. Projects also have some intangible benefits, like better income distribution, national integration, national defence or better quality of life of the rural population, especially in the far-flung and backward areas. The benefits because of the project and its interventions must be clearly spelt out and quantified as much as possible.
+
+37 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Project Scheduling  
+
+2.54	 The project implementation schedule must be developed using an appropriate analytical tool such as Bar Charts, Project Evaluation and Review Techniques (PERT), Critical Path Method (CPM). These should be incorporated in the PC-I and other project documents. It may be prudent to use software applications available in the market for this purpose.
+ 
+Financial Phasing
+
+2.55	 The financial phasing of a project is to be given for each fiscal year, related to the physical work proposed to be undertaken, keeping in view the implementation of similar projects in the past. It should be as realistic as far as possible. The fund’s utilization capacity of the executing agency must be kept in view while determining the financial phasing of the project. Physical phasing/implementation plan of major items/deliverables may be provided, and financial phasing should be derived from it.
+
+Table 9: Financial Phasing of Project Costs
+Items   
+Units
+Year-1
+Year-2
+Year-3
+
+Physical Scheduling of Activities
+
+2.56	The scheduling of activities and the availability of physical facilities are interlinked with the completion period. The availability of physical facilities, for example, access road, power supply, water, gas, telephone and other utilities, education facilities, housing, etc., must be ensured. The sponsoring agency has also to indicate separately what facilities would be available from the project itself and to what extent these would be available from the public utilities. The scope of work to be carried out should be investigated thoroughly to facilitate physical and financial phasing as well as supervision. The Work Breakdown Structures (WBS) and Logic Framework Analysis (LFA) and similar management tools must be used to conduct the physical scheduling of activities. It may be prudent to use software applications available in the market for this purpose.
+
+
+38 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+Project Implementation Period 
+
+2.57	Time calculated for completion of the project must be realistic. The figure below represents factors that need to be considered in estimating the project implementation period:
+
+Figure 15: Important Considerations for the Project Implementation Period
+1. Total allocation made in the Five-Year Plan.
+2. Expected allocations in the PSDP, keeping in view past experience.
+3.  Time to be taken in preparing the detailed design(s), the invitation of tenders, and award of contract(s).
+4. Availability of land, and time taken in its acquisition.
+5. Time to be taken in land development keeping in view its topography and construction of an access road.
+6. Availability of professional and technical manpower and plan for acquisition of human resources.
+7. Availability of materials, supplies and equipment, efforts should be made to prepare a project procurement strategy/plan and supply chain management plan.
+8. Risks in project implementation with a risk management plan.
+
+EXTENSION IN IMPLEMENTATION PERIOD
+
+2.58	The guidelines for extension in the execution period of development projects are given below, but these will be subject to ‘no change in scope and cost of the project(s)’(Planning Commission, ‘Extension in Execution of Development Projects’, Notification No. 23(1-DDWP)/PIAI/PC/2017 dated 15 March 2019.) (Annexure 8).
+i. The PAO of the sponsoring/executing agency may grant time extension in the execution period of the project till the closing of the fiscal year, twice in a project’s life, irrespective of the approving forums.
+ii. In case of further extension, the provincial and special areas Development Working Party will be empowered to grant time extension based on reasons of delay in execution, irrespective of approving forums.
+iii. In the case of the federally administered development projects, further extension in the execution period will be granted by the DDWP of the ministry/ division concerned based on reasons of delay in execution, irrespective of the approving forums.
+iv. In the case where there is no DDWP, the matter for further time extension will be presented to the division/chairman office concerned and a committee headed by the federal secretary/chairman comprising representatives from the Planning Commission and Finance Division, an officer not below the rank of BS-19, will review and grant time extension based on reasons for the delay in execution, irrespective of the approving forums, if required.
+v. In the case of foreign-aided projects, consent of the donor/sponsor will be compulsory in coordination with the EAD before processing the case for a time extension.
+
+
+39 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+INTER-AGENCY COORDINATION AND STAKEHOLDER CONSULTATION 
+
+2.59	 -To avoid duplication of efforts and ensure effective implementation of the proposed project, all the relevant data should be obtained, and the agencies concerned consulted.
+Box 2 below represents the case of a health scheme.
+Box 2 – Example of Inter-agency Coordination in a Health Scheme
+The following information should be obtained and reflected in the project:
+i. Public and private sector institutions in the area, their staff, equipment, and the number of persons served by them,
+ii. Population of the area, 
+iii. Economic characteristics of the persons who are being provided service,
+iv. Morbidity and incidence of epidemics during the last five years or so,
+v. Clearance from relevant authorities.	
+
+2.60	 The inter-agency coordination is also necessary for the availability of utilities, such as water and power supply, education facilities and housing. For example, before an industrial scheme sponsored by the Production Division is undertaken, it is critically important that the clearance of the relevant agency concerned is obtained for the availability of water supply and other utilities. As decided by the NEC in its meeting held on the 4th of July 1988, the project document should clearly indicate the coordination required with the other agencies to facilitate project implementation.
+
+40 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+PROJECT MANAGEMENT STRUCTURE
+
+Figure 16: Project Management Structure- Part A
+"
+1. The project management structure needs to be elaborated in detail in the relevant section of PC-I. ECNEC recommends updating the PMUs through the PC-I, where these exist and have already been working.
+2. For a separate PMU, the staff requirement with the mode of appointment, salary package, detailed ToRs of each position, requirement of accommodation, office equipment and vehicles should be provided with cost and full justification.
+3. As per the ToRs for consultants (local or foreign), the consultancy proposal must provide a realistic implementation schedule supported by a Bar Chart, CPM, PERT, WBS, LFA, etc.
+4. As per ECNEC, all main ministries and departments will establish dedicated Project Planning and Development Units (PPDUs) with appropriate human resource capacity to develop project documents and facilitate project deliverables
+
+RECOMMENDED MODEL OF PPDU STAFFING
+Economist
+Project appraisal specialist
+M&E expert
+Project management specialist
+Financial management specialist
+Legal expert
+Environment specialist
+Procurement expert
+MIS specialist
+Social sector specialist
+
+ECNEC'S LIST OF IDENTIFIED MINISTRIES AND DEPARTMENTS THAT MUST HAVE
+A PPDU
+
+FEDERAL LEVEL
+-Ministry of Energy
+-Ministry of Water Resources
+-Ministry of Communication
+-Ministry of Railways
+-Federal Education and Professional Training
+-National Health Services, Regulations and Coordination
+-Higher Education Commission
+-Housing and Works Division
+-Ministry of Science and Technology
+-Ministry of Interior
+-Ministry of Information Technology and Telecommunication
+-Ministry of Climate Change
+-Ministry of National Food Security
+
+PROVINCIAL LEVEL
+-Agriculture Department
+-Irrigation Department
+-Rural and Urban Development Department
+-Communication and Works Department
+-Energy/Power Departments
+-Health Department
+-Livestock and Dairy Development Department
+-Social Development Department
+"
+
+41 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+
+Figure 17: Project Management Structure- Part B
+"
+5. The establishment of the Shared Services Units (SSUs), particularly in the provincial P&D departments, can help to mitigate the risk of initial delays caused by staffing issues in new projects. An SSU will carry out procurements and expedite project implementation, as needed.
+6. The ECNEC further approved the nomination of focal persons by the provincial P&D departments to coordinate with the Planning Commission to help expedite the provincial schemes
+7. The Planning Commission will reactivate and strengthen PPMI, which will carry out capacity-building and play an advisory role in the project management and developing partnerships with the implementing agencies.
+
+PMU ESTABLISHMENT PROCESS FOR MEGA PROJECTS (> RS. 3 BILLION; FOREIGNFUNDED AND PSDP)
+
+1. Process for the establishment of a PMU and hiring of an independent Project Director (PD) should start soon after concept clearance
+2. This should run parallel to the approval process of PC-I
+3. The PD must be appointed no later than one month after approval of the PC-I
+"
+
+APPOINTMENT OF CONSULTANTS FOR PROJECT PREPARATION 
+
+2.61	In case local expertise is not available, foreign experts or consultants can be employed to prepare projects, which are technically and economically viable. Efforts are being made to develop local consultancy capacity, but in the case of large or sophisticated projects involving new technology, foreign consultants are usually needed. Most of the large projects in Pakistan are foreign-aided and foreign consultants may not be excluded from participation in providing the requisite services. However, the government, to give preference to the local consultants, has decided that the Pakistani consultants and engineers be given the full opportunity, and they should be the first to be hired for projects for consultancies in Pakistan before hiring any foreigners. The decision of the ECC for a minimum of 30 percent award of a consultancy contract to local consultants may be strictly enforced. (Prime Minister’s Order dated 7 November 1993).
+ 
+REQUIREMENTS FOR SUBMISSION OF PC-I IN PLANNING COMMISSION 
+
+2.62	 The following are the specific requirements for submission of the PC-I.	 (Ranging from i-xxvi covering pages from 41's end till 43)
+i. All PC-Is must be signed by the chairmen P&D boards, additional chief secretaries (Development) in case of the provincial and special areas’ projects, and federal secretaries/PAOs in case of the federal project.
+ii. The provincial and special areas projects, requiring federal financing from the PSDP (fully or partially) irrespective of the cost, will be sent to the Planning Commission for consideration of the CDWP, and if required, by the ECNEC.
+iii. For the provincial and special areas projects, to be financed either fully or partially by the federal government, the land will be provided free-of-cost by the provincial or special areas’ governments.
+iv. The P&D boards/departments of the provincial and special areas, where necessary, will recommend a scheme for approval of the CDWP and ECNEC after approval from PDWP/special areas DWP. No schemes will be sent to the federal government directly by the provincial departments.
+v. The provincial projects, funded from the provincial governments’ resources, and where no federal assets are utilized, or federal liability generated are to be approved by respective PDWP. Projects where water distribution issues are involved, or the Indus River System Authority (IRSA) certificate is required are an exception to this.
+vi. In the case of the provincial and special areas schemes submitted to the federal government and central schemes, copies thereof should be sent simultaneously to the central administrative ministry and the Planning Commission.
+vii. For seeking foreign assistance for the federal or provincial projects (loan/grant), the requirement of concept clearance from the Concept Clearance Committee (CCC) will be strictly adhered to. After the firm commitment of availability of foreign assistance from a donor through the EAD, the PC-I (along with the feasibility study, PAD, and draft loan/grant agreement), will be forwarded to the Planning Commission for consideration of the CDWP/ECNEC. The EAD will verify the availability of foreign assistance. 
+viii. The objectives and outcomes of the project will be clearly mentioned in the PC-I and II. Without detailed designing of civil work and item-wise cost the PC-I will not be processed.
+ix. To minimize and avoid payment of commitment charges, the loan agreement should only be signed after approval of the PC-I and completing all other code formalities.
+x. For foreign-aided projects, land availability will be ensured by the sponsoring/ executing agency before signing an agreement with donors. 
+xi. In the case of a foreign-funded project, the name of the agency and amount of foreign exchange and local currency committed is to be mentioned in the PC-I. Similarly, the source and amount of rupee component should be indicated as government sources, that is, grant, loan, equity, etc.
+xii. The objectives of the project must be clearly indicated preferably in quantitative terms and linked with the five-year-plan targets and growth strategy of the sector.
+xiii. Detailed designing of civil work, including BoQs and location map, will be mandatory in the PC-I.
+xiv. The feasibility study should be based on historical as well as current data. Any study – older than three years – will not be accepted by the Planning Commission.
+xv. Location analysis should be carried out scientifically.
+xvi. Result Based Management (RBM) indicators, that is, input, output, outcome, and impact should be clearly indicated in the PC-Is.
+xvii. Costing of the project should be based on realistic and justified market prices indicating quantities and unit values.
+xviii. Escalation charges, maximum up to 6.5 percent per annum of the base cost, will be allowed based on justification from the 2nd year of the project.
+xix. Contingencies charges, maximum up to three percent of the base cost, will be allowed based on justification. However, in the case of the revised PC-I, the number of contingencies will be capped at the originally approved amount.
+xx. The sustainability aspect (O&M cost) of the project will be discussed and addressed with a proper mechanism in the PC-I.
+xxi. The Project Management Unit (PMU) will be set up with well-defined roles, including TORs of the PD, consultants/experts, and appointment terms with salary structures.
+xxii. The Project Implementation Plan, covering both yearly physical and financial plan, will be clearly indicated in the PC-I.
+xxiii. In case of revised projects, original and revised scope of work completed and to be done should be stated with item-wise quantities and expenditures. Reasons for revision should also be given along with justification.
+xxiv. In the case of the 2nd revised PC-I, an inquiry report by the head of sponsoring agency identifying the reason and responsibility for the inability to complete the project after the 1st revision will be attached with the 2nd revised PC-I.
+xxv. Appraisal of submitted PC-I/II will be made simultaneously by all the members. The technical section will coordinate the compilation of comments from all concerned and incorporate these in the working paper, which will be discussed in the PDWP or CDWP meeting.
+xxvi. While preparing projects and development portfolio ensure compliance to Sections 13 through 17 of the Public Finance Management Act, 2019. Project preparation commences with approval PCN.
+
+Checklist for PC-I  
+
+2.63	 Below is the checklist, which must be ensured before submission of the PC-I for processing at the Planning Commission.
+Table 10: Checklist for PC-I
+
+44 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+
+ROLE OF DEVELOPMENT WINGS OF LINE MINISTRIES/DIVISIONS 
+
+2.64	 Development Wings in Line Ministries are established in the line ministries of the federal government to facilitate interaction amongst Principal Accounting Officers (PAOs), Planning Commission (Technical Sections, CDWP, APCC and other meetings), Finance Division, AGPR, Project Directors, and other important stakeholders involved in the development process. These wings play an important role in all stages of the project cycle i.e. project identification, feasibility, implementation, closure and evaluation. They also perform role as a secretariat of DDWPs, where projects upto Rs. 2000 million are submitted for the approval. These development wings shall be strengthened and where the Project Management and Evaluation cells exists, those shall be raised to wing level by posting the professional staff from M/o PD&SI.   
+
+
+45 | CHAPTER 2: PROJECT IDENTIFICATION AND PREPARATION
+	
+
+STANDARD FUNCTIONS OF THE DEVELOPMENT WINGS IN LINE MINISTRIES 
+
+1. Coordination with all the concerned Departments/ stakeholders for preparation of Annual Plan, Five Year Plan, Pakistan Economic Survey, and material for Yearbook.
+2. Maintain the record of PC-IV and submission of the PC-IV and PC-V to M/o PlanningDevelopment & Special Initiatives.
+3. Update the information of PSDP Projects on the website of line ministries if directed by PAOs.  
+4. Assist the Project Directors/PMU in the matters of Appropriation/Reappropriation of Accounts of PSDP funded Projects.        
+5. Monitoring of PSDP funded projects and verification of monthly reports on the Project Monitoring & Evaluation System (PMES).
+6. Assist the Project Directors/PMU in preparation and submission of New Item Statements (NIS) / Budget Orders (BO) of PSDP projects in the Planning, Development & Special Initiatives and Finance Divisions.
+7. Assistance in preparation of PC-Is for all proposed PSDP funded projects of Concerned Division and releases/authorization of funds.
+8. Coordination in administration matters and implementation of all PSDP funded projects of Concerned Division.
+9. Coordination with all the concerned line Ministries/ Departments/ stakeholders for approval of PC-Is by the approving fora i.e, DDWP/CDWP/ECNEC.
+10. Technical input / preliminary appraisal in process of PC-Is preparation before submitting to relevant competent fora for consideration/approval.
+11. Implementation in letter & Spirit the Project Management Policy and ECNEC Guidelines of Project Management notified by Planning Commission.
+12. Preparation of briefs for the APCC, DDWP, CDWP, ECNEC meeting.	
+  
+STANDARD WORK PROCEDURE AT DEVELOPMENT WING 
+
+1. Project is identified. Such identification can be done by a range of entities like:
+a. Development Wing under the guidance of Annual Plan, Five-year Plan Documents.   These are plans made by the Planning Commission to give sectoral priorities and ideas for future projects.
+b. Executing Agencies
+c. Companies/ Attached Departments under Line Ministries
+2. Project is submitted by either of the agencies mentioned above to the Development Wing of concerned Ministries to be presented to the relevant forum.  
+a. If project amount is less than or equal to Rs. 2,000 million, Development Wing will present the project to DDWP, chaired by PAO of line ministry.  
+b. If project amount is less than or equal to Rs. 10 billion, Development Wing will present the project to CDWP, chaired by Deputy Chairman Planning Commission.  
+c. If project amount is greater than Rs. 10 billion, Development Wing will present the project to CDWP which will then forward the case to ECNEC.  
+3. On receiving the project, the Development Wing peruses each component of the PC-I document and identifies any observations/issues/duplication/missing documents/ erroneous data etc. In case of any issues, the Development Wing sends the PC-I back to the agency for revision.
+4. The PC-I documents with no issues are put up for approval of the Secretary to be presented to relevant forum.
+5. On approval, focal person of the Ministry/Department uploads PC-I on iPAS for further processing. In case of DDWP level project PC-I circulated by the DDWP Secretariate to all members as per approved composition of DDWP. In case of project to be considered by  CDWP the focal person of Ministry/Department will forward the PC-I to PIA section of M/o PD&SI through iPAS for further processing.
+
